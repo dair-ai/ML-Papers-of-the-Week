@@ -1,14 +1,14 @@
 # **ML Papers of The Week**
 
-Highlighting top ML papers of the week.
+Highlighting top ML papers every week.
 
 ![My Image](pics/Week-1.png)
 
 ## Top ML Papers of the Week (Jan 1-8)
 
-| **Paper / Project**  | **Link** |
+| **Paper**  | **Links** |
 | ------------- | ------------- |
-| 1. **Muse: Text-To-Image Generation via Masked Generative Transformers** -- GoogleAI introduces Muse, a new text-to-image generation model based on masked generative transformers; significantly more efficient than other diffusion models like Imagen and DALLE-2.  | [Paper](https://arxiv.org/abs/2301.00704) , [Project](https://muse-model.github.io/), [Code](https://github.com/lucidrains/muse-maskgit-pytorch)|
+| 1. **Muse: Text-To-Image Generation via Masked Generative Transformers** -- GoogleAI introduces Muse, a new text-to-image generation model based on masked generative transformers; significantly more efficient than other diffusion models like Imagen and DALLE-2.  | [Paper](https://arxiv.org/abs/2301.00704), [Project](https://muse-model.github.io/), [Code](https://github.com/lucidrains/muse-maskgit-pytorch), [Tweet](https://twitter.com/dair_ai/status/1612153095772938241?s=20&t=ChwZWzSmoRlZKnD54fsV6w)|
 | 2. **VALL-E Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** -- Microsoft introduces VALL-E, a text-to-audio model that performs state-of-the-art zero-shot performance; the text-to-speech synthesis task is treated as a conditional language modeling task:  | [Project](https://valle-demo.github.io/) |
 | 3. **Rethinking with Retrieval: Faithful Large Language Model Inference** -- A new paper shows the potential of enhancing LLMs by retrieving relevant external knowledge based on decomposed reasoning steps obtained through chain-of-thought prompting.  | [Paper](https://arxiv.org/abs/2301.00303) |
 | 4. **SPARSEGPT: Massive Language Models Can Be Accurately Pruned In One-Shot** -- Presents a technique for compressing large language models while not sacrificing performance; "pruned to at least 50% sparsity in one-shot, without any retraining."  | [Paper](https://arxiv.org/pdf/2301.00774.pdf)  |
