@@ -23,15 +23,15 @@ Highlighting top ML papers of the week.
           - https://arxiv.org/abs/2301.01379
 
 # **ML-Papers-of-the-Week**
-***Highlighting top ML papers of the week.***
+**Highlighting top ML papers of the week.**
 **Top ML Papers of the Week (Jan 1-8):**
 
 | **Paper**  | **Link** |
 | ------------- |      :---:       |
-| 1. GoogleAI introduces Muse, a new text-to-image generation model based on masked generative transformers; significantly more efficient than other diffusion models like Imagen and DALLE-2.  | [Paper].(https://arxiv.org/abs/2301.00704)  |
-| Microsoft introduces VALL-E, a text-to-audio model that performs state-of-the-art zero-shot performance; the text-to-speech synthesis task is treated as a conditional language modeling task:  | https://valle-demo.github.io/ |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1. GoogleAI introduces Muse, a new text-to-image generation model based on masked generative transformers; significantly more efficient than other diffusion models like Imagen and DALLE-2.  | [Paper](https://arxiv.org/abs/2301.00704) |
+| 2. Microsoft introduces VALL-E, a text-to-audio model that performs state-of-the-art zero-shot performance; the text-to-speech synthesis task is treated as a conditional language modeling task:  | https://valle-demo.github.io/ |
+| 3. A new paper shows the potential of enhancing LLMs by retrieving relevant external knowledge based on decomposed reasoning steps obtained through chain-of-thought prompting.  | https://arxiv.org/abs/2301.00303 |
+| 4. Presents a technique for compressing large language models while not sacrificing performance; "pruned to at least 50% sparsity in one-shot, without any retraining."  | https://arxiv.org/pdf/2301.00774.pdf  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
