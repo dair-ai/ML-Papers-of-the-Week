@@ -1,6 +1,9 @@
 # **ML-Papers-of-the-Week**
 ### Highlighting top ML papers of the week. Top ML Papers of the Week (Jan 1-8):
 
+![My Image](/images/my-image.jpg)
+
+
 | **Paper / Project**  | **Link** |
 | ------------- | ------------- |
 | 1. **Muse: Text-To-Image Generation via Masked Generative Transformers** -- GoogleAI introduces Muse, a new text-to-image generation model based on masked generative transformers; significantly more efficient than other diffusion models like Imagen and DALLE-2.  | [Paper](https://arxiv.org/abs/2301.00704) [Project](https://muse-model.github.io/)|
