@@ -26,7 +26,7 @@ Highlighting top ML papers of the week.
 **Highlighting top ML papers of the week.**
 **Top ML Papers of the Week (Jan 1-8):**
 
-| **Paper**  | **Link** |
+| **Paper / Project**  | **Link** |
 | ------------- |      :---:       |
 | 1. GoogleAI introduces Muse, a new text-to-image generation model based on masked generative transformers; significantly more efficient than other diffusion models like Imagen and DALLE-2.  | [Paper](https://arxiv.org/abs/2301.00704) [Project](https://muse-model.github.io/)|
 | 2. Microsoft introduces VALL-E, a text-to-audio model that performs state-of-the-art zero-shot performance; the text-to-speech synthesis task is treated as a conditional language modeling task:  | [Project](https://valle-demo.github.io/) |
