@@ -1,8 +1,10 @@
-# **ML-Papers-of-the-Week**
-### Highlighting top ML papers of the week. Top ML Papers of the Week (Jan 1-8):
+# **ML Papers of The Week**
 
-![My Image](/images/my-image.jpg)
+Highlighting top ML papers of the week.
 
+![My Image](pics/Week-1.png)
+
+## Top ML Papers of the Week (Jan 1-8)
 
 | **Paper / Project**  | **Link** |
 | ------------- | ------------- |
