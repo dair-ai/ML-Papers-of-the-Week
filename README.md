@@ -37,4 +37,4 @@ Highlighting top ML papers of the week.
 | 7. This work aims to better understand how deep learning models overfit or memorize examples; interesting phenomena observed; important work toward a mechanistic theory of memorization.  | [Paper](https://transformer-circuits.pub/2023/toy-double-descent/index.html)  |
 | 8. StitchNet: Interesting idea to create new coherent neural networks by reusing pretrained fragments of existing NNs. Not straightforward but there is potential in terms of efficiently reusing learned knowledge in pre-trained networks for complex tasks.  | [Paper](https://arxiv.org/abs/2301.01947)  |
 | 9. Proposes integrated decomposition, an approach to improve Science Q&A through a human-in-the-loop workflow for refining compositional LM programs.  | [Paper](https://arxiv.org/abs/2301.01751)  |
-| 10. A Succinct Summary of Reinforcement Learning. A nice little overview of some important ideas in RL.  | [Content Cell](https://arxiv.org/abs/2301.01379)  |
+| 10. A Succinct Summary of Reinforcement Learning. A nice little overview of some important ideas in RL.  | [Paper](https://arxiv.org/abs/2301.01379)  |
