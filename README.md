@@ -1,6 +1,6 @@
 # **ML Papers of The Week**
 
-Highlighting top ML papers every week.
+We ❤️ reading ML paper so we have created this repo top ML papers every week.
 
 ![My Image](pics/Week-1.png)
 
