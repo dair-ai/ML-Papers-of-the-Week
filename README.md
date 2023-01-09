@@ -18,3 +18,6 @@ We ❤️ reading ML papers so we have created this repo to highlight our top ML
 | 8. **StitchNet: Composing Neural Networks from Pre-Trained Fragments** -- StitchNet: Interesting idea to create new coherent neural networks by reusing pretrained fragments of existing NNs. Not straightforward but there is potential in terms of efficiently reusing learned knowledge in pre-trained networks for complex tasks.  | [Paper](https://arxiv.org/abs/2301.01947), [Tweet](https://twitter.com/dair_ai/status/1612153110452903936?s=20&t=ChwZWzSmoRlZKnD54fsV6w)  |
 | 9. **Iterated Decomposition: Improving Science Q&A by Supervising Reasoning Processes** -- Proposes integrated decomposition, an approach to improve Science Q&A through a human-in-the-loop workflow for refining compositional LM programs.  | [Paper](https://arxiv.org/abs/2301.01751), [Code](https://github.com/oughtinc/ice) [Tweet](https://twitter.com/dair_ai/status/1612153112638402562?s=20&t=ChwZWzSmoRlZKnD54fsV6w)  |
 | 10. **A Succinct Summary of Reinforcement Learning** -- A nice little overview of some important ideas in RL.  | [Paper](https://arxiv.org/abs/2301.01379), [Tweet](https://twitter.com/dair_ai/status/1612153114773053446?s=20&t=ChwZWzSmoRlZKnD54fsV6w)  |
+
+---
+We use a combination of AI powered tools, analytics, and human curation to pick the papers.  
