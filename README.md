@@ -20,4 +20,6 @@ We ❤️ reading ML papers so we have created this repo to highlight the top ML
 | 10) **A Succinct Summary of Reinforcement Learning** -- A nice little overview of some important ideas in RL.  | [Paper](https://arxiv.org/abs/2301.01379), [Tweet](https://twitter.com/dair_ai/status/1612153114773053446?s=20&t=ChwZWzSmoRlZKnD54fsV6w)  |
 
 ---
+[Subscribe to our newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends. 
+
 We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
