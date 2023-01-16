@@ -2,6 +2,8 @@
 
 We ❤️ reading ML papers so we have created this repo to highlight the top ML papers for every week.
 
+📣 You can now subscribe to get the list of top ML papers in your inbox [here](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/).
+
 ## Top ML Papers of the Week (Jan 9-15)
 ![My Image](pics/Week-2.png)
 
@@ -26,8 +28,6 @@ We use a combination of AI-powered tools, analytics, and human curation to build
 ## Top ML Papers of the Week (Jan 1-8)
 
 ![My Image](pics/Week-1.png)
-
-## Top ML Papers of the Week (Jan 1-8)
 
 | **Paper**  | **Links** |
 | ------------- | ------------- |
