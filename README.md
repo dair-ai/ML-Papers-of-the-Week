@@ -2,7 +2,7 @@
 
 We ❤️ reading ML papers so we have created this repo to highlight the top ML papers for every week.
 
-📣 You can now subscribe to get the list of top ML papers in your inbox [here](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/).
+📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or subscribe to get the list of top ML papers in your inbox [here](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/).
 
 ## Top ML Papers of the Week (Jan 9-15)
 ![My Image](pics/Week-2.png)
@@ -43,6 +43,5 @@ We use a combination of AI-powered tools, analytics, and human curation to build
 | 10) **A Succinct Summary of Reinforcement Learning** -- A nice little overview of some important ideas in RL.  | [Paper](https://arxiv.org/abs/2301.01379), [Tweet](https://twitter.com/dair_ai/status/1612153114773053446?s=20&t=ChwZWzSmoRlZKnD54fsV6w)  |
 
 ---
-[Subscribe to our newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends. 
 
 We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
