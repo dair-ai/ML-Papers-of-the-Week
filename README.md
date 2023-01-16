@@ -3,6 +3,7 @@
 We ❤️ reading ML papers so we have created this repo to highlight the top ML papers for every week.
 
 ## Top ML Papers of the Week (Jan 9-15)
+![My Image](pics/Week-2.png)
 
 | **Paper**  | **Links** |
 | ------------- | ------------- |
