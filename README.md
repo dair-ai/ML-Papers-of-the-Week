@@ -2,7 +2,7 @@
 
 We ❤️ reading ML papers so we have created this repo to highlight the top ML papers for every week.
 
-📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or subscribe to get the list of top ML papers in your inbox [here](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/).
+📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or [subscribe](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/) to get the list of top ML papers in your inbox.
 
 ## Top ML Papers of the Week (Jan 9-15)
 ![My Image](pics/Week-2.png)
