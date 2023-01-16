@@ -22,6 +22,8 @@ We ❤️ reading ML papers so we have created this repo to highlight the top ML
 
 We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
 
+## Top ML Papers of the Week (Jan 1-8)
+
 ![My Image](pics/Week-1.png)
 
 ## Top ML Papers of the Week (Jan 1-8)
