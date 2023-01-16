@@ -2,6 +2,26 @@
 
 We ❤️ reading ML papers so we have created this repo to highlight the top ML papers for every week.
 
+## Top ML Papers of the Week (Jan 9-15)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Mastering Diverse Domains through World Models** -- DreamerV3 is a general algorithm to collect diamonds in Minecraft from scratch without human data or curricula, a long-standing challenge in AI.   | [Paper](https://arxiv.org/abs/2301.04104v1), [Tweet](https://twitter.com/dair_ai/status/1614676677757661185?s=20&t=3GITA7PeX7pGwrqvt97bYQ)|
+| 2) **XXX** -- XXX  | [Paper](https://arxiv.org/abs/2301.05062), [Tweet](https://twitter.com/dair_ai/status/1614676680165187584?s=20&t=3GITA7PeX7pGwrqvt97bYQ), [Code](https://github.com/deepmind/tracr) |
+| 3) **Multimodal Deep Learning** -- Multimodal deep learning is a new book published on ArXiv.  | [Paper/Book](https://arxiv.org/abs/2301.04856), [Tweet](https://twitter.com/dair_ai/status/1614676682555670528?s=20&t=3GITA7PeX7pGwrqvt97bYQ) |
+| 4) **Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk** -- OpenAI publishes new work analyzing how generative LMs could potentially be misused for disinformation and how to mitigate these types of risks.  | [Paper](https://openai.com/blog/forecasting-misuse/), [Tweet](https://twitter.com/dair_ai/status/1614676684984156160?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+| 5) **Why do Nearest Neighbor Language Models Work?** -- Empirically identifies reasons why retrieval-augmented LMs (specifically k-nearest neighbor LMs) perform better than standard parametric LMs.  | [Paper](https://arxiv.org/abs/2301.02828), [Code](https://github.com/frankxu2004/knnlm-why), [Tweet](https://twitter.com/dair_ai/status/1614676687597469696?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+| 6) **Memory Augmented Large Language Models are Computationally Universal** -- Investigates the use of existing LMs (e.g, Flan-U-PaLM 540B) combined with associative read-write memory to simulate the execution of a universal Turing machine.  | [Paper](https://arxiv.org/abs/2301.04589) , [Code](), [Tweet](https://twitter.com/dair_ai/status/1614676689908277252?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+| 7) **A Survey on Transformers in Reinforcement Learning** -- Transformers for RL will be a fascinating research area to track. The same is true for the reverse direction (RL for Transformers)... a notable example: using RLHF to improve LLMs (e.g., ChatGPT). | [Paper](https://arxiv.org/abs/2301.03044), [Tweet](https://twitter.com/dair_ai/status/1614676692538105860?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+| 8) **Scaling Laws for Generative Mixed-Modal Language Models** -- Introduces scaling laws for generative mixed-modal language models.   | [Paper](https://arxiv.org/abs/2301.03728), [Tweet](https://twitter.com/dair_ai/status/1614676694920531969?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+| 9) **DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching** -- DeepMatcher is a transformer-based network showing robust local feature matching, outperforming the state-of-the-art methods on several benchmarks.  | [Paper](https://arxiv.org/abs/2301.02993), [Tweet](https://twitter.com/dair_ai/status/1614676697516752898?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+| 10) **Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement** -- This work addresses the time series forecasting problem with generative modeling; involves a bidirectional VAE backbone equipped with diffusion, denoising for prediction accuracy, and disentanglement for model interpretability.  | [Paper](https://arxiv.org/abs/2301.03028), [Tweet](https://twitter.com/dair_ai/status/1614676699915980804?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
+
+---
+[Subscribe to our newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends. 
+
+We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
+
 ![My Image](pics/Week-1.png)
 
 ## Top ML Papers of the Week (Jan 1-8)
