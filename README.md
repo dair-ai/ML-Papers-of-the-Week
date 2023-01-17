@@ -21,9 +21,6 @@ We ❤️ reading ML papers so we have created this repo to highlight the top ML
 | 10) **Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement** -- This work addresses the time series forecasting problem with generative modeling; involves a bidirectional VAE backbone equipped with diffusion, denoising for prediction accuracy, and disentanglement for model interpretability.  | [Paper](https://arxiv.org/abs/2301.03028), [Tweet](https://twitter.com/dair_ai/status/1614676699915980804?s=20&t=3GITA7PeX7pGwrqvt97bYQ)  |
 
 ---
-[Subscribe to our newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends. 
-
-We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
 
 ## Top ML Papers of the Week (Jan 1-8)
 
@@ -43,5 +40,7 @@ We use a combination of AI-powered tools, analytics, and human curation to build
 | 10) **A Succinct Summary of Reinforcement Learning** -- A nice little overview of some important ideas in RL.  | [Paper](https://arxiv.org/abs/2301.01379), [Tweet](https://twitter.com/dair_ai/status/1612153114773053446?s=20&t=ChwZWzSmoRlZKnD54fsV6w)  |
 
 ---
+
+[Subscribe to our NLP Newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends. 
 
 We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
