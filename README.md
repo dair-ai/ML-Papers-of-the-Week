@@ -41,6 +41,8 @@ We ❤️ reading ML papers so we have created this repo to highlight the top ML
 
 ---
 
+We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
+
 [Subscribe to our NLP Newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends. 
 
-We use a combination of AI-powered tools, analytics, and human curation to build the lists of papers.
+Join our [Discord](https://discord.gg/FzNtjEK9dg).
