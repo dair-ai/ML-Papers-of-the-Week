@@ -1,6 +1,6 @@
 # **ML Papers of The Week**
 
-We ❤️ reading ML papers so we have created this repo to highlight the top ML papers for every week.
+We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
 📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or [subscribe](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/) to get the list of top ML papers in your inbox.
 
