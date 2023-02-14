@@ -1,3 +1,58 @@
+## Top ML Papers of the Week (Feb 6 - 12)
+![My Image](xxx)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Toolformer: Language Models Can Teach Themselves to Use Tools** - Toolformer - introduces language models that teach themselves to use external tools via simple API calls.    | [Paper](https://arxiv.org/abs/2302.04761), [Tweet](https://twitter.com/dair_ai/status/1624832248691191808?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)|
+| 2) **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents** - Describe, Explain, Plan, and Select - proposes using language models for open-world game playing.| [Paper](https://arxiv.org/abs/2302.01560), [Tweet](https://twitter.com/dair_ai/status/1624832250717036548?s=20&t=ygX07dsAPDF8_jwrxZIo1Q) |
+| 3) **A Categorical Archive of ChatGPT Failures** - A Categorical Archive of ChatGPT Failures - a comprehensive analysis of ChatGPT failures for categories like reasoning, factual errors, maths, and coding. | [Paper](https://arxiv.org/abs/2302.03494), [Tweet](https://twitter.com/dair_ai/status/1624832252587700230?s=20&t=ygX07dsAPDF8_jwrxZIo1Q) |
+| 4) **XXX** - XXX  | [Paper](XXX), [Tweet](XXX)  |
+| 5) **XXX** - XXX | [Paper](XXX), [Code](XXX), [Tweet](XXX)  |
+| 6) **XXX** - XXX   | [Paper](XXX) , [Tweet](XXX)  |
+| 7) **XXX** - XXX | [Paper](XXX), [Tweet](XXX)  |
+| 8) **XXX** - XXX   | [Paper](XXX), [Tweet](XXX)  |
+| 9) **XXX** - xxx  | [Paper](xxx), [Tweet](xxx)  |
+| 10) **XXX** - XXX  | [Paper](XXX), [Tweet](XXX)  |
+
+---
+
+
+## Top ML Papers of the Week (Jan 30-Feb 5)
+![My Image](xxx)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **REPLUG: Retrieval-Augmented Black-Box Language Models** - REPLUG - a retrieval-augmented LM framework that adapts a retriever to a large-scale, black-box LM like GPT-3.     | [Paper](https://arxiv.org/abs/2301.12652), [Tweet](https://twitter.com/dair_ai/status/1622261780725616641?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)|
+| 2) **Extracting Training Data from Diffusion Models** - Extracting Training Data from Diffusion Models - shows that diffusion-based generative models can memorize images from the training data and emit them at generation time. | [Paper](https://arxiv.org/abs/2301.13188), [Tweet](https://twitter.com/dair_ai/status/1622261782738788353?s=20&t=ygX07dsAPDF8_jwrxZIo1Q) |
+| 3) **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning** - The FLAN Collection - release a more extensive publicly available collection of tasks, templates, and methods to advancing instruction-tuned models. | [Paper](https://arxiv.org/abs/2301.13688), [Tweet](https://twitter.com/dair_ai/status/1622261784668241922?s=20&t=ygX07dsAPDF8_jwrxZIo1Q) |
+| 4) **Multimodal Chain-of-Thought Reasoning in Language Models** - Multimodal Chain-of-Though Reasoning - incorporates vision features to elicit chain-of-thought reasoning in multimodality, enabling the model to generate effective rationales that contribute to answer inference. | [Paper](https://arxiv.org/abs/2302.00923), [Code](https://github.com/amazon-science/mm-cot) [Tweet](https://twitter.com/dair_ai/status/1622261786559791105?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 5) **Dreamix: Video Diffusion Models are General Video Editors** - Dreamix - a diffusion model that performs text-based motion and appearance editing of general videos.  | [Paper](https://arxiv.org/abs/2302.01329), [Project](https://dreamix-video-editing.github.io/), [Tweet](https://twitter.com/dair_ai/status/1622261788497657856?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 6) **Benchmarking Large Language Models for News Summarization** - Benchmarking LLMs for news summarization.   | [Paper](https://arxiv.org/abs/2301.13848) , [Tweet](https://twitter.com/dair_ai/status/1622261790326259714?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 7) **Mathematical Capabilities of ChatGPT** - Mathematical Capabilities of ChatGPT - investigates the mathematical capabilities of ChatGPT on a new holistic benchmark called GHOSTS. | [Paper](https://arxiv.org/abs/2301.13867), [Tweet](https://twitter.com/dair_ai/status/1622261792238886913?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 8) **Emergence of Maps in the Memories of Blind Navigation Agents** - Training ‘Blind’ Agents - trains an AI agent to navigate purely by feeling its way around; no use of vision, audio, or any other sensing (as in animals).  | [Paper](https://arxiv.org/abs/2301.13261), [Project](https://wijmans.xyz/publication/eom/), [Tweet](https://twitter.com/dair_ai/status/1622261793987989507?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 9) **SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections** - SceneDreamer - a generative model that synthesizes large-scale 3D landscapes from random noises.  | [Paper](https://arxiv.org/abs/2302.01330), [Tweet](https://twitter.com/dair_ai/status/1622261795925671936?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 10) **Large Language Models Can Be Easily Distracted by Irrelevant Context** - LLMs and irrelevant context - finds that many prompting techniques fail when presented with irrelevant context for arithmetic reasoning.  | [Paper](https://arxiv.org/abs/2302.00093), [Tweet](https://twitter.com/dair_ai/status/1622261798379429888?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+
+---
+
+
+## Top ML Papers of the Week (Jan 23-29)
+![My Image](xxx)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **MusicLM: Generating Music From Text** - MusicLM - a generative model for generating high-fidelity music from text descriptions.    | [Paper](https://arxiv.org/abs/2301.11325), [Tweet](https://twitter.com/dair_ai/status/1619716425761042436?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)|
+| 2) **Hungry Hungry Hippos: Towards Language Modeling with State Space Models** - H3 - an approach to reduce the gap, in terms of performance and hardware utilization, between state space models and attention for language modeling. | [Paper](https://arxiv.org/abs/2212.14052), [Tweet](https://twitter.com/dair_ai/status/1619716427879174144?s=20&t=ygX07dsAPDF8_jwrxZIo1Q) |
+| 3) **A Watermark for Large Language Models** - A Watermark for LLMs - a watermarking framework for proprietary language models. | [Paper](https://arxiv.org/abs/2301.10226), [Tweet](https://twitter.com/dair_ai/status/1619716430127308800?s=20&t=ygX07dsAPDF8_jwrxZIo1Q) |
+| 4) **Text-To-4D Dynamic Scene Generation** - Make-A-Video3D - a new text-to-4D model for dynamic scene generation from input text.  | [Paper](https://arxiv.org/abs/2301.11280), [Github](https://make-a-video3d.github.io/), [Tweet](https://twitter.com/dair_ai/status/1619718845018828801?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 5) **ClimaX: A foundation model for weather and climate** - ClimaX - a foundation model for weather and climate, including many capabilities for atmospheric science tasks.| [Paper](https://arxiv.org/abs/2301.10343), [Tweet](https://twitter.com/tungnd_13/status/1618642574427959296?s=20&t=ygX07dsAPDF8_jwrxZIo1Q), [Blog](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)  |
+| 6) **Open Problems in Applied Deep Learning** - If you're looking for interesting open problems in DL, this is a good reference. Not sure if intentional but it also looks useful to get a general picture of current trends in deep learning with ~300 references. | [Paper](https://arxiv.org/abs/2301.11316) , [Tweet](https://twitter.com/dair_ai/status/1619719063915339777?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 7) **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature** - DetectGPT - an approach for zero-shot machine-generated text detection. Uses raw log probabilities from the LLM to determine if the passage was sampled from it. | [Paper](https://arxiv.org/abs/2301.11305), [Tweet](https://twitter.com/dair_ai/status/1619719169758613504?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 8) **StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis** - StyleGAN-T - a new model that aims to regain the competitiveness of GANs for fast large-scale text-to-image synthesis.  | [Paper](https://arxiv.org/abs/2301.09515), [Project](https://sites.google.com/view/stylegan-t/), [Code](https://github.com/autonomousvision/stylegan-t) [Tweet](https://twitter.com/dair_ai/status/1619719293779976193?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 9) **StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis** - ProGen - an LLM that can generate protein sequences with a predictable function across large protein families.  | [Paper](https://www.nature.com/articles/s41587-022-01618-2), [Tweet](https://twitter.com/dair_ai/status/1619719404618645511?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+| 10) **The Impossibility of Parallelizing Boosting** - The Impossibility of Parallelizing Boosting - investigates the possibility of parallelizing boosting.  | [Paper](https://arxiv.org/abs/2301.09627), [Tweet](https://twitter.com/dair_ai/status/1619719511867015168?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
+
+---
 # **ML Papers of The Week**
 
 We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
