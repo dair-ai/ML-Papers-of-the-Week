@@ -24,7 +24,7 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 
 
 ## Top ML Papers of the Week (Jan 30-Feb 5)
-![My Image](xxx)
+![My Image](pics/Week-Jan30-5-February-2023.png)
 
 | **Paper**  | **Links** |
 | ------------- | ------------- |
