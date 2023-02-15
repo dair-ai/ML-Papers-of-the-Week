@@ -1,3 +1,9 @@
+# **ML Papers of The Week**
+
+We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
+
+📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or [subscribe](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/) to get the list of top ML papers in your inbox.
+
 ## Top ML Papers of the Week (Feb 6 - 12)
 ![My Image](pics/Week-6-12-February-2023.png)
 
@@ -53,11 +59,6 @@
 | 10) **The Impossibility of Parallelizing Boosting** - The Impossibility of Parallelizing Boosting - investigates the possibility of parallelizing boosting.  | [Paper](https://arxiv.org/abs/2301.09627), [Tweet](https://twitter.com/dair_ai/status/1619719511867015168?s=20&t=ygX07dsAPDF8_jwrxZIo1Q)  |
 
 ---
-# **ML Papers of The Week**
-
-We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
-
-📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or [subscribe](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/) to get the list of top ML papers in your inbox.
 
 ## Top ML Papers of the Week (Jan 16-22)
 ![My Image](pics/jan16.png)
