@@ -43,7 +43,7 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 
 
 ## Top ML Papers of the Week (Jan 23-29)
-![My Image](xxx)
+![My Image](pic/)
 
 | **Paper**  | **Links** |
 | ------------- | ------------- |
