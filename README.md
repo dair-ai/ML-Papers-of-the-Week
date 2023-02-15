@@ -1,5 +1,5 @@
 ## Top ML Papers of the Week (Feb 6 - 12)
-![My Image](xxx)
+![My Image](pics/Week-6-12-February-2023.png)
 
 | **Paper**  | **Links** |
 | ------------- | ------------- |
