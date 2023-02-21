@@ -3,6 +3,23 @@
 We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
 📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or [subscribe](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/) to get the list of top ML papers in your inbox.
+## Top ML Papers of the Week (Feb 13 - 19)
+
+![My Image](XXX)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Symbolic Discovery of Optimization Algorithms** - Lion (EvoLved Sign Momentum) - a simple and effective optimization algorithm that’s more memory-efficient than Adam.   | [Paper](https://arxiv.org/abs/2302.06675), [Tweet](https://twitter.com/dair_ai/status/1627671313874575362?s=20)|
+| 2) *Transformer models: an introduction and catalog** - Transformer models: an introduction and catalog.  | [Paper](https://arxiv.org/abs/2302.07730), [Tweet](https://twitter.com/dair_ai/status/1627671315678126082?s=20) |
+| 3) **3D-aware Conditional Image Synthesis** - pix2pix3D - a 3D-aware conditional generative model extended with neural radiance fields for controllable photorealistic image synthesis.| [Paper](xxx), [Project](https://www.cs.cmu.edu/~pix2pix3D/) [Tweet](https://twitter.com/dair_ai/status/1627671317355831296?s=20) |
+| 4) **The Capacity for Moral Self-Correction in Large Language Models** - Moral Self-Correction in Large Language Models - finds strong evidence that language models trained with RLHF have the capacity for moral self-correction. The capability emerges at 22B model parameters and typically improves with scale.  | [Paper](https://arxiv.org/abs/2302.07459), [Tweet](https://twitter.com/dair_ai/status/1627671319100768260?s=20)  |
+| 6) **xxxx** - Language Quantized AutoEncoders (LQAE) - an unsupervised method for text-image alignment that leverages pretrained language models; it enables few-shot image classification with LLMs.   | [Paper](https://arxiv.org/abs/2302.00902) , [Project](https://arxiv.org/abs/2302.00902), [Code](https://github.com/lhao499/lqae) [Tweet](https://twitter.com/haoliuhl/status/1625273748629901312?s=20)  |
+| 7) **Augmented Language Models: a Survey** - Augmented Language Models - a survey of language models that are augmented with reasoning skills and the capability to use tools. | [Paper](https://arxiv.org/abs/2302.07842), [Tweet](https://twitter.com/dair_ai/status/1627671324477820929?s=20)  |
+| 8) **Geometric Clifford Algebra Networks** -  Geometric Clifford Algebra Networks (GCANs) -  an approach to incorporate geometry-guided transformations into neural networks using geometric algebra.  | [Paper](https://arxiv.org/abs/2302.06594), [Tweet](https://twitter.com/dair_ai/status/1627671326176473088?s=20)  |
+| 9) **Auditing large language models: a three-layered approach** - Auditing large language models - proposes a policy framework for auditing LLMs. | [Paper](https://arxiv.org/abs/2302.08500), [Tweet](https://twitter.com/dair_ai/status/1627671327950643200?s=20)  |
+| 10) **Energy Transformer** - Energy Transformer - a transformer architecture that replaces the sequence of feedforward transformer blocks with a single large Associate Memory model; this follows the popularity that Hopfield Networks have gained in the field of ML. | [Paper] (https://arxiv.org/abs/2302.07253), [Tweet](https://twitter.com/dair_ai/status/1627671329561346050?s=20)  |
+
+
 
 ## Top ML Papers of the Week (Feb 6 - 12)
 ![My Image](pics/Week-6-12-February-2023.png)
