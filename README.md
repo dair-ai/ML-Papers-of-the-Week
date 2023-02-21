@@ -17,7 +17,7 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 | 7) **Augmented Language Models: a Survey** - Augmented Language Models - a survey of language models that are augmented with reasoning skills and the capability to use tools. | [Paper](https://arxiv.org/abs/2302.07842), [Tweet](https://twitter.com/dair_ai/status/1627671324477820929?s=20)  |
 | 8) **Geometric Clifford Algebra Networks** -  Geometric Clifford Algebra Networks (GCANs) -  an approach to incorporate geometry-guided transformations into neural networks using geometric algebra.  | [Paper](https://arxiv.org/abs/2302.06594), [Tweet](https://twitter.com/dair_ai/status/1627671326176473088?s=20)  |
 | 9) **Auditing large language models: a three-layered approach** - Auditing large language models - proposes a policy framework for auditing LLMs. | [Paper](https://arxiv.org/abs/2302.08500), [Tweet](https://twitter.com/dair_ai/status/1627671327950643200?s=20)  |
-| 10) **Energy Transformer** - Energy Transformer - a transformer architecture that replaces the sequence of feedforward transformer blocks with a single large Associate Memory model; this follows the popularity that Hopfield Networks have gained in the field of ML. | [Paper] (https://arxiv.org/abs/2302.07253), [Tweet](https://twitter.com/dair_ai/status/1627671329561346050?s=20)  |
+| 10) **Energy Transformer** - Energy Transformer - a transformer architecture that replaces the sequence of feedforward transformer blocks with a single large Associate Memory model; this follows the popularity that Hopfield Networks have gained in the field of ML. | [Paper](https://arxiv.org/abs/2302.07253), [Tweet](https://twitter.com/dair_ai/status/1627671329561346050?s=20)  |
 
 
 
