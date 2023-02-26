@@ -2,7 +2,13 @@
 
 We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
-📣 You can follow us on [Twitter](https://twitter.com/dair_ai) or [subscribe](https://www.linkedin.com/newsletters/ml-papers-of-the-week-7020865424875474944/) to get the list of top ML papers in your inbox.
+[Follow us on Twitter](https://twitter.com/dair_ai) 
+
+[Subscribe to our Substack Newsletter](https://nlpnews.substack.com/)
+
+[Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+
 ## Top ML Papers of the Week (Feb 13 - 19)
 
 ![My Image](pics/Week-13-19-February-2023.png)
