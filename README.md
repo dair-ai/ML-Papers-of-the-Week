@@ -8,6 +8,23 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
+## Top ML Papers of the Week (Feb 27-Mar 5)
+
+![My Image](pics/)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Language Is Not All You Need: Aligning Perception with Language Models** -Language Is Not All You Need - introduces a multimodal large language model called Kosmos-1; achieves great performance on language understanding, OCR-free NLP, perception-language tasks, visual QA, and more.  | [Paper](https://arxiv.org/abs/2302.14045), [Tweet](https://twitter.com/dair_ai/status/1632383312550416384?s=20)|
+| 2) **Evidence of a predictive coding hierarchy in the human brain listening to speech** -Comparing Brain Activations and Language Models - finds that human brain activity is best explained by the activations of modern language models enhanced with long-range and hierarchical predictions. | [Paper](https://www.nature.com/articles/s41562-022-01516-2?utm_source=twitter&utm_medium=organic_social&utm_campaign=evergreen&utm_content=animation), [Tweet](https://twitter.com/dair_ai/status/1632383315029180416?s=20) |
+| 3) **EvoPrompting: Language Models for Code-Level Neural Architecture Search** - EvoPrompting - combines evolutionary prompt engineering with soft prompt-tuning to find high-performing models; it leverages few-shot prompting which is further improved by using an evolutionary search approach to improve the in-context examples. | [Paper](https://arxiv.org/abs/2302.14838), [Tweet](https://twitter.com/dair_ai/status/1632383317302562816?s=20) |
+| 4) **Consistency Models** - Consistency Models - a new family of generative models that achieve high sample quality without adversarial training. | [Paper](https://arxiv.org/abs/2303.01469), [Tweet](https://twitter.com/dair_ai/status/1632383319152132096?s=20)  |
+| 5. **Goal Driven Discovery of Distributional Differences via Language Descriptions** - D5 - a new task that automatically discovers corpus-level differences via language description in a goal-driven way; applications include discovering insights from commercial reviews and error patterns in NLP systems. | [Paper](https://arxiv.org/abs/2302.14233) , [Code](https://github.com/ruiqi-zhong/D5), [Tweet](https://twitter.com/dair_ai/status/1632383321035374593?s=20)
+| 6) **High-resolution image reconstruction with latent diffusion models from human brain activity** - Reconstructing Images from Human Brain Activity with Diffusion Models - proposes an approach for high-resolution image reconstruction with latent diffusion models from human brain activity.   | [Project](https://sites.google.com/view/stablediffusion-with-brain/) , [Tweet](https://twitter.com/dair_ai/status/1632383323086487554?s=20)  |
+| 7) ** Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control** - Grounded Decoding - a scalable approach to planning with LLMs in embodied settings through grounding functions; GD is found to be a general, flexible, and expressive approach to embodied tasks.  | [Paper](https://grounded-decoding.github.io/paper.pdf), Project(https://grounded-decoding.github.io/) [Tweet](https://twitter.com/dair_ai/status/1632383325036740610?s=20)  |
+| 8) **Language-Driven Representation Learning for Robotics** -  Voltron - a framework for language-driven representation learning from human videos and captions for robotics.  | [Paper](https://arxiv.org/abs/2302.12766), [Models](https://github.com/siddk/voltron-robotics), [Evaluation](https://github.com/siddk/voltron-evaluation)[Tweet](https://twitter.com/dair_ai/status/1632383327154888704?s=20)  |
+| 9) **Dropout Reduces Underfitting** - Dropout Reduces Underfitting - demonstrates that dropout can mitigate underfitting when used at the start of training; it counteracts SGD stochasticity and limits the influence of individual batches when training models. | [Paper](https://arxiv.org/abs/2303.01500), [Tweet](https://twitter.com/dair_ai/status/1632383328920666121?s=20)  |
+| 10) **Enabling Conversational Interaction with Mobile UI using Large Language Models** - LLM for Conversational Interactions with Mobile UIs - an approach that enables versatile conversational interactions with mobile UIs using a single LLM. | [Paper](https://arxiv.org/abs/2209.08655), [Tweet](https://twitter.com/dair_ai/status/1632383331286253568?s=20)  |
+
 ## Top ML Papers of the Week (Feb 20-26)
 
 ![My Image](pics/Week-20-26-February-2023.png)
