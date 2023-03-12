@@ -11,12 +11,12 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 
 ## Top ML Papers of the Week (Mar 6-Mar 12)
 
-![My Image](pics/)
+![My Image](pics/Week-Mar-6-Mar-12-2023.png)
 
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **PaLM-E: An Embodied Multimodal Language Model** -  PaLM-E - incorporates real-world continuous sensor modalities resulting in an embodied LM that performs tasks such as robotic manipulation planning, visual QA, and other embodied reasoning tasks. | [Paper](https://arxiv.org/abs/2303.03378), [Demo](https://palm-e.github.io/) , [Tweet](https://twitter.com/dair_ai/status/1634919222420836358?s=20)|
-| 2) **Prismer: A Vision-Language Model with An Ensemble of Experts** - Prismer - a parameter-efficient vision-language model powered by an ensemble of domain experts; it efficiently pools expert knowledge from different domains and adapts it to various vision-language reasoning tasks. | [Paper](https://arxiv.org/abs/2303.02506), [GitHub](https://github.com/NVlabs/Prismer), [Project](https://shikun.io/projects/prismer)[Tweet](https://twitter.com/dair_ai/status/1634919224505257985?s=20) |
+| 2) **Prismer: A Vision-Language Model with An Ensemble of Experts** - Prismer - a parameter-efficient vision-language model powered by an ensemble of domain experts; it efficiently pools expert knowledge from different domains and adapts it to various vision-language reasoning tasks. | [Paper](https://arxiv.org/abs/2303.02506), [GitHub](https://github.com/NVlabs/Prismer), [Project](https://shikun.io/projects/prismer) , [Tweet](https://twitter.com/dair_ai/status/1634919224505257985?s=20) |
 | 3) **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** - Visual ChatGPT - it connects ChatGPT and different visual foundation models to enable users to interact with ChatGPT beyond language format. | [Paper](https://arxiv.org/abs/2303.04671), [Gitub](https://github.com/microsoft/visual-chatgpt) [Tweet](https://twitter.com/dair_ai/status/1634919226396794882?s=20) |
 | 4) **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT** - A History of Generative AI - an overview of generative AI - from GAN to ChatGPT. | [Paper](https://arxiv.org/abs/2303.04226), [Tweet](https://twitter.com/dair_ai/status/1634919228339003393?s=20)  |
 | 5. **Larger language models do in-context learning differently** - LLMs do In-Context Learning Differently - shows that with scale, LLMs can override semantic priors when presented with enough flipped labels; these models can also perform well when replacing targets with semantically-unrelated targets. | [Paper](https://arxiv.org/abs/2303.03846) , [Tweet](https://twitter.com/dair_ai/status/1634919230461345797?s=20)
