@@ -8,6 +8,25 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
+
+## Top ML Papers of the Week (Mar 6-Mar 12)
+
+![My Image](pics/)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **PaLM-E: An Embodied Multimodal Language Model** -  PaLM-E - incorporates real-world continuous sensor modalities resulting in an embodied LM that performs tasks such as robotic manipulation planning, visual QA, and other embodied reasoning tasks. | [Paper](https://arxiv.org/abs/2303.03378), [GitHub](https://palm-e.github.io/) [Tweet](https://twitter.com/dair_ai/status/1634919222420836358?s=20)|
+| 2) **Prismer: A Vision-Language Model with An Ensemble of Experts** - Prismer - a parameter-efficient vision-language model powered by an ensemble of domain experts; it efficiently pools expert knowledge from different domains and adapts it to various vision-language reasoning tasks. | [Paper](https://arxiv.org/abs/2303.02506), [GitHub](https://github.com/NVlabs/Prismer), [Project](https://shikun.io/projects/prismer)[Tweet](https://twitter.com/dair_ai/status/1634919224505257985?s=20) |
+| 3) **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** - Visual ChatGPT - it connects ChatGPT and different visual foundation models to enable users to interact with ChatGPT beyond language format. | [Paper](Visual ChatGPT - it connects ChatGPT and different visual foundation models to enable users to interact with ChatGPT beyond language format.), [Gitub](https://github.com/microsoft/visual-chatgpt) [Tweet](https://twitter.com/dair_ai/status/1634919226396794882?s=20) |
+| 4) **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT** - A History of Generative AI - an overview of generative AI - from GAN to ChatGPT. | [Paper](https://arxiv.org/abs/2303.04226), [Tweet](https://twitter.com/dair_ai/status/1634919228339003393?s=20)  |
+| 5. **Larger language models do in-context learning differently** - LLMs do In-Context Learning Differently - shows that with scale, LLMs can override semantic priors when presented with enough flipped labels; these models can also perform well when replacing targets with semantically-unrelated targets. | [Paper](https://arxiv.org/abs/2303.03846) , [Tweet](https://twitter.com/dair_ai/status/1634919230461345797?s=20)
+| 6) **Foundation Models for Decision Making: Problems, Methods, and Opportunities** -  Foundation Models for Decision Making - provides an overview of foundation models for decision making, including tools, methods, and new research directions.  | [Project](https://arxiv.org/abs/2303.04129) , [Tweet](https://twitter.com/dair_ai/status/1634919232650760192?s=20)  |
+| 7) **Hyena Hierarchy: Towards Larger Convolutional Language Models** - Hyena Hierarchy - a subquadratic drop-in replacement for attention; it interleaves implicit long convolutions and data-controlled gating and can learn on sequences 10x longer and up to 100x faster than optimized attention.  | [Paper](https://arxiv.org/abs/2302.10866), [Code](https://github.com/HazyResearch/safari), [Blog](https://ermongroup.github.io/blog/hyena/),  [Tweet](https://twitter.com/dair_ai/status/1634919234835980289?s=20)  |
+| 8) **OpenICL: An Open-Source Framework for In-context Learning** - OpenICL - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs.  | [Paper](https://arxiv.org/abs/2303.02913), [Repo](https://github.com/Shark-NLP/OpenICL), [Tweet](https://twitter.com/dair_ai/status/1634919236954132480?s=20)  |
+| 9) **MathPrompter: Mathematical Reasoning using Large Language Models** - MathPrompter - a technique that improves LLM performance on mathematical reasoning problems; it uses zero-shot chain-of-thought prompting and verification to ensure generated answers are accurate. | [Paper](https://arxiv.org/abs/2303.05398), [Tweet](https://twitter.com/dair_ai/status/1634919239030280197?s=20)  |
+| 10) **Scaling up GANs for Text-to-Image Synthesis** - GigaGAN - enables scaling up GANs on large datasets for text-to-image synthesis; it’s found to be orders of magnitude faster at inference time, synthesizes high-resolution images, & supports various latent space editing applications. | [Paper](https://arxiv.org/abs/2303.05511), [Project](https://mingukkang.github.io/GigaGAN/) , [Tweet](https://twitter.com/dair_ai/status/1634919241198751744?s=20)  |
+
+
 ## Top ML Papers of the Week (Feb 27-Mar 5)
 
 ![My Image](pics/Week-Feb-29-to-Mar-5.png)
