@@ -8,6 +8,23 @@ We ❤️ reading ML papers so we've created this repo to highlight the top ML p
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
+## Top ML Papers of the Week (Mar 13-Mar 19)
+
+![My Image](pics/)
+
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **GPT-4 Technical Report** - GPT-4 - a large multimodal model with broader general knowledge and problem-solving abilities. | [Paper](https://arxiv.org/abs/2303.08774v2), [Project](https://openai.com/product/gpt-4), [Tweet](https://twitter.com/dair_ai/status/1637456913993433089?s=20)|
+| 2) **LERF: Language Embedded Radiance Fields** - LERF (Language Embedded Radiance Fields) - a method for grounding language embeddings from models like CLIP into NeRF; this enables open-ended language queries in 3D. | [Paper](https://arxiv.org/abs/2303.09553), [Data](https://drive.google.com/drive/folders/1vh0mSl7v29yaGsxleadcj-LCZOE_WEWB?usp=sharing), [Project](https://https://www.lerf.io/) , [Tweet](https://twitter.com/dair_ai/status/1637456915658686465?s=20) |
+| 3) **An Overview on Language Models: Recent Developments and Outlook** - An Overview of Language Models - an overview of language models covering recent developments and future directions. It also covers topics like linguistic units, structures, training methods, evaluation, and applications. | [Paper](https://arxiv.org/abs/2303.05759), [Tweet](https://twitter.com/omarsar0/status/1635273656858460162?s=20) |
+| 4) **Eliciting Latent Predictions from Transformers with the Tuned Lens** - Tuned Lens - a method for transformer interpretability that can trace a language model predictions as it develops layer by layer. | [Paper](https://arxiv.org/abs/2303.08112), [Tweet](https://twitter.com/dair_ai/status/1637456919819440130?s=20)  |
+| 5. **Meet in the Middle: A New Pre-training Paradigm** - MIM (Meet in the Middle) - a new pre-training paradigm using techniques that jointly improve training data efficiency and capabilities of LMs in the infilling task; performance improvement is shown in code generation tasks. | [Paper](https://arxiv.org/abs/2303.07295) , [Tweet](https://twitter.com/dair_ai/status/1637456922004561920?s=20)
+| 6) **Resurrecting Recurrent Neural Networks for Long Sequences** - Resurrecting RNNs - demonstrates that careful design of deep RNNs using standard signal propagation arguments can recover the performance of deep state-space models on long-range reasoning tasks.  | [Paper](https://arxiv.org/abs/2303.06349) , [Tweet](https://twitter.com/dair_ai/status/1637456923795521537?s=20)  |
+| 7) **UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation** - Universal Prompt Retrieval - a new approach to tune a lightweight and versatile retriever to automatically retrieve prompts to improve zero-shot performance and help mitigate hallucinations.  | [Paper](https://arxiv.org/abs/2303.08518),  [Tweet](https://twitter.com/dair_ai/status/1637456925779456000?s=20)  |
+| 8) **Patches Are All You Need?** - Patches Are All You Need - proposes ConvMixer, a parameter-efficient fully-convolutional model which replaces self-attention and MLP layers in ViTs with less-expressive depthwise and pointwise convolutional layers.  | [Paper](https://openreview.net/forum?id=rAnB7JSMXL),  [Tweet](https://twitter.com/dair_ai/status/1637456927784329218?s=20)  |
+| 9) **NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes** - NeRFMeshing - a compact and flexible architecture that enables easy 3D surface reconstruction from any NeRF-driven approach; distills NeRFs into geometrically-accurate 3D meshes. | [Paper](https://arxiv.org/abs/2303.09431), [Tweet](https://twitter.com/dair_ai/status/1637456929705295873?s=20)  |
+| 10) **High-throughput Generative Inference of Large Language Models with a Single GPU** - FlexGen - a high-throughput generation engine for running LLMs with limited GPU memory.| [Paper](https://arxiv.org/abs/2303.06865), [Code](https://github.com/FMInference/FlexGen) , [Tweet](https://twitter.com/dair_ai/status/1637456931429183489?s=20)  |
+
 
 ## Top ML Papers of the Week (Mar 6-Mar 12)
 
