@@ -1,10 +1,25 @@
 # **ML Papers of The Week**
 
-We ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
+At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
+
+- [Top ML Papers of the Week (Mar 27 - April 2)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-mar-27---april-2)
+- [Top ML Papers of the Week (Mar 20-Mar 26)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-mar-20-mar-26)
+- [Top ML Papers of the Week (Mar 13-Mar 19)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-mar-13-mar-19)
+- [Top ML Papers of the Week (Mar 6-Mar 12)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-mar-6-mar-12)
+- [Top ML Papers of the Week (Feb 27-Mar 5)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-feb-27-mar-5)
+- [Top ML Papers of the Week (Feb 20-26)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-feb-20-26)
+- [Top ML Papers of the Week (Feb 13 - 19)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-feb-13---19)
+- [Top ML Papers of the Week (Feb 6 - 12)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-feb-6---12)
+- [Top ML Papers of the Week (Jan 30-Feb 5)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-jan-30-feb-5)
+- [Top ML Papers of the Week (Jan 23-29)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-jan-23-29)
+- [Top ML Papers of the Week (Jan 16-22)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-jan-16-22)
+- [Top ML Papers of the Week (Jan 9-15)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-jan-9-15)
+- [Top ML Papers of the Week (Jan 1-8)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-jan-1-8)
+
 
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
-[Subscribe to our Substack Newsletter](https://nlpnews.substack.com/)
+[Subscribe to our Newsletter](https://nlpnews.substack.com/)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
