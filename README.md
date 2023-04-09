@@ -22,6 +22,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Subscribe to our Newsletter](https://nlpnews.substack.com/)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+---
+
+## Top ML Papers of the Week (April 3 - April 9)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Segment Anything** - presents a set of resources to establish foundational models for image segmentation; releases the largest segmentation dataset with over 1 billion masks on 11M licensed images; the model’s zero-shot performance is competitive with or even superior to fully supervised results. | [Paper](https://arxiv.org/abs/2304.02643v1), [Tweet](https://twitter.com/dair_ai/status/1645089444280561666?s=20)|
+| 2) **Instruction Tuning with GPT-4** - presents GPT-4-LLM, a "first attempt" to use GPT-4 to generate instruction-following data for LLM fine-tuning; the dataset is released and includes 52K unique English and Chinese instruction-following data; the dataset is used to instruction-tune LLaMA models which leads to superior zero-shot performance on new tasks.  | [Paper](https://arxiv.org/abs/2304.03277), [Tweet](https://twitter.com/dair_ai/status/1645089446524534788?s=20) |
+| 3) **Eight Things to Know about Large Language Models** - discusses important considerations regarding the capabilities and limitations of LLMs. | [Paper](https://arxiv.org/abs/2304.00612v1), [Tweet](https://twitter.com/dair_ai/status/1645089448428699650?s=20) |
+| 4) **A Survey of Large Language Models** - a new 50 pages survey on large language models. | [Paper](https://arxiv.org/abs/2303.18223), [Tweet](https://twitter.com/dair_ai/status/1645089450395852802?s=20)  |
+| 5. **Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on Self-Chat Data** - an open-source chat model fine-tuned with LoRA. Leverages 100K dialogs generated from ChatGPT chatting with itself; it releases the dialogs along with 7B, 13B, and 30B parameter models. | [Paper](https://arxiv.org/abs/2304.01196) , [Tweet](https://twitter.com/dair_ai/status/1645089452081938433?s=20)
+| 6) **Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark** -  a new benchmark of 134 text-based Choose-Your-Own-Adventure games to evaluate the capabilities and unethical behaviors of LLMs. | [Paper](https://arxiv.org/abs/2304.03279) , [Tweet](https://twitter.com/dair_ai/status/1645089453780639744?s=20)  |
+| 7) **Better Language Models of Code through Self-Improvement** - generates pseudo data from knowledge gained through pre-training and fine-tuning; adds the data to the training dataset for the next step; results show that different frameworks can be improved in performance using code-related generation tasks. | [Paper](https://arxiv.org/abs/2304.01228v1),  [Tweet](https://twitter.com/dair_ai/status/1645089455659687937?s=20)  |
+| 8) **Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models** - an overview of applications of ChatGPT and GPT-4; the analysis is done on 194 relevant papers and discusses capabilities, limitations, concerns, and more | [Paper](https://arxiv.org/abs/2304.01852),  [Tweet](https://twitter.com/dair_ai/status/1645089457488404486?s=20)  |
+| 9) **Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling** - a suite for analyzing LLMs across training and scaling; includes 16 LLMs trained on public data and ranging in size from 70M to 12B parameters. | [Paper](https://arxiv.org/abs/2304.01373), [Tweet](https://twitter.com/dair_ai/status/1645089459191382016?s=20)  |
+| 10) **SegGPT: Segmenting Everything In Context** - unifies segmentation tasks into a generalist model through an in-context framework that supports different kinds of data. | [Paper](https://arxiv.org/abs/2304.03284), [Tweet](https://twitter.com/dair_ai/status/1645089461124886529?s=20)  |
 
 ---
 
