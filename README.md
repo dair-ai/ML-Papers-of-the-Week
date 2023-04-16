@@ -25,6 +25,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 ---
 
+## Top ML Papers of the Week (April 10 - April 16)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields** - combines mip-NeRF 360 and grid-based models to improve NeRFs that train 22x faster than mip-NeRF 360. | [Paper](https://arxiv.org/abs/2304.06706), [Tweet](https://twitter.com/dair_ai/status/1647613826425147401?s=20)|
+| 2) **Generative Agents: Interactive Simulacra of Human Behavior** - proposes an architecture that extends LLMs to build agents that enable simulations of human-like behavior; these capabilities are possible by storing a complete record of an agent's experiences, synthesizing memories over time into higher-level reflections, and retrieving them dynamically to plan behavior.  | [Paper](https://arxiv.org/abs/2304.03442), [Tweet](https://twitter.com/dair_ai/status/1647613828417351682?s=20) |
+| 3) **XXX** - presents an agent that combines LLMs for autonomous design, planning, and execution of scientific experiments; shows emergent scientific research capabilities, including the successful performance of catalyzed cross-coupling reactions. | [Paper](https://arxiv.org/abs/2304.05332), [Tweet](https://twitter.com/dair_ai/status/1647613830233571328?s=20) |
+| 4) **Automatic Gradient Descent: Deep Learning without Hyperparameters** - derives optimization algorithms that explicitly leverage neural architecture; it proposes a first-order optimizer without hyperparameters that trains CNNs at ImageNet scale. | [Paper](https://arxiv.org/abs/2304.05187), [Tweet](https://twitter.com/dair_ai/status/1647613832804589569?s=20)  |
+| 5. **ChemCrow: Augmenting large-language models with chemistry tools** - presents an LLM chemistry agent that performs tasks across synthesis, drug discovery, and materials design; it integrates 13 expert-design tools to augment LLM performance in chemistry and demonstrate effectiveness in automating chemical tasks. | [Paper](https://arxiv.org/abs/2304.05376) , [Tweet](https://twitter.com/dair_ai/status/1647613834813644800?s=20)
+| 6) **One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era** - A Survey of ChatGPT and GPT-4 | [Paper](https://arxiv.org/abs/2304.06488) , [Tweet](https://twitter.com/dair_ai/status/1647613836617195525?s=20)  |
+| 7) **OpenAGI: When LLM Meets Domain Experts** - an open-source research platform to facilitate the development and evaluation of LLMs in solving complex, multi-step tasks through manipulating various domain expert models. | [Paper](https://arxiv.org/abs/2304.04370),  [Tweet](https://twitter.com/dair_ai/status/1647613838567546886?s=20)  |
+| 8) **AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models** - a new benchmark to assess foundational models in the context of human-centric standardized exams, including college entrance exams, law school admission tests, and math competitions, among others. | [Paper](https://arxiv.org/abs/2304.06364),  [Tweet](https://twitter.com/dair_ai/status/1647613840400498700?s=20)  |
+| 9) **Teaching Large Language Models to Self-Debug** - proposes an approach that teaches LLMs to debug their predicted program via few-shot demonstrations; this allows a model to identify its mistakes by explaining generated code in natural language; achieves SoTA on several code generation tasks like text-to-SQL generation. | [Paper](https://arxiv.org/abs/2304.05128), [Tweet](https://twitter.com/dair_ai/status/1647613842300497924?s=20)  |
+| 10) **Segment Everything Everywhere All at Once** - a promptable, interactive model for various segmentation tasks that yields competitive performance on open-vocabulary and interactive segmentation benchmarks. | [Paper](https://arxiv.org/abs/2304.06718), [Tweet](https://twitter.com/dair_ai/status/1647613844087361537?s=20)  |
+
+
 ## Top ML Papers of the Week (April 3 - April 9)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
