@@ -24,6 +24,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Subscribe to our Newsletter](https://nlpnews.substack.com/)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
 ---
 
 ## Top ML Papers of the Week (April 10 - April 16)
