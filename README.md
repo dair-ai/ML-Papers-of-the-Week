@@ -27,6 +27,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 ---
 
+## Top ML Papers of the Week (April 17 - April 23)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **DINOv2: Learning Robust Visual Features without Supervision** - a new method for training high-performance computer vision models based on self-supervised learning; enables learning rich and robust visual features without supervision which are useful for both image-level visual tasks and pixel-level tasks; tasks supported include image classification, instance retrieval, video understanding, depth estimation, and much more. | [Paper](https://arxiv.org/abs/2304.07193), [Tweet](https://twitter.com/dair_ai/status/1650145892941324288?s=20)|
+| 2) **Learning to Compress Prompts with Gist Tokens** - an approach that trains language models to compress prompts into gist tokens reused for compute efficiency; this approach enables 26x compression of prompts, resulting in up to 40% FLOPs reductions.  | [Paper](https://arxiv.org/abs/2304.08467), [Tweet](https://twitter.com/dair_ai/status/1650145895332163585?s=20) |
+| 3) **Scaling the leading accuracy of deep equivariant models to biomolecular simulations of realistic size** - presents a framework for large-scale biomolecular simulation; this is achieved through the high accuracy of equivariant deep learning and the ability to scale to large and long simulations; the system is able to “perform nanoseconds-long stable simulations of protein dynamics and scale up to a 44-million atom structure of a complete, all-atom, explicitly solvated HIV capsid on the Perlmutter supercomputer.” | [Paper](https://arxiv.org/abs/2304.10061), [Tweet](https://twitter.com/dair_ai/status/1650145897689350144?s=20) |
+| 4) **Evaluating Verifiability in Generative Search Engines** - performs human evaluation to audit popular generative search engines such as Bing Chat, Perplexity AI, and NeevaAI; finds that, on average, only 52% of generated sentences are supported by citations and 75% of citations support their associated sentence. | [Paper](https://arxiv.org/abs/2304.09848), [Tweet](https://twitter.com/dair_ai/status/1650145900180779009?s=20)  |
+| 5. **Generative Disco: Text-to-Video Generation for Music Visualization** - an AI system based on LLMs and text-to-image models that generates music visualizations. | [Paper](https://arxiv.org/abs/2304.08551) , [Tweet](https://twitter.com/dair_ai/status/1650145904219832324?s=20)
+| 6) **Architectures of Topological Deep Learning: A Survey on Topological Neural Networks** | [Paper](https://arxiv.org/abs/2304.10031) , [Tweet](https://twitter.com/dair_ai/status/1650145906560311298?s=20)  |
+| 7) **Visual Instruction Tuning** - presents an approach that uses language-only GPT-4 to generate multimodal language-image instruction-following data; applies instruction tuning with the data and introduces LLaVA, an end-to-end trained large multimodal model for general-purpose visual and language understanding.  | [Paper](https://arxiv.org/abs/2304.08485),  [Tweet](https://twitter.com/dair_ai/status/1650145909387214848?s=20)  |
+| 8) **ChatGPT: Applications, Opportunities, and Threats**  | [Paper](https://arxiv.org/abs/2304.09103),  [Tweet](https://twitter.com/dair_ai/status/1650145911836745736?s=20)  |
+| 9) **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** - a plug-and-play compositional reasoning framework that augments LLMs and can infer the appropriate sequence of tools to compose and execute in order to generate final responses; achieves 87% accuracy on ScienceQA and 99% on TabMWP.  | [Paper](https://arxiv.org/abs/2304.09842), [Tweet](https://twitter.com/dair_ai/status/1650145914420330496?s=20)  |
+| 10) **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** - applies latent diffusion models to high-resolution video generation; validates the model on creative content creation and real driving videos of 512 x 1024 and achieves state-of-the-art performance.  | [Paper](https://arxiv.org/abs/2304.08818), [Tweet](https://twitter.com/dair_ai/status/1650145916794314752?s=20)  |
+---
+
 ## Top ML Papers of the Week (April 10 - April 16)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
