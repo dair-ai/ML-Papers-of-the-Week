@@ -2,6 +2,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (April 17 - April 23)](XXX)
 - [Top ML Papers of the Week (April 17 - April 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-17---april-23)
 - [Top ML Papers of the Week (April 10 - April 16)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-10---april-16)
 - [Top ML Papers of the Week (April 3 - April 9)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-april-3---april-9)
@@ -26,6 +27,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
+---
+
+## Top ML Papers of the Week (April 24 - April 30)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning** - applies deep reinforcement learning to synthesize agile soccer skills for a miniature humanoid robot; the resulting policy allows dynamic movement skills such as fast recovery, walking, and kicking. | [Paper](https://arxiv.org/abs/2304.13653), [Tweet](https://twitter.com/dair_ai/status/1652693172810571780?s=20)|
+| 2) **Scaling Transformer to 1M tokens and beyond with RMT** - leverages a recurrent memory transformer architecture to increase BERT’s effective context length to two million tokens while maintaining high memory retrieval accuracy.  | [Paper](https://arxiv.org/abs/2304.11062), [Tweet](https://twitter.com/dair_ai/status/1652693174576349185?s=20) |
+| 3) **Track Anything: Segment Anything Meets Videos** - an interactive tool for video object tracking and segmentation; it’s built on top segment anything and allows flexible tracking and segmenting via user clicks. | [Paper](https://arxiv.org/abs/2304.11968), [Tweet](https://twitter.com/dair_ai/status/1652693176644165634?s=20) |
+| 4) **A Cookbook of Self-Supervised Learning** - provides an overview of fundamental techniques and key concepts in SSL; it also introduces practical considerations for implementing SSL methods successfully. | [Paper](https://arxiv.org/abs/2304.12210), [Tweet](https://twitter.com/dair_ai/status/1652693178724626435?s=20)  |
+| 5. **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond** - a comprehensive and practical guide for practitioners working with LLMs; discusses many use cases with practical applications and limitations of LLMs in real-world scenarios. | [Paper](https://arxiv.org/abs/2304.13712) , [Tweet](https://twitter.com/dair_ai/status/1652693180381274114?s=20)
+| 6) **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head** - connects ChatGPT with audio foundational models to handle challenging audio tasks and a modality transformation interface to enable spoken dialogue. | [Paper](https://arxiv.org/abs/2304.12995) , [Tweet](https://twitter.com/dair_ai/status/1652693181895409666?s=20)  |
+| 7) **DataComp: In search of the next generation of multimodal datasets** -  releases a new multimodal dataset benchmark containing 12.8B image-text pairs. | [Paper](https://arxiv.org/abs/2304.14108),  [Tweet](https://twitter.com/dair_ai/status/1652693183493447681?s=20)  |
+| 8) **ChatGPT for Information Extraction ** - provides a deeper assessment of ChatGPT's performance on the important information extraction task. | [Paper](https://arxiv.org/abs/2304.11633),  [Tweet](https://twitter.com/dair_ai/status/1652693184927989768?s=20)  |
+| 9) **Comparing Physician vs ChatGPT** - investigates if chatbot assistants like ChatGPT can provide responses to patient questions while emphasizing quality and empathy; finds that chatbot responses were preferred over physician responses and rated significantly higher in terms of both quality and empathy. | [Paper](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2804309), [Tweet](XXX)  |
+| 10) **Stable and low-precision training for large-scale vision-language models** - introduces methods for accelerating and stabilizing training of large-scale language vision models.  | [Paper](https://arxiv.org/abs/2304.13013), [Tweet](https://twitter.com/dair_ai/status/1652693187960479745?s=20)  |
 ---
 
 ## Top ML Papers of the Week (April 17 - April 23)
