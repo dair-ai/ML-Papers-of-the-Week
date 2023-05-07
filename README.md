@@ -2,6 +2,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (May 1-7)](xxx)
 - [Top ML Papers of the Week (April 24 - April 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-24---april-30)
 - [Top ML Papers of the Week (April 17 - April 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-17---april-23)
 - [Top ML Papers of the Week (April 10 - April 16)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-10---april-16)
@@ -27,6 +28,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
+---
+
+## Top ML Papers of the Week (May 1-7)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI** - a foundation large language model pretrained on 10 million cells for single-cell biology. | [Paper]([XXX](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1)), [Tweet](https://twitter.com/dair_ai/status/1655223088152211456?s=20) |
+| 2) **GPTutor: a ChatGPT-powered programming tool for code explanation** - a ChatGPT-powered tool for code explanation provided as a VSCode extension; claims to deliver more concise and accurate explanations than vanilla ChatGPT and Copilot; performance and personalization enhanced via prompt engineering; programmed to use more relevant code in its prompts. | [Paper]([XXX](https://arxiv.org/abs/2305.01863)), [Tweet](https://twitter.com/dair_ai/status/1655223089754517509?s=20) |
+| 3) **Shap-E: Generating Conditional 3D Implicit Functions** - a conditional generative model for 3D assets; unlike previous 3D generative models, this model generates implicit functions that enable rendering textured meshes and neural radiance fields. | [Paper](https://arxiv.org/abs/2305.02463), [Tweet](https://twitter.com/dair_ai/status/1655223091482566663?s=20) |
+| 4) **Are Emergent Abilities of Large Language Models a Mirage?** - presents an alternative explanation to the emergent abilities of LLMs; suggests that existing claims are creations of the researcher’s analyses and not fundamental changes in model behavior on specific tasks with scale| [Paper](https://arxiv.org/abs/2304.15004), [Tweet](https://twitter.com/dair_ai/status/1655223092975640578?s=20)  |
+| 5. **Interpretable Machine Learning for Science with PySR and SymbolicRegression.jl** - releases PySR, an open-source library for practical symbolic regression for the sciences; it’s built on a high-performance distributed back-end and interfaces with several deep learning packages; in addition, a new benchmark, “EmpiricalBench”, is released to quantify applicability of symbolic regression algorithms in science.| [Paper](https://arxiv.org/abs/2305.01582) , [Tweet](https://twitter.com/dair_ai/status/1655223094640889856?s=20)
+| 6) **PMC-LLaMA: Further Finetuning LLaMA on Medical Papers** -  a LLaMA model fine-tuned on 4.8 million medical papers; enhances capabilities in the medical domain and achieves high performance on biomedical QA benchmarks. | [Paper](https://arxiv.org/abs/2304.14454) , [Tweet](https://twitter.com/dair_ai/status/1655223096301740032?s=20)  |
+| 7) **Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes** -  a mechanism to extract rationales from LLMs to train smaller models that outperform larger language models with less training data needed by finetuning or distillation. | [Paper](https://arxiv.org/abs/2305.02301),  [Tweet](https://twitter.com/dair_ai/status/1655223098730217472?s=20)  |
+| 8) **Poisoning Language Models During Instruction Tuning** - show that adversaries can poison LLMs during instruction tuning by contributing poison examples to datasets; it can induce degenerate outputs across different held-out tasks. | [Paper](https://arxiv.org/abs/2305.00944),  [Tweet](https://twitter.com/dair_ai/status/1655223100286332934?s=20)  |
+| 9) **Unlimiformer: Long-Range Transformers with Unlimited Length Input** - proposes long-range transformers with unlimited length input by augmenting pre-trained encoder-decoder transformer with external datastore to support unlimited length input; shows usefulness in long-document summarization; could potentially be used to improve the performance of retrieval-enhanced LLMs. | [Paper](https://arxiv.org/abs/2305.01625), [Tweet](https://twitter.com/dair_ai/status/1655223101913718784?s=20)  |
+| 10) **Learning to Reason and Memorize with Self-Notes** - an approach that enables LLMs to reason and memorize enabling them to deviate from the input sequence at any time to explicitly “think”; this enables the LM to recall information and perform reasoning on the fly; experiments show that this method scales better to longer sequences unseen during training.  | [Paper](https://arxiv.org/abs/2305.00833), [Tweet](https://twitter.com/dair_ai/status/1655223103662829569?s=20)  |
 ---
 
 ## Top ML Papers of the Week (April 24 - April 30)
