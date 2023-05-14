@@ -1,8 +1,8 @@
 # **ML Papers of The Week**
 
-At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
-
 [Subscribe to the NLP Newsletter](https://nlpnews.substack.com/)
+
+At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
 - [Top ML Papers of the Week (May 1-7)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-1-7)
 - [Top ML Papers of the Week (April 24 - April 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-24---april-30)
