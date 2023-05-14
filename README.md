@@ -2,6 +2,8 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+[Subscribe to the NLP Newsletter](https://nlpnews.substack.com/)
+
 - [Top ML Papers of the Week (May 1-7)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-1-7)
 - [Top ML Papers of the Week (April 24 - April 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-24---april-30)
 - [Top ML Papers of the Week (April 17 - April 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-17---april-23)
@@ -23,8 +25,6 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 
 [Follow us on Twitter](https://twitter.com/dair_ai) 
-
-[Subscribe to our Newsletter](https://nlpnews.substack.com/)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
