@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (May 8 - 14)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-8-14)
 - [Top ML Papers of the Week (May 1-7)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-1-7)
 - [Top ML Papers of the Week (April 24 - April 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-24---april-30)
 - [Top ML Papers of the Week (April 17 - April 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-april-17---april-23)
@@ -28,6 +29,20 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
+---
+## Top ML Papers of the Week (May 8-14)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **LLM explains neurons in LLMs** - applies GPT-4 to automatically write explanations on the behavior of neurons in LLMs and even score those explanations; this offers a promising way to improve interpretability in future LLMs and potentially detect alignment and safety problems. | [Paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html), [Tweet](https://twitter.com/OpenAI/status/1655982364273831936?s=20) |
+| 2) **PaLM 2** - a new state-of-the-art language model integrated into AI features and tools like Bard and the PaLM API; displays competitive performance in mathematical reasoning compared to GPT-4; instruction-tuned model, Flan-PaLM 2, shows good performance on benchmarks like MMLU and BIG-bench Hard. | [Paper](https://ai.google/static/documents/palm2techreport.pdf), [Tweet](https://twitter.com/Google/status/1656347171556294669?s=20) |
+| 3) **ImageBind** - an approach that learns joint embedding data across six modalities at once; extends zero-shot capabilities to new modalities and enables emergent applications including cross-modal retrieval, composing modalities with arithmetic, cross-modal detection, and generation. | [Paper](https://arxiv.org/abs/2305.05665), [Tweet](https://twitter.com/MetaAI/status/1655989274620358656?s=20) |
+| 4) **TidyBot** - shows that robots can combine language-based planning and perception with the few-shot summarization capabilities of LLMs to infer generalized user preferences that are applicable to future interactions. | [Paper](https://arxiv.org/abs/2305.05658), [Tweet](https://twitter.com/_akhaliq/status/1656117478760796160?s=20) |
+| 5. **Unfaithful Explanations in Chain-of-Thought Prompting** - demonstrates that CoT explanations can misrepresent the true reason for a model’s prediction; when models are biased towards incorrect answers, CoT generation explanations supporting those answers. | [Paper](https://arxiv.org/abs/2305.04388) , [Tweet](https://twitter.com/milesaturpin/status/1656010877269602304?s=20)
+| 6) **InstructBLIP** - explores visual-language instruction tuning based on the pre-trained BLIP-2 models; achieves state-of-the-art zero-shot performance on 13 held-out datasets, outperforming BLIP-2 and Flamingo. | [Paper](https://arxiv.org/abs/2305.06500) , [Tweet](https://twitter.com/LiJunnan0409/status/1656821806593101827?s=20)  |
+| 7) **Active Retrieval Augmented LLMs** - introduces FLARE, retrieval augmented generation to improve the reliability of LLMs; FLARE actively decides when and what to retrieve across the course of the generation; demonstrates superior or competitive performance on long-form knowledge-intensive generation tasks. | [Paper](https://arxiv.org/abs/2305.06983),  [Tweet](https://twitter.com/omarsar0/status/1657004417726423042?s=20)  |
+| 8) **FrugalGPT** - presents strategies to reduce the inference cost associated with using LLMs while improving performance. | [Paper](https://arxiv.org/abs/2305.05176),  [Tweet](https://twitter.com/omarsar0/status/1656105704808419329?s=20)  |
+| 9) **StarCoder** - an open-access 15.5B parameter LLM with 8K context length and is trained on large amounts of code spanning 80+ programming languages. | [Paper](https://arxiv.org/abs/2305.06161), [Tweet](https://twitter.com/_akhaliq/status/1656479380296613894?s=20)  |
+| 10) **MultiModal-GPT** - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model. | [Paper](https://arxiv.org/abs/2305.04790), [Tweet](https://twitter.com/OpenMMLab/status/1656127026687000578?s=20)  |
 ---
 
 ## Top ML Papers of the Week (May 1-7)
