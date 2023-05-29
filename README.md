@@ -1,9 +1,10 @@
 # **ML Papers of The Week**
 
-[Subscribe to the NLP Newsletter](https://nlpnews.substack.com/)
+[Subscribe to our newletter](https://nlpnews.substack.com/) to get a weekly list of top ML papers in your inbox.
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (May 22 - 28)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-22-28)
 - [Top ML Papers of the Week (May 15 - 21)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-15-21)
 - [Top ML Papers of the Week (May 8 - 14)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-8-14)
 - [Top ML Papers of the Week (May 1-7)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-1-7)
@@ -29,6 +30,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (May 22-28)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **QLoRA** - an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning performance. | [Paper](https://arxiv.org/abs/2305.14314), [Tweet](https://twitter.com/Tim_Dettmers/status/1661379354507476994?s=20) |
+| 2) **LIMA** - a new 65B parameter LLaMa model fine-tuned on 1000 carefully curated prompts and responses; it doesn't use RLHF, generalizes well to unseen tasks not available in the training data, and generates responses equivalent or preferred to GPT-4 in 43% of cases, and even higher compared to Bard. | [Paper](https://arxiv.org/abs/2305.11206), [Tweet](https://twitter.com/violet_zct/status/1660789120069926912?s=20) |
+| 3) **Voyager** - an LLM-powered embodied lifelong learning agent in Minecraft that can continuously explore worlds, acquire skills, and make novel discoveries without human intervention. | [Paper](https://arxiv.org/abs/2305.16291), [Tweet](https://twitter.com/DrJimFan/status/1662115266933972993?s=20) |
+| 4) **Gorilla** - a finetuned LLaMA-based model that surpasses GPT-4 on writing API calls. This capability can help identify the right API, boosting the ability of LLMs to interact with external tools to complete specific tasks. | [Paper](https://arxiv.org/abs/2305.15334), [Tweet](https://twitter.com/omarsar0/status/1661540207206846464?s=20) |
+| 5. **The False Promise of Imitatiting Proprietary LLMs** -  provides a critical analysis of models that are finetuned on the outputs of a stronger model; argues that model imitation is a false premise and that the higher leverage action to improve open source models is to develop better base models. | [Paper](https://arxiv.org/abs/2305.15717) , [Tweet](https://twitter.com/arankomatsuzaki/status/1661908342829187072?s=20)
+| 6) **Sophia** - presents a simple scalable second-order optimizer that has negligible average per-step time and memory overhead; on language modeling, Sophia achieves 2x speed-up compared to Adam in the number of steps, total compute, and wall-clock time. | [Paper](https://arxiv.org/abs/2305.14342) , [Tweet](https://twitter.com/tengyuma/status/1661412995430219786?s=20)  |
+| 7) **The Larger They Are, the Harder They Fail** - shows that LLMs fail to generate correct Python code when default function names are swapped; they also strongly prefer incorrect continuation as they become bigger. | [Paper](https://arxiv.org/abs/2305.15507),  [Tweet](https://twitter.com/AVMiceliBarone/status/1662150656327663617?s=20)  |
+| 8) **Model Evaluation for Extreme Risks** - discusses the importance of model evaluation for addressing extreme risks and making responsible decisions about model training, deployment, and security. | [Paper](https://arxiv.org/abs/2305.15324),  [Tweet](https://twitter.com/soundboy/status/1661728733156503555?s=20)  |
+| 9) **LLM Research Directions** - discusses a list of research directions for students looking to do research with LLMs. | [Paper](https://arxiv.org/abs/2305.12544), [Tweet](https://twitter.com/omarsar0/status/1661405738059571201?s=20)  |
+| 10) **Reinventing RNNs for the Transformer Era** - proposes an approach that combines the efficient parallelizable training of Transformers with the efficient inference of RNNs; results show that the method performs on part with similarly sized Transformers. | [Paper](https://arxiv.org/abs/2305.13048), [Tweet](https://twitter.com/_akhaliq/status/1660816265454419969?s=20)  |
 
 ---
 ## Top ML Papers of the Week (May 15-21)
