@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (May 29 - June 4)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-22-28)
 - [Top ML Papers of the Week (May 22 - 28)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-22-28)
 - [Top ML Papers of the Week (May 15 - 21)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-15-21)
 - [Top ML Papers of the Week (May 8 - 14)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-8-14)
@@ -32,6 +33,22 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
 ---
+## Top ML Papers of the Week (May 29-June 4)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Let’s Verify Step by Step** - achieves state-of-the-art mathematical problem solving by rewarding each correct step of reasoning in a chain-of-thought instead of rewarding the final answer; the model solves 78% of problems from a representative subset of the MATH test set. | [Paper](https://arxiv.org/abs/2305.20050), [Tweet](https://twitter.com/OpenAI/status/1663957407184347136?s=20) |
+| 2) **No Positional Encodings** - shows that explicit position embeddings are not essential for decoder-only Transformers; shows that other positional encoding methods like ALiBi and Rotary are not well suited for length generalization. | [Paper](https://arxiv.org/abs/2305.19466), [Tweet](https://twitter.com/a_kazemnejad/status/1664277559968927744?s=20) |
+| 3) **BiomedGPT** - a unified biomedical generative pretrained transformer model for vision, language, and multimodal tasks. Achieves state-of-the-art performance across 5 distinct tasks with 20 public datasets spanning over 15 unique biomedical modalities. | [Paper](https://arxiv.org/abs/2305.17100), [Tweet](https://twitter.com/omarsar0/status/1662992484576681986?s=20) |
+| 4) **Thought Cloning** - introduces an imitation learning framework to learn to think while acting; the idea is not only to clone the behaviors of human demonstrators but also the thoughts humans have when performing behaviors. | [Paper](https://arxiv.org/abs/2306.00323), [Tweet](https://twitter.com/johnjnay/status/1664798780644904960?s=20) |
+| 5. **Fine-Tuning Language Models with Just Forward Passes** - proposes a memory-efficient zeroth-order optimizer and a corresponding SGD algorithm to finetune large LMs with the same memory footprint as inference. | [Paper](https://arxiv.org/abs/2305.17333) , [Tweet](https://twitter.com/arankomatsuzaki/status/1663360307274690560?s=20)
+| 6) **MERT** - an acoustic music understanding model with large-scale self-supervised training; it incorporates a superior combination of teacher models to outperform conventional speech and audio approaches. | [Paper](https://arxiv.org/abs/2306.00107) , [Tweet](https://twitter.com/yizhilll/status/1664680921146982401?s=20)  |
+| 7) **Bytes Are All You Need** - investigates performing classification directly on file bytes, without needing to decode files at inference time; achieves ImageNet Top-1 accuracy of 77.33% using a transformer backbone; achieves 95.42% accuracy when operating on WAV files from the Speech Commands v2 dataset.| [Paper](https://arxiv.org/abs/2306.00238),  [Tweet](https://twitter.com/_akhaliq/status/1664497650702471169?s=20)  |
+| 8) **Direct Preference Optimization** - while helpful to train safe and useful LLMs, the RLHF process can be complex and often unstable; this work proposes an approach to finetune LMs by solving a classification problem on the human preferences data, with no RL required. | [Paper](https://arxiv.org/abs/2305.18290),  [Tweet](https://twitter.com/archit_sharma97/status/1663595372269408261?s=20)  |
+| 9) **SQL-PaLM** - an LLM-based Text-to-SQL adopted from PaLM-2; achieves SoTA in both in-context learning and fine-tuning settings; the few-shot model outperforms the previous fine-tuned SoTA by 3.8% on the Spider benchmark; few-shot SQL-PaLM also outperforms few-shot GPT-4 by 9.9%, using a simple prompting approach. | [Paper](https://arxiv.org/abs/2306.00739), [Tweet](https://twitter.com/omarsar0/status/1664441085693657088?s=20)  |
+| 10) **CodeTF** - an open-source Transformer library for state-of-the-art code LLMs; supports pretrained code LLMs and popular code benchmarks, including standard methods to train and serve code LLMs efficiently. | [Paper](https://arxiv.org/abs/2306.00029), [Tweet](https://twitter.com/stevenhoi/status/1664483010954272770?s=20)  |
+
+---
+
 ## Top ML Papers of the Week (May 22-28)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
