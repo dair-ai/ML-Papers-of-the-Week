@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (June 5 - June 11)]()
 - [Top ML Papers of the Week (May 29 - June 4)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-may-29-june-4)
 - [Top ML Papers of the Week (May 22 - 28)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-22-28)
 - [Top ML Papers of the Week (May 15 - 21)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-15-21)
@@ -31,6 +32,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (May 29-June 4)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Tracking Everything Everywhere All at Once** - propose a test-time optimization method for estimating dense and long-range motion; enables accurate, full-length motion estimation of every pixel in a video.| [Paper](https://arxiv.org/abs/2306.05422), [Tweet](https://twitter.com/sstj389/status/1667000331958468608?s=20) |
+| 2) **AlphaDev** - a deep reinforcement learning agent which discovers faster sorting algorithms from scratch; the algorithms outperform previously known human benchmarks and have been integrated into the LLVM C++ library. | [Paper](https://www.nature.com/articles/s41586-023-06004-9), [Tweet](https://twitter.com/omarsar0/status/1666486491793481738?s=20) |
+| 3) **Sparse-Quantized Representation** - a new compressed format and quantization technique that enables near-lossless compression of LLMs across model scales; “allows LLM inference at 4.75 bits with a 15% speedup”. | [Paper](https://arxiv.org/abs/2306.03078), [Tweet](https://twitter.com/Tim_Dettmers/status/1666076553665744896?s=20) |
+| 4) **MusicGen** -  a simple and controllable model for music generation built on top of a single-stage transformer LM together with efficient token interleaving patterns; it can be conditioned on textual descriptions or melodic features and shows high performance on a standard text-to-music benchmark. | [Paper](https://arxiv.org/abs/2306.05284), [Tweet](https://twitter.com/syhw/status/1667103478471176192?s=20) |
+| 5. **Augmenting LLMs with Databases** - combines an LLM with a set of SQL databases, enabling a symbolic memory framework; completes tasks via LLM generating SQL instructions that manipulate the DB autonomously. | [Paper](https://arxiv.org/abs/2306.03901), [Tweet](https://twitter.com/omarsar0/status/1666254609524961282?s=20)
+| 6) **Concept Scrubbing in LLM** - presents a method called LEAst-squares Concept Erasure (LEACE) to erase target concept information from every layer in a neural network; it’s used for reducing gender bias in BERT embeddings. | [Paper](https://arxiv.org/abs/2306.03819) , [Tweet](https://twitter.com/norabelrose/status/1666469917636571137?s=20)  |
+| 7) **Fine-Grained RLHF** - trains LMs with fine-grained human feedback; instead of using overall preference, more explicit feedback is provided at the segment level which helps to improve efficacy on long-form question answering, reduce toxicity, and enables LM customization. | [Paper](https://arxiv.org/abs/2306.01693),  [Tweet](https://twitter.com/zeqiuwu1/status/1665785626552049665?s=20)  |
+| 8) **Hierarchical Vision Transformer** - pretrains vision transformers with a visual pretext task (MAE), while removing unnecessary components from a state-of-the-art multi-stage vision transformer; this enables a simple hierarchical vision transformer that’s more accurate and faster at inference and during training. | [Paper](https://arxiv.org/abs/2306.00989),  [Tweet](https://twitter.com/MetaAI/status/1665759715765411840?s=20)  |
+| 9) **Humor in ChatGPT** - explores ChatGPT’s capabilities to grasp and reproduce humor; finds that over 90% of 1008 generated jokes were the same 25 jokes and that ChatGPT is also overfitted to a particular joke structure. | [Paper](https://arxiv.org/abs/2306.04563), [Tweet](https://twitter.com/AlbertBoyangLi/status/1666707728272850944?s=20)  |
+| 10) **Imitating Reasoning Process of Larger LLMs** - develops a 13B parameter model that learns to imitate the reasoning process of large foundational models like GPT-4; it leverages large-scale and diverse imitation data and surpasses instruction-tuned models such as Vicuna-13B in zero-shot reasoning. | [Paper](https://arxiv.org/abs/2306.02707), [Tweet](https://twitter.com/johnjnay/status/1665906453587034112?s=20)  |
 
 ---
 ## Top ML Papers of the Week (May 29-June 4)
