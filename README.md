@@ -34,7 +34,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
 ---
-## Top ML Papers of the Week (May 29-June 4)
+## Top ML Papers of the Week (June 5 - June 11)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Tracking Everything Everywhere All at Once** - propose a test-time optimization method for estimating dense and long-range motion; enables accurate, full-length motion estimation of every pixel in a video.| [Paper](https://arxiv.org/abs/2306.05422), [Tweet](https://twitter.com/sstj389/status/1667000331958468608?s=20) |
