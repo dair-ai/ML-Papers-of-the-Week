@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (June 12 - June 18)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-12---june-18)
 - [Top ML Papers of the Week (June 5 - June 11)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-5---june-11)
 - [Top ML Papers of the Week (May 29 - June 4)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-may-29-june-4)
 - [Top ML Papers of the Week (May 22 - 28)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-may-22-28)
@@ -32,6 +33,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (June 12 - June 18)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Voicebox** - an all-in-one generative speech model; it can synthesize speech across 6 languages; it can perform noise removal, content editing, style conversion, and more; it's 20x faster than current models and outperforms single-purpose models through in-context learning. | [Paper](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/), [Tweet](https://twitter.com/MetaAI/status/1669766837981306880?s=20) |
+| 2) **FinGPT** - an open-source LLM for the finance sector; it takes a data-centric approach, providing researchers & practitioners with accessible resources to develop FinLLMs. | [Paper](https://arxiv.org/abs/2306.06031), [Tweet](https://twitter.com/omarsar0/status/1668060502663077891?s=20) |
+| 3) **Crowd Workers Widely Use Large Language Models for Text Production Tasks** - estimates that 33-46% of crowd workers on MTurk used LLMs when completing a text production task. | [Paper](https://arxiv.org/abs/2306.07899v1), [Tweet](https://twitter.com/manoelribeiro/status/1668986074801098754?s=20) |
+| 4) **Reliability of Watermarks for LLMs** - watermarking is useful to detect LLM-generated text and potentially mitigate harms; this work studies the reliability of watermarking for LLMs and finds that watermarks are detectable even when the watermarked text is re-written by humans or paraphrased by another non-watermarked LLM. | [Paper](https://arxiv.org/abs/2306.04634), [Tweet](https://twitter.com/tomgoldsteincs/status/1668668484975464448?s=20) |
+| 5. **Applications of Transformers** - a new survey paper highlighting major applications of Transformers for deep learning tasks; includes a comprehensive list of Transformer models. | [Paper](https://arxiv.org/abs/2306.07303), [Tweet](https://twitter.com/omarsar0/status/1668989324950491139?s=20)
+| 6) **Benchmarking NN Training Algorithms** - it’s currently challenging to properly assess the best optimizers to train neural networks; this paper presents a new benchmark, AlgoPerf, for benchmarking neural network training algorithms using realistic workloads. | [Paper](https://arxiv.org/abs/2306.07179),  [Tweet](https://twitter.com/zacharynado/status/1668683433944424448?s=20)  |
+| 7) **Unifying LLMs & Knowledge Graphs** - provides a roadmap for the unification of LLMs and KGs; covers how to incorporate KGs in LLM pre-training/inferencing, leverage LLMs for KG tasks such as question answering, and enhance both KGs and LLMs for bidirectional reasoning. | [Paper](https://arxiv.org/abs/2306.09310),  [Tweet](https://twitter.com/johnjnay/status/1670051081722769408?s=20)  |
+| 8) **Augmenting LLMs with Long-term Memory** - proposes a framework to enable LLMs to memorize long history; it’s enhanced with memory-augmented adaptation training to memorize long past context and use long-term memory for language modeling; achieves improvements on memory-augmented in-context learning over LLMs. | [Paper](https://arxiv.org/abs/2306.07174),  [Tweet](https://twitter.com/arankomatsuzaki/status/1668429602841317378?s=20)  |
+| 9) **TAPIR** - enables tracking any queried point on any physical surface throughout a video sequence; outperforms all baselines and facilitates fast inference on long and high-resolution videos (track points faster than real-time when using modern GPUs). | [Paper](https://arxiv.org/abs/2306.08637), [Tweet](https://twitter.com/AdamWHarley/status/1669785589246468096?s=20)  |
+| 10) **Mind2Web** - a new dataset for evaluating generalist agents for the web; contains 2350 tasks from 137 websites over 31 domains; it enables testing generalization ability across tasks and environments, covering practical use cases on the web. | [Paper](https://arxiv.org/abs/2306.06070), [Tweet](https://twitter.com/DrJimFan/status/1669403956064432128?s=20) |
 
 ---
 ## Top ML Papers of the Week (June 5 - June 11)
