@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (June 12 - June 18)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-19---june-25)
 - [Top ML Papers of the Week (June 12 - June 18)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-12---june-18)
 - [Top ML Papers of the Week (June 5 - June 11)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-5---june-11)
 - [Top ML Papers of the Week (May 29 - June 4)](https://github.com/dair-ai/ML-Papers-of-the-Week#top-ml-papers-of-the-week-may-29-june-4)
@@ -33,6 +34,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (June 19 - June 25)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Textbooks Are All You Need** - introduces a new 1.3B parameter LLM called phi-1; it’s significantly smaller in size and trained for 4 days using a selection of textbook-quality data and synthetic textbooks and exercises with GPT-3.5; achieves promising results on the HumanEval benchmark. | [Paper](https://arxiv.org/abs/2306.11644), [Tweet](https://twitter.com/SebastienBubeck/status/1671326369626853376?s=20) |
+| 2) **RoboCat** - a new foundation agent that can operate different robotic arms and can solve tasks from as few as 100 demonstrations; the self-improving AI agent can self-generate new training data to improve its technique and get more efficient at adapting to new tasks. | [Paper](https://arxiv.org/abs/2306.11706), [Tweet](https://twitter.com/DeepMind/status/1671171448638144515?s=20) |
+| 3) **ClinicalGPT** - a language model optimized through extensive and diverse medical data, including medical records, domain-specific knowledge, and multi-round dialogue consultations. | [Paper](https://arxiv.org/abs/2306.09968), [Tweet](https://twitter.com/omarsar0/status/1670606068777381890?s=20) |
+| 4) **An Overview of Catastrophic AI Risks** - provides an overview of the main sources of catastrophic AI risks; the goal is to foster more understanding of these risks and ensure AI systems are developed in a safe manner. | [Paper](https://arxiv.org/abs/2306.12001v1), [Tweet](https://twitter.com/DanHendrycks/status/1671894767331061763?s=20) |
+| 5. **LOMO** - proposes a new memory-efficient optimizer that combines gradient computation and parameter update in one step; enables tuning the full parameters of an LLM with limited resources. | [Paper](https://arxiv.org/abs/2306.09782), [Tweet](https://twitter.com/arankomatsuzaki/status/1670603218659811330?s=20)
+| 6) **SequenceMatch** - formulates sequence generation as an imitation learning problem; this framework allows the ability to incorporate backtracking into text generation through a backspace action; this enables the generative model to mitigate compounding errors by reverting sample tokens that lead to sequence OOD. | [Paper](https://arxiv.org/abs/2306.05426),  [Tweet](https://twitter.com/abacaj/status/1671636061494059009?s=20)  |
+| 7) **LMFlow** - an extensible and lightweight toolkit that simplifies finetuning and inference of general large foundation models; supports continuous pretraining, instruction tuning, parameter-efficient finetuning, alignment tuning, and large model inference. | [Paper](https://arxiv.org/abs/2306.12420),  [Tweet](https://twitter.com/omarsar0/status/1671881864930549761?s=20)  |
+| 8) **MotionGPT** - uses multimodal control signals for generating consecutive human motions; it quantizes multimodal control signals intro discrete codes which are converted to LLM instructions that generate motion answers. | [Paper](https://arxiv.org/abs/2306.10900v1),  [Tweet](https://twitter.com/arankomatsuzaki/status/1671341916980490241?s=20)  |
+| 9) **Wanda** - introduces a simple and effective pruning approach for LLMs; it prunes weights with the smallest magnitudes multiplied by the corresponding input activations, on a per-output basis; the approach requires no retraining or weight update and outperforms baselines of magnitude pruning. | [Paper](https://arxiv.org/abs/2306.11695), [Tweet](https://twitter.com/Yampeleg/status/1671885220218560516?s=20)  |
+| 10) **AudioPaLM** -fuses text-based and speech-based LMs, PaLM-2 and AudioLM, into a multimodal architecture that supports speech understanding and generation; outperforms existing systems for speech translation tasks with zero-shot speech-to-text translation capabilities. | [Paper](https://arxiv.org/abs/2306.12925v1), [Tweet](https://twitter.com/PaulKRubenstein/status/1672128984220413953?s=20) |
 
 ---
 ## Top ML Papers of the Week (June 12 - June 18)
