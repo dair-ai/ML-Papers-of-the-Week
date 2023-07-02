@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (June 26 - July 2)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-19---july-2)
 - [Top ML Papers of the Week (June 19 - June 25)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-19---june-25)
 - [Top ML Papers of the Week (June 12 - June 18)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-12---june-18)
 - [Top ML Papers of the Week (June 5 - June 11)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-5---june-11)
@@ -34,6 +35,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (June 26 - July 2)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **LeanDojo** - an open-source Lean playground consisting of toolkits, data, models, and benchmarks for theorem proving; also develops ReProver, a retrieval augmented LLM-based prover for theorem solving using premises from a vast math library. | [Paper](https://arxiv.org/abs/2306.15626), [Tweet](https://twitter.com/KaiyuYang4/status/1673882824158613504?s=20) |
+| 2) **Extending Context Window of LLMs** - extends the context window of LLMs like LLaMA to up to 32K with minimal fine-tuning (within 1000 steps); previous methods for extending the context window are inefficient but this approach attains good performance on several tasks while being more efficient and cost-effective. | [Paper](https://arxiv.org/abs/2306.15595), [Tweet](https://twitter.com/omarsar0/status/1674073189800919042?s=20) |
+| 3) **Computer Vision Through the Lens of Natural Language** - proposes a modular approach for solving computer vision problems by leveraging LLMs; the LLM is used to reason over outputs from independent and descriptive modules that provide extensive information about an image. | [Paper](https://arxiv.org/abs/2306.16410), [Tweet](https://twitter.com/arankomatsuzaki/status/1674219223856365569?s=20) |
+| 4) **Visual Navigation Transformer** - a foundational model that leverages the power of pretrained models to vision-based robotic navigation; it can be used with any navigation dataset and is built on a flexible Transformer-based architecture that can tackle various navigational tasks. | [Paper](https://arxiv.org/abs/2306.14846), [Tweet](https://twitter.com/svlevine/status/1673732522155601920?s=20) |
+| 5. **Generative AI for Programming Education** -  evaluates GPT-4 and ChatGPT on programming education scenarios and compares their performance with human tutors; GPT-4 outperforms ChatGPT and comes close to human tutors' performance. | [Paper](https://arxiv.org/abs//2306.17156), [Tweet](https://twitter.com/_akhaliq/status/1674590713051242498?s=20)
+| 6) **DragDiffusion** - extends interactive point-based image editing using diffusion models; it optimizes the diffusion latent to achieve precise spatial control and complete high-quality editing efficiently. | [Paper](https://arxiv.org/abs//2306.14435),  [Tweet](https://twitter.com/_akhaliq/status/1673570232429051906?s=20)  |
+| 7) **Understanding Theory-of-Mind in LLMs with LLMs** - a framework for procedurally generating evaluations with LLMs; proposes a benchmark to study the social reasoning capabilities of LLMs with LLMs.  | [Paper](https://arxiv.org/abs/2306.15448),  [Tweet](https://twitter.com/johnjnay/status/1673871545725505537?s=20)  |
+| 8) **Evaluations with No Labels** -  a framework for self-supervised evaluation of LLMs by analyzing their sensitivity or invariance to transformations on input text; can be used to monitor LLM behavior on datasets streamed during live model deployment. | [Paper](https://arxiv.org/abs/2306.13651v1),  [Tweet](https://twitter.com/tomgoldsteincs/status/1673808766679097346?s=20)  |
+| 9) **Long-range Language Modeling with Self-Retrieval** - an architecture and training procedure for jointly training a retrieval-augmented language model from scratch for long-range language modeling tasks.  | [Paper](https://arxiv.org/abs//2306.13421), [Tweet](https://twitter.com/arankomatsuzaki/status/1673129191863140353?s=20)  |
+| 10) **Scaling MLPs: A Tale of Inductive Bias** - shows that the performance of MLPs improves with scale and highlights that lack of inductive bias can be compensated. | [Paper](https://arxiv.org/abs//2306.13575), [Tweet](https://twitter.com/ethanCaballero/status/1673725211907182592?s=20) |
 
 ---
 ## Top ML Papers of the Week (June 19 - June 25)
