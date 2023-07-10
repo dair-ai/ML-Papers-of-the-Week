@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (July 3 - July 9)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-3---july-9)
 - [Top ML Papers of the Week (June 26 - July 2)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-26---july-2)
 - [Top ML Papers of the Week (June 19 - June 25)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-19---june-25)
 - [Top ML Papers of the Week (June 12 - June 18)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-12---june-18)
@@ -35,6 +36,22 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (July 3 - July 9)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **A Survey on Evaluation of LLMs** - a comprehensive overview of evaluation methods for LLMs focusing on what to evaluate, where to evaluate, and how to evaluate. | [Paper](https://arxiv.org/abs/2307.03109), [Tweet](https://twitter.com/omarsar0/status/1677137934946803712?s=20) |
+| 2) **How Language Models Use Long Contexts ** - finds that LM performance is often highest when relevant information occurs at the beginning or end of the input context; performance degrades when relevant information is provided in the middle of a long context.  | [Paper](https://arxiv.org/abs/2307.03172), [Tweet](https://twitter.com/nelsonfliu/status/1677373731948339202?s=20) |
+| 3) **LLMs as Effective Text Rankers ** - proposes a prompting technique that enables open-source LLMs to perform state-of-the-art text ranking on standard benchmarks. | [Paper](https://arxiv.org/abs/2306.17563), [Tweet](https://twitter.com/arankomatsuzaki/status/1675673784454447107?s=20) |
+| 4) **Multimodal Generation with Frozen LLMs ** - introduces an approach that effectively maps images to the token space of LLMs; enables models like PaLM and GPT-4 to tackle visual tasks without parameter updates; enables multimodal tasks and uses in-context learning to tackle various visual tasks. | [Paper](https://arxiv.org/abs/2306.17842), [Tweet](https://twitter.com/roadjiang/status/1676375112914989056?s=20) |
+| 5. **CodeGen2.5** - releases a new code LLM trained on 1.5T tokens; the 7B model is on par with >15B code-generation models and it’s optimized for fast sampling. | [Paper](https://arxiv.org/abs/2305.02309), [Tweet](https://twitter.com/erik_nijkamp/status/1677055271104045056?s=20) |
+| 6) **Elastic Decision Transformer** - introduces an advancement over Decision Transformers and variants by facilitating trajectory stitching during action inference at test time, achieved by adjusting to shorter history that allows transitions to diverse and better future states. | [Paper](https://arxiv.org/abs/2307.02484),  [Tweet](https://twitter.com/xiaolonw/status/1677003542249484289?s=20)  |
+| 7) **Robots That Ask for Help** -  presents a framework to measure and align the uncertainty of LLM-based planners that ask for help when needed.  | [Paper](https://arxiv.org/abs/2307.01928),  [Tweet](https://twitter.com/allenzren/status/1677000811803443213?s=20)  |
+| 8) **Physics-based Motion Retargeting in Real-Time** -  proposes a method that uses reinforcement learning to train a policy to control characters in a physics simulator; it retargets motions in real-time from sparse human sensor data to characters of various morphologies.  | [Paper](https://arxiv.org/abs/2307.01938),  [Tweet](https://twitter.com/_akhaliq/status/1676822600478015488?s=20)  |
+| 9) **Scaling Transformer to 1 Billion Tokens** - presents LongNet, a Transformer variant that can scale sequence length to more than 1 billion tokens, with no loss in shorter sequences. | [Paper](https://arxiv.org/abs/2307.02486), [Tweet](https://twitter.com/arankomatsuzaki/status/1676765133362675712?s=20)  |
+| 10) **InterCode** - introduces a framework of interactive coding as a reinforcement learning environment; this is different from the typical coding benchmarks that consider a static sequence-to-sequence process. | [Paper](https://arxiv.org/abs/2306.14898), [Tweet](https://twitter.com/ShunyuYao12/status/1675903408727896066?s=20) |
+
 
 ---
 ## Top ML Papers of the Week (June 26 - July 2)
