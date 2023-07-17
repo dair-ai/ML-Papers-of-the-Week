@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (July 10 - July 16)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-10---july-16)
 - [Top ML Papers of the Week (July 3 - July 9)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-3---july-9)
 - [Top ML Papers of the Week (June 26 - July 2)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-26---july-2)
 - [Top ML Papers of the Week (June 19 - June 25)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-19---june-25)
@@ -36,6 +37,22 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (July 10 - July 16)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **CM3Leon** -  introduces a retrieval-augmented multi-modal language model that can generate text and images; leverages diverse and large-scale instruction-style data for tuning which leads to significant performance improvements and 5x less training compute than comparable methods. | [Paper](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/), [Tweet](https://twitter.com/MetaAI/status/1679885986363478018?s=20) |
+| 2) **Claude 2** - presents a detailed model card for Claude 2 along with results on a range of safety, alignment, and capabilities evaluations.  | [Paper](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf), [Tweet](https://twitter.com/AnthropicAI/status/1678759122194530304?s=20) |
+| 3) **Secrets of RLHF in LLMs** - takes a closer look at RLHF and explores the inner workings of PPO with code included. | [Paper](https://arxiv.org/abs/2307.04964), [Tweet](https://twitter.com/omarsar0/status/1678938028918571009?s=20) |
+| 4) **LongLLaMA** -  employs a contrastive training process to enhance the structure of the (key, value) space to extend context length; presents a fine-tuned model that lengthens context and demonstrates improvements in long context tasks. | [Paper](https://arxiv.org/abs/2307.03170v1), [Tweet](https://twitter.com/s_tworkowski/status/1677125863429795840?s=20) |
+| 5. **Patch n’ Pack: NaViT** - introduces a vision transformer for any aspect ratio and resolution through sequence packing; enables flexible model usage, improved training efficiency, and transfers to tasks involving image and video classification among others. | [Paper](https://arxiv.org/abs/2307.06304), [Tweet](https://twitter.com/m__dehghani/status/1679558751248850969?s=20)
+| 6) **LLMs as General Pattern Machines** - shows that even without any additional training, LLMs can serve as general sequence modelers, driven by in-context learning; this work applies zero-shot capabilities to robotics and shows that it’s possible to transfer the pattern among words to actions. | [Paper](https://arxiv.org/abs/2307.04721),  [Tweet](https://twitter.com/DrJimFan/status/1679898692307005440?s=20)  |
+| 7) **HyperDreamBooth** - introduces a smaller, faster, and more efficient version of Dreambooth; enables personalization of text-to-image diffusion model using a single input image, 25x faster than Dreambooth. | [Paper](https://arxiv.org/abs/2307.06949),  [Tweet](https://twitter.com/natanielruizg/status/1679893292618752000?s=20)  |
+| 8) **Teaching Arithmetics to Small Transformers** - trains small transformer models on chain-of-thought style data to significantly improve accuracy and convergence speed; it highlights the importance of high-quality instructive data for rapidly eliciting arithmetic capabilities. | [Paper](https://arxiv.org/abs/2307.03381),  [Tweet](https://twitter.com/DimitrisPapail/status/1678407512637284352?s=20)  |
+| 9) **AnimateDiff** - appends a motion modeling module to a frozen text-to-image model, which is then trained and used to animate existing personalized models to produce diverse and personalized animated images. | [Paper](https://arxiv.org/abs/2307.04725v1), [Tweet](https://twitter.com/dreamingtulpa/status/1679459297946632193?s=20)  |
+| 10) **Generative Pretraining in Multimodality** - presents a new transformer-based multimodal foundation model to generate images and text in a multimodal context; enables performant multimodal assistants via instruction tuning. | [Paper](https://arxiv.org/abs/2307.05222v1), [Tweet](https://twitter.com/_akhaliq/status/1678939405170475008?s=20) |
+
 
 ---
 ## Top ML Papers of the Week (July 3 - July 9)
