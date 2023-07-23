@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (July 17 - July 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-10---july-16)
 - [Top ML Papers of the Week (July 10 - July 16)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-10---july-16)
 - [Top ML Papers of the Week (July 3 - July 9)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-3---july-9)
 - [Top ML Papers of the Week (June 26 - July 2)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-june-26---july-2)
@@ -37,6 +38,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (July 17 - July 23)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Llama 2** -  a collection of pretrained foundational models and fine-tuned chat models ranging in scale from 7B to 70B; Llama 2-Chat is competitive on a range of tasks and shows strong results on safety and helpfulness. | [Paper](https://arxiv.org/abs/2307.09288v2), [Tweet](https://twitter.com/MetaAI/status/1681363272484945921?s=20) |
+| 2) **How is ChatGPT’s Behavior Changing Over Time?** - evaluates different versions of GPT-3.5 and GPT-4 on various tasks and finds that behavior and performance vary greatly over time; this includes differences in performance for tasks such as math problem-solving, safety-related generations, and code formatting. | [Paper](https://arxiv.org/abs/2307.09009v1), [Tweet](https://twitter.com/matei_zaharia/status/1681467961905926144?s=20) |
+| 3) **FlashAttention-2** - improves work partitioning and parallelism and addresses issues like reducing non-matmul FLOPs, parallelizing attention computation which increases occupancy, and reducing communication through shared memory.  | [Paper](https://arxiv.org/abs/2307.08691v1), [Tweet](https://twitter.com/tri_dao/status/1680987577913065472?s=20) |
+| 4) **Measuring Faithfulness in Chain-of-Thought Reasoning** - nds that CoT reasoning shows large variation across tasks by simple interventions like adding mistakes and paraphrasing; demonstrates that as the model becomes larger and more capable, the reasoning becomes less faithful; suggests carefully choosing the model size and tasks can enable CoT faithfulness. | [Paper](https://www-files.anthropic.com/production/files/measuring-faithfulness-in-chain-of-thought-reasoning.pdf), [Tweet](https://twitter.com/AnthropicAI/status/1681341063083229189?s=20) |
+| 5) **Generative TV & Showrunner Agents** - an approach to generate episodic content using LLMs and multi-agent simulation; this enables current systems to perform creative storytelling through the integration of simulation, the user, and powerful AI models and enhance the quality of AI-generated content. | [Paper](https://fablestudio.github.io/showrunner-agents/), [Tweet](https://twitter.com/fablesimulation/status/1681352904152850437?s=20)
+| 6) **Challenges & Application of LLMs** - summarizes a comprehensive list of challenges when working with LLMs that range from brittle evaluations to prompt brittleness to a lack of robust experimental designs. | [Paper](https://arxiv.org/abs/2307.10169),  [Tweet](https://twitter.com/omarsar0/status/1681844380934500358?s=20)  |
+| 7) **Retentive Network** - presents a foundation architecture for LLMs with the goal to improve training efficiency, inference, and efficient long-sequence modeling; adapts retention mechanism for sequence modeling that support parallel representation, recurrent representations, and chunkwise recurrent representation. | [Paper](https://arxiv.org/abs/2307.08621),  [Tweet](https://twitter.com/arankomatsuzaki/status/1681113977500184576?s=20)  |
+| 8) **Meta-Transformer** - a framework that performs unified learning across 12 modalities; it can handle tasks that include fundamental perception (text, image, point cloud, audio, video), practical application (X-Ray, infrared, hyperspectral, and IMU), and data mining (graph, tabular, and time-series). | [Paper](https://arxiv.org/abs/2307.10802),  [Tweet](https://twitter.com/omarsar0/status/1682197751990288385?s=20)  |
+| 9) **Retrieve In-Context Example for LLMs** - presents a framework to iteratively train dense retrievers to identify high-quality in-context examples for LLMs; the approach enhances in-context learning performance demonstrated using a suite of 30 tasks; examples with similar patterns are helpful and gains are consistent across model sizes. | [Paper](https://arxiv.org/abs/2307.07164), [Tweet](https://twitter.com/_akhaliq/status/1680770636166094848?s=20)  |
+| 10) **FLASK** - proposes fine-grained evaluation for LLMs based on a range of alignment skill sets; involves 12 skills and can help to provide a holistic view of a model’s performance depending on skill, domain, and level of difficulty; useful to analyze factors that make LLMs more proficient at specific skills. | [Paper](https://arxiv.org/abs/2307.10928), [Tweet](https://twitter.com/SeonghyeonYe/status/1682209670302408705?s=20) |
 
 ---
 ## Top ML Papers of the Week (July 10 - July 16)
