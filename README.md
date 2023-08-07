@@ -5,7 +5,7 @@
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
 
-- [Top ML Papers of the Week (July 31 - August 6)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-31---agustu-6)
+- [Top ML Papers of the Week (July 31 - August 6)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-31---august-6)
 - [Top ML Papers of the Week (July 24 - July 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-24---july-30)
 - [Top ML Papers of the Week (July 17 - July 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-17---july-23)
 - [Top ML Papers of the Week (July 10 - July 16)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-10---july-16)
