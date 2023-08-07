@@ -4,6 +4,8 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+
+- [Top ML Papers of the Week (July 31 - August 6)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-31---agustu-6)
 - [Top ML Papers of the Week (July 24 - July 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-24---july-30)
 - [Top ML Papers of the Week (July 17 - July 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-17---july-23)
 - [Top ML Papers of the Week (July 10 - July 16)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-10---july-16)
@@ -39,6 +41,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (July 31 - August 6)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Open Problem and Limitation of RLHF** - provides an overview of open problems and the limitations of RLHF. | [Paper](https://arxiv.org/abs/2307.15217), [Tweet](https://twitter.com/arankomatsuzaki/status/1685813753063870465?s=20) |
+| 2) **Med-Flamingo** - a new multimodal model that allows in-context learning and enables tasks such as few-shot medical visual question answering; evaluations based on physicians, show improvements of up to 20% in clinician's rating; the authors occasionally observed low-quality generations and hallucinations. | [Paper](https://arxiv.org/abs/2307.15189), [Tweet](https://twitter.com/Michael_D_Moor/status/1685804620730540033?s=20) |
+| 3) **ToolLLM** - enables LLMs to interact with 16000 real-world APIs; it’s a framework that allows data preparation, training, and evaluation; the authors claim that one of their models, ToolLLaMA, has reached the performance of ChatGPT (turbo-16k) in tool use. | [Paper](https://arxiv.org/abs/2307.16789v1), [Tweet](https://twitter.com/omarsar0/status/1687531613574348800?s=20) |
+| 4) **Skeleton-of-Thought** - proposes a prompting strategy that firsts generate an answer skeleton and then performs parallel API calls to generate the content of each skeleton point; reports quality improvements in addition to speed-up of up to 2.39x. | [Paper](https://arxiv.org/abs/2307.15337), [Tweet](https://twitter.com/omarsar0/status/1685832487103008768?s=20) |
+| 5) **MetaGPT** -  a framework involving LLM-based multi-agents that encodes human standardized operating procedures (SOPs) to extend complex problem-solving capabilities that mimic efficient human workflows; this enables MetaGPT to perform multifaceted software development, code generation tasks, and even data analysis using tools like AutoGPT and LangChain. | [Paper](https://arxiv.org/abs/2308.00352v2), [Tweet](https://twitter.com/ai_database/status/1686949868298973184?s=20)
+| 6) **OpenFlamingo** -  introduces a family of autoregressive vision-language models ranging from 3B to 9B parameters; the technical report describes the models, training data, and evaluation suite. | [Paper](https://arxiv.org/abs/2308.01390),  [Tweet](https://twitter.com/anas_awadalla/status/1687295129005195264?s=20)  |
+| 7) **The Hydra Effect** - shows that language models exhibit self-repairing properties — when one layer of attention heads is ablated it causes another later layer to take over its function. | [Paper](https://arxiv.org/abs/2307.15771),  [Tweet](https://twitter.com/_akhaliq/status/1686192437771788288?s=20)  |
+| 8) **Self-Check** - explores whether LLMs have the capability to perform self-checks which is required for complex tasks that depend on non-linear thinking and multi-step reasoning; it proposes a zero-shot verification scheme to recognize errors without external resources; the scheme can improve question-answering performance through weighting voting and even improve math word problem-solving.  | [Paper](https://arxiv.org/abs/2308.00436),  [Tweet](https://twitter.com/_akhaliq/status/1686561569486827520?s=20)  |
+| 9) **Agents Model the World with Language** -  presents an agent that learns a multimodal world model that predicts future text and image representations; it learns to predict future language, video, and rewards; it’s applied to different domains and can learn to follow instructions in visually and linguistically complex domains.| [Paper](https://arxiv.org/abs/2308.01399), [Tweet](https://twitter.com/johnjnay/status/1687277999517818880?s=20)  |
+| 10) **AutoRobotics-Zero** - discovers zero-shot adaptable policies from scratch that enable adaptive behaviors necessary for sudden environmental changes; as an example, the authors demonstrate the automatic discovery of Python code for controlling a robot. | [Paper](https://arxiv.org/abs/2307.16890), [Tweet](https://twitter.com/XingyouSong/status/1686190266578046976?s=20) |
 
 ---
 ## Top ML Papers of the Week (July 24 - July 30)
