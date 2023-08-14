@@ -41,6 +41,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
 ---
 ## Top ML Papers of the Week (August 7 - August 13)
 | **Paper**  | **Links** |
