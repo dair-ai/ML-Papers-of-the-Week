@@ -4,7 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
-
+- [Top ML Papers of the Week (August 7 - August 13)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-7---august-13)
 - [Top ML Papers of the Week (July 31 - August 6)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-31---august-6)
 - [Top ML Papers of the Week (July 24 - July 30)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-24---july-30)
 - [Top ML Papers of the Week (July 17 - July 23)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-17---july-23)
@@ -41,6 +41,20 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+---
+## Top ML Papers of the Week (August 7 - August 13)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+|**1). LLMs as Database Administrators** - presents D-Bot, a framework based on LLMs that continuously acquires database maintenance experience from textual sources; D-Bot can help in performing: 1) database maintenance knowledge detection from documents and tools, 2) tree of thought reasoning for root cause analysis, and 3) collaborative diagnosis among multiple LLMs. | [Paper](https://arxiv.org/abs/2308.05481) [Tweet](https://twitter.com/omarsar0/status/1689811820272353280?s=20) |
+|**2) Political Biases Found in NLP Models** - develops methods to measure media biases in LLMs, including the fairness of downstream NLP models tuned on top of politically biased LLMs; findings reveal that LLMs have political leanings which reinforce existing polarization in the corpora. | [Paper](https://aclanthology.org/2023.acl-long.656/) [Tweet](https://twitter.com/AiBreakfast/status/1688939983468453888?s=20) |
+|**3). Evaluating LLMs as Agents** - presents a multidimensional benchmark (AgentBench) to assess LLM-as-Agent’s reasoning and decision-making abilities; results show that there is a significant disparity in performance between top commercial LLMs and open-source LLMs when testing the ability to act as agents; open-source LLMs lag on the AgentBench tasks while GPT-4 shows potential to build continuously learning agents.|[Paper](https://arxiv.org/abs/2308.03688v1) [Tweet](https://twitter.com/arankomatsuzaki/status/1688719837760000000?s=20)|
+|**4). Studying LLM Generalization with Influence Functions** - introduces an efficient approach to scale influence functions to LLMs with up to 52 billion parameters; the influence functions are used to further investigate the generalization patterns of LLMs such as cross-lingual generalization and memorization; finds that middle layers in the network seem to be responsible for the most abstract generalization patterns.|[Paper](https://arxiv.org/abs/2308.03296)  [Tweet](https://twitter.com/AnthropicAI/status/1688946685937090560?s=20)|
+|**5). Seeing Through the Brain** - proposes NeuroImagen, a pipeline for reconstructing visual stimuli images from EEG signals to potentially understand visually-evoked brain activity; a latent diffusion model takes EEG data and reconstructs high-resolution visual stimuli images. | [Paper](https://arxiv.org/abs/2308.02510) [Tweet](https://twitter.com/_akhaliq/status/1688787286807228416?s=20)|
+|**6). SynJax** - is a new library that provides an efficient vectorized implementation of inference algorithms for structured distributions; it enables building large-scale differentiable models that explicitly model structure in data like tagging, segmentation, constituency trees, and spanning trees.|[Paper](https://arxiv.org/abs/2308.03291v1) [Tweet](https://twitter.com/milosstanojevic/status/1688896558790520832?s=20)|
+|**7). Synthetic Data Reduces Sycophancy in LLMs** - proposes fine-tuning on simple synthetic data to reduce sycophancy in LLMs; sycophancy occurs when LLMs try to follow a user’s view even when it’s not objectively correct; essentially, the LLM repeats the user’s view even when the opinion is wrong. | [Paper](https://arxiv.org/abs/2308.03958) [Tweet](https://twitter.com/JerryWeiAI/status/1689340237993185280?s=20)|
+|**8). Photorealistic Unreal Graphics (PUG)** - presents photorealistic and semantically controllable synthetic datasets for representation learning using Unreal Engine; the goal is to democratize photorealistic synthetic data and enable more rigorous evaluations of vision models.|[Paper](https://arxiv.org/abs/2308.03977) | [Tweet](https://twitter.com/MetaAI/status/1689316127846109184?s=20)|
+|**9). LLMs for Industrial Control** - develops an approach to select demonstrations and generate high-performing prompts used with GPT for executing tasks such as controlling (Heating, Ventilation, and Air Conditioning) for buildings; GPT-4 performs comparable to RL method but uses fewer samples and lower technical debt.|[Paper](https://arxiv.org/abs/2308.03028) [Tweet](https://twitter.com/emollick/status/1688760539441217536?s=20)|
+|**10).**  **Trustworthy LLMs -** presents a comprehensive overview of important categories and subcategories crucial for assessing LLM trustworthiness; the dimensions include reliability, safety, fairness, resistance to misuse, explainability and reasoning, adherence to social norms, and robustness; finds that aligned models perform better in terms of trustworthiness but the effectiveness of alignment varies.|[Paper](https://arxiv.org/abs/2308.05374) [Tweet](https://twitter.com/_akhaliq/status/1689818964669390848?s=20)|
 
 ---
 ## Top ML Papers of the Week (July 31 - August 6)
