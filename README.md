@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (August 21 - August 27)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-21---august-27)
 - [Top ML Papers of the Week (August 14 - August 20)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-13---august-20)
 - [Top ML Papers of the Week (August 7 - August 13)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-7---august-13)
 - [Top ML Papers of the Week (July 31 - August 6)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-july-31---august-6)
@@ -42,7 +43,20 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
-
+---
+## Top ML Papers of the Week (August 21 - August 27)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| **1). Code Llama** - a family of LLMs for code based on Llama 2; the models provided as part of this release: foundation base models | [Paper](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/), [Tweet](https://twitter.com/MetaAI/status/1694729071325007993?s=20) |
+| **2). Survey on Instruction Tuning for LLMs** - new survey paper on instruction tuning LLM, including a systematic review of the literature, methodologies, dataset construction, training models, applications, and more. | [Paper](https://arxiv.org/abs/2308.10792), [Tweet](https://twitter.com/omarsar0/status/1693978006237102589?s=20) |
+| **3). SeamlessM4T** - a unified multilingual and multimodal machine translation system that supports ASR, text-to-text translation, speech-to-text translation, text-to-speech translation, and speech-to-speech translation. | [Paper](https://ai.meta.com/research/publications/seamless-m4t/), [Tweet](https://twitter.com/MetaAI/status/1694020437532151820?s=20) |
+| **4). Use of LLMs for Illicit Purposes** - provides an overview of existing efforts to identify and mitigate threats and vulnerabilities arising from LLMs; serves as a guide to building more reliable and robust LLM-powered systems. | [Paper](https://arxiv.org/abs/2308.12833), [Tweet](https://twitter.com/omarsar0/status/1694885393286549636?s=20) |
+| **5).**  **Giraffe** - a new family of models that are fine-tuned from base Llama and Llama 2; extends the context length to 4K, 16K, and 32K; explores the space of expanding context lengths in LLMs so it also includes insights useful for practitioners and researchers. | [Paper](https://arxiv.org/abs/2308.10882), [Tweet](https://twitter.com/bindureddy/status/1694126931174977906?s=20) |
+| **6). IT3D** - presents a strategy that leverages explicitly synthesized multi-view images to improve Text-to-3D generation; integrates a discriminator along a Diffusion-GAN dual training strategy to guide the training of the 3D models. | [Paper](https://arxiv.org/abs/2308.11473v1) |
+| **7). A Survey on LLM-based Autonomous Agents** - presents a comprehensive survey of LLM-based autonomous agents; delivers a systematic review of the field and a summary of various applications of LLM-based AI agents in domains like social science and engineering. | [Paper](https://arxiv.org/abs/2308.11432v1), [Tweet](https://twitter.com/omarsar0/status/1695440652048257251?s=20) |
+| **8). Prompt2Model** - a new framework that accepts a prompt describing a task through natural language; it then uses the prompt to train a small special-purpose model that is conducive to deployment; the proposed pipeline automatically collects and synthesizes knowledge through three channels: dataset retrieval, dataset generation, and model retrieval. | [Paper](https://arxiv.org/abs/2308.12261), [Tweet](https://twitter.com/omarsar0/status/1694718168185598055?s=20) |
+| **9). LegalBench** - a collaboratively constructed benchmark for measuring legal reasoning in LLMs; it consists of 162 tasks covering 6 different types of legal reasoning. | [Paper](https://arxiv.org/abs/2308.11462), [Tweet](https://twitter.com/NeelGuha/status/1694375959334670643?s=20) |
+| **10).**  **Language to Rewards for Robotic Skill Synthesis** - proposes a new language-to-reward system that utilizes LLMs to define optimizable reward parameters to achieve a variety of robotic tasks; the method is evaluated on a real robot arm where complex manipulation skills such as non-prehensile pushing emerge. | [Paper](https://arxiv.org/abs/2306.08647), [Tweet](https://twitter.com/GoogleAI/status/1694086273689076170?s=20) |
 ---
 ## Top ML Papers of the Week (August 14 - August 20)
 | **Paper**  | **Links** |
