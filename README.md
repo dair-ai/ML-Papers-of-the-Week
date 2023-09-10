@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (September 4 - September 10)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-september-4---september-10)
 - [Top ML Papers of the Week (August 28 - September 3)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-28---september-3)
 - [Top ML Papers of the Week (August 21 - August 27)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-21---august-27)
 - [Top ML Papers of the Week (August 14 - August 20)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-14---august-20)
@@ -44,6 +45,22 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (September 4 - September 10)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| **1). Transformers as SVMs** - finds that the optimization geometry of self-attention in Transformers exhibits a connection to hard-margin SVM problems; also finds that gradient descent applied without early-stopping leads to implicit regularization and convergence of self-attention; this work has the potential to deepen the understanding of language models. | [Paper](https://arxiv.org/abs/2308.16898) |
+| **2). Scaling RLHF with AI Feedback** - tests whether RLAIF is a suitable alternative to RLHF by comparing the efficacy of human vs. AI feedback; uses different techniques to generate AI labels and conduct scaling studies to report optimal settings for generating aligned preferences; the main finding is that on the task of summarization, human evaluators prefer generations from both RLAIF and RLHF over a baseline SFT model in ∼70% of cases. | [Paper](https://arxiv.org/abs/2309.00267), [Tweet](https://twitter.com/omarsar0/status/1699102486928265530?s=20) |
+| **3). GPT Solves Math Problems Without a Calculator** - shows that with sufficient training data, a 2B language model can perform multi-digit arithmetic operations with 100% accuracy and without data leakage; it’s also competitive with GPT-4 on 5K samples Chinese math problem test set when fine-tuned from GLM-10B on a dataset containing additional multi-step arithmetic operations and detailed math problems. | [Paper](https://arxiv.org/abs/2309.03241), [Tweet](https://twitter.com/_akhaliq/status/1699951105927512399?s=20) |
+| **4). LLMs as Optimizers** - an approach where the optimization problem is described in natural language; an LLM is then instructed to iteratively generate new solutions based on the defined problem and previously found solutions; at each optimization step, the goal is to generate new prompts that increase test accuracy based on the trajectory of previously generated prompts; the optimized prompts outperform human-designed prompts on GSM8K and Big-Bench Hard, sometimes by over 50% | [Paper](https://arxiv.org/abs/2309.03409), [Tweet](https://twitter.com/omarsar0/status/1700249035456598391?s=20) |
+| **5).**  **Multi-modality Instruction Tuning** - presents ImageBind-LLM, a multimodality instruction tuning method of LLMs via ImageBind; this model can respond to instructions of diverse modalities such as audio, 3D point clouds, and video, including high language generation quality; this is achieved by aligning ImageBind’s visual encoder with an LLM via learnable bind network. | [Paper](https://arxiv.org/abs/2309.03905), [Tweet](https://twitter.com/arankomatsuzaki/status/1699947731333345750?s=20) |
+| **6). Explaining Grokking** - aims to explain grokking behavior in neural networks; specifically, it predicts and shows two novel behaviors: the first is ungrokking where a model goes from perfect generalization to memorization when trained further on a smaller dataset than the critical threshold; the second is semi-grokking where a network demonstrates grokking-like transition when training a randomly initialized network on the critical dataset size. | [Paper](https://arxiv.org/abs/2309.02390), [Tweet](https://twitter.com/VikrantVarma_/status/1699823229307699305?s=20) |
+| **7). Overview of AI Deception** - provides a survey of empirical examples of AI deception. | [Paper](https://arxiv.org/abs/2308.14752), [Tweet](https://twitter.com/DanHendrycks/status/1699437800301752332?s=20) |
+| **8). FLM-101B** - a new open LLM called FLM-101B with 101B parameters and 0.31TB tokens which can be trained on a $100K budget; the authors analyze different growth strategies, growing the number of parameters from smaller sizes to large ones. They ultimately employ an aggressive strategy that reduces costs by >50%. In other words, three models are trained sequentially with each model inheriting knowledge from its smaller predecessor | [Paper](https://arxiv.org/abs/2309.03852), [Tweet](https://twitter.com/omarsar0/status/1700156132700963053?s=20) |
+| **9). Cognitive Architecture for Language Agents** - proposes a systematic framework for understanding and building fully-fledged language agents drawing parallels from production systems and cognitive architectures; it systematizes diverse methods for LLM-based reasoning, grounding, learning, and decision making as instantiations of language agents in the framework. | [Paper](https://arxiv.org/abs/2309.02427), [Tweet](https://twitter.com/ShunyuYao12/status/1699396834983362690?s=20) |
+| **10). Q-Transformer** - a scalable RL method for training multi-task policies from large offline datasets leveraging human demonstrations and autonomously collected data; shows good performance on a large diverse real-world robotic manipulation task suite. | [Paper](https://q-transformer.github.io/), [Tweet](https://twitter.com/YevgenChebotar/status/1699909244743815677?s=20) |
+
 ---
 ## Top ML Papers of the Week (August 28 - September 3)
 | **Paper**  | **Links** |
@@ -58,6 +75,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 | **8).**  **AnomalyGPT -** an approach for industrial anomaly detection based on large vision-language models; it simulates anomalous images and textual descriptions to generate training data; employs an image decoder and prompt learner to detect anomalies; it shows few-shot in-context learning capabilities and achieves state-of-the-art performance benchmark datasets. | [Paper](https://arxiv.org/abs/2308.15366v1), [Tweet](https://twitter.com/shinmura0/status/1697091364633317707?s=20) |
 | **9). FaceChain** - a personalized portrait generation framework combining customized image-generation models and face-related perceptual understanding models to generate truthful personalized portraits; it works with a handful of portrait images as input. | [Paper](https://arxiv.org/abs/2308.14256v1) |
 | **10). Qwen-VL** - introduces a set of large-scale vision-language models demonstrating strong performance in tasks like image captioning, question answering, visual localization, and flexible interaction. | [Paper](https://arxiv.org/abs/2308.12966), [Tweet](https://twitter.com/arankomatsuzaki/status/1695964537671893306?s=20) |
+
 ---
 ## Top ML Papers of the Week (August 21 - August 27)
 | **Paper**  | **Links** |
@@ -72,6 +90,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 | **8). Prompt2Model** - a new framework that accepts a prompt describing a task through natural language; it then uses the prompt to train a small special-purpose model that is conducive to deployment; the proposed pipeline automatically collects and synthesizes knowledge through three channels: dataset retrieval, dataset generation, and model retrieval. | [Paper](https://arxiv.org/abs/2308.12261), [Tweet](https://twitter.com/omarsar0/status/1694718168185598055?s=20) |
 | **9). LegalBench** - a collaboratively constructed benchmark for measuring legal reasoning in LLMs; it consists of 162 tasks covering 6 different types of legal reasoning. | [Paper](https://arxiv.org/abs/2308.11462), [Tweet](https://twitter.com/NeelGuha/status/1694375959334670643?s=20) |
 | **10).**  **Language to Rewards for Robotic Skill Synthesis** - proposes a new language-to-reward system that utilizes LLMs to define optimizable reward parameters to achieve a variety of robotic tasks; the method is evaluated on a real robot arm where complex manipulation skills such as non-prehensile pushing emerge. | [Paper](https://arxiv.org/abs/2306.08647), [Tweet](https://twitter.com/GoogleAI/status/1694086273689076170?s=20) |
+
 ---
 ## Top ML Papers of the Week (August 14 - August 20)
 | **Paper**  | **Links** |
