@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (September 11 - September 17)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-september-11---september-17)
 - [Top ML Papers of the Week (September 4 - September 10)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-september-4---september-10)
 - [Top ML Papers of the Week (August 28 - September 3)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-28---september-3)
 - [Top ML Papers of the Week (August 21 - August 27)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-21---august-27)
@@ -45,6 +46,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (September 11 - September 17)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Textbooks Are All You Need II** - a new 1.3 billion parameter model trained on 30 billion tokens; the dataset consists of "textbook-quality" synthetically generated data; phi-1.5 competes or outperforms other larger models on reasoning tasks suggesting that data quality plays a more important role than previously thought. | [Paper](https://arxiv.org/abs/2309.05463), [Tweet](https://x.com/omarsar0/status/1701590130270601422?s=20) |
+| 2) **The Rise and Potential of LLM Based Agents** - a comprehensive overview of LLM based agents; covers from how to construct these agents to how to harness them for good. | [Paper](https://arxiv.org/abs/2309.07864), [Tweet](https://x.com/omarsar0/status/1702736490067890239?s=20) |
+| 3) **EvoDiff** - combines evolutionary-scale data with diffusion models for controllable protein generation in sequence space; it can generate proteins inaccessible to structure-based models. | [Paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1), [Tweet](https://x.com/KevinKaichuang/status/1701953715312136302?s=20) |
+| 4) **LLMs Can Align Themselves without Finetuning?** - discovers that by integrating self-evaluation and rewind mechanisms, unaligned LLMs can directly produce responses consistent with human preferences via self-boosting. | [Paper](https://arxiv.org/abs/2309.07124), [Tweet](https://x.com/omarsar0/status/1702131444041011395?s=20) |
+| 5) **Robot Parkour Learning** - presents a system for learning end-to-end vision-based parkour policy which is transferred to a quadrupedal robot using its ecocentric depth camera; shows that low-cost robots can automatically select and execute parkour skills in a real-world environment. | [Paper](https://arxiv.org/abs/2309.05665), [Tweet](https://x.com/zipengfu/status/1701316023612219445?s=20) |
+| 6) **A Survey of Hallucination in LLMs** - classifies different types of hallucination phenomena and provides evaluation criteria for assessing hallucination along with mitigation strategies. | [Paper](https://arxiv.org/abs/2309.05922), [Tweet](https://x.com/omarsar0/status/1701970034711539839?s=20) |
+| 7) **Agents** - an open-source library for building autonomous language agents including support for features like planning, memory, tool usage, multi-agent communication, and more. | [Paper](https://arxiv.org/abs/2309.07870), [Tweet](https://x.com/arankomatsuzaki/status/1702497897395396960?s=20) |
+| 8) **Radiology-Llama2: Best-in-Class LLM for Radiology** - presents an LLM based on Llama 2 tailored for radiology; it's tuned on a large dataset of radiology reports to generate coherent and clinically useful impressions from radiology findings. | [Paper](https://arxiv.org/abs/2309.06419), [Tweet](https://x.com/omarsar0/status/1701774444052557965?s=20) |
+| 9) **Communicative Agents for Software Development** - presents ChatDev, a virtual chat-powered software development company mirroring the waterfall model; shows the efficacy of the agent in software generation, even completing the entire software development process in less than seven minutes for less than one dollar. | [Paper](https://arxiv.org/abs/2307.07924v3), [Tweet](https://x.com/KevinAFischer/status/1702355125418045860?s=20) |
+| 10) **MAmmoTH** - a series of open-source LLMs tailored for general math problem-solving; the models are trained on a curated instruction tuning dataset and outperform existing open-source models on several mathematical reasoning datasets. | [Paper](https://arxiv.org/abs/2309.05653), [Tweet](https://x.com/xiangyue96/status/1701710215442309323?s=20) |
 
 ---
 ## Top ML Papers of the Week (September 4 - September 10)
