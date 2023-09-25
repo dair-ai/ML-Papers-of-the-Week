@@ -4,6 +4,7 @@
 
 At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week.
 
+- [Top ML Papers of the Week (September 18 - September 24)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-september-18---september-24)
 - [Top ML Papers of the Week (September 11 - September 17)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-september-11---september-17)
 - [Top ML Papers of the Week (September 4 - September 10)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-september-4---september-10)
 - [Top ML Papers of the Week (August 28 - September 3)](https://github.com/dair-ai/ML-Papers-of-the-Week/blob/main/README.md#top-ml-papers-of-the-week-august-28---september-3)
@@ -46,6 +47,21 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 [Follow us on Twitter](https://twitter.com/dair_ai) 
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (September 18 - September 24)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **AlphaMissense** - an AI model classifying missense variants to help pinpoint the cause of diseases; the model is used to develop a catalogue of genetic mutations; it can categorize 89% of all 71 million possible missense variants as either likely pathogenic or likely benign. | [Paper](https://www.science.org/doi/10.1126/science.adg7492), [Tweet](https://x.com/GoogleDeepMind/status/1704145467129389178?s=20) |
+| 2) **Chain-of-Verification reduces Hallucination in LLMs** - develops a method to enable LLMs to "deliberate" on responses to correct mistakes; include the following steps: 1) draft initial response, 2) plan verification questions to fact-check the draft, 3) answer questions independently to avoid bias from other responses, and 4) generate a final verified response. | [Paper](https://arxiv.org/abs/2309.11495), [Tweet](https://x.com/omarsar0/status/1704901425824772275?s=20) |
+| 3) **Contrastive Decoding Improves Reasoning in Large Language Models** - shows that contrastive decoding leads Llama-65B to outperform Llama 2 and other models on commonsense reasoning and reasoning benchmarks. | [Paper](https://arxiv.org/abs/2309.09117), [Tweet](https://x.com/_akhaliq/status/1703966776990597567?s=20) |
+| 4) **LongLoRA** - an efficient fine-tuning approach to significantly extend the context windows of pre-trained LLMs; implements shift short attention, a substitute that approximates the standard self-attention pattern during training; it has less GPU memory cost and training time compared to full fine-tuning while not compromising accuracy. | [Paper](https://arxiv.org/abs/2309.12307), [Tweet](https://x.com/omarsar0/status/1705234482930798813?s=20) |
+| 5) **LLMs for Generating Structured Data** - studies the use of LLMs for generating complex structured data; proposes a structure-aware fine-tuning method, applied to Llama-7B, which significantly outperform other model like GPT-3.5/4 and Vicuna-13B. | [Paper](https://arxiv.org/abs/2309.08963), [Tweet](https://x.com/omarsar0/status/1703958549917847884?s=20) |
+| 6) **LMSYS-Chat-1M** - a large-scale dataset containing 1 million real-world conversations with 25 state-of-the-art LLM; it is collected from 210K unique IP addresses on the Vincuna demo and Chatbot Arena website. | [Paper](http://arxiv.org/abs/2309.11998), [Tweet](https://x.com/arankomatsuzaki/status/1705024956122161217?s=20) |
+| 7) **Language Modeling is Compression** - evaluates the compression capabilities of LLMs; it investigates how and why compression and prediction are equivalent; shows that LLMs are powerful general-purpose compressors due to their in-context learning abilities; finds that Chinchilla 70B compresses ImageNet patches to 43.4% and LibriSpeech samples to 16.4% of their raw size, beating domain-specific compressors like PNG | [Paper](https://arxiv.org/abs/2309.10668), [Tweet](https://x.com/omarsar0/status/1704306357006897402?s=20) |
+| 8) **Compositional Foundation Models** - proposes foundation models that leverage multiple expert foundation models trained on language, vision, and action data to solve long-horizon goals. | [Paper](https://arxiv.org/abs/2309.08587), [Tweet](https://x.com/du_yilun/status/1703786005612929214?s=20) |
+| 9) **LLMs for IT Operations** - proposes OWL, an LLM for IT operations tuned using a self-instruct strategy based on IT-related tasks; it discusses how to collect a quality instruction dataset and how to put together a benchmark. | [Paper](https://arxiv.org/abs/2309.09298), [Tweet](https://x.com/omarsar0/status/1704137910834888743?s=20) |
+| 10) **KOSMOS-2.5** - a multimodal model for machine reading of text-intensive images, capable of document-level text generation and image-to-markdown text generation. | [Paper](https://arxiv.org/abs/2309.11419), [Tweet](https://x.com/arankomatsuzaki/status/1704659787399487649?s=20) |
 
 ---
 ## Top ML Papers of the Week (September 11 - September 17)
