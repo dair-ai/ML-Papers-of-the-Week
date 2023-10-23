@@ -6,6 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (October 16 - October 22)](./#top-ml-papers-of-the-week-october-16---october-22)
 - [Top ML Papers of the Week (October 9 - October 15)](./#top-ml-papers-of-the-week-october-9---october-15)
 - [Top ML Papers of the Week (October 2 - October 8)](./#top-ml-papers-of-the-week-october-2---october-8)
 - [Top ML Papers of the Week (September 25 - October 1)](./#top-ml-papers-of-the-week-september-25---october-1)
@@ -51,6 +52,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (October 16 - October 22)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Llemma** - an LLM for mathematics which is based on continued pretraining from Code Llama on the Proof-Pile-2 dataset; the dataset involves scientific paper, web data containing mathematics, and mathematical code; Llemma outperforms open base models and the unreleased Minerva on the MATH benchmark; the model is released, including dataset and code to replicate experiments. | [Paper](https://arxiv.org/abs/2310.10631), [Tweet](https://x.com/zhangir_azerbay/status/1714098025956864031?s=20) |
+| 2) **LLMs for Software Engineering** - a comprehensive survey of LLMs for software engineering, including open research and technical challenges. | [Paper](https://arxiv.org/abs/2310.03533), [Tweet](https://x.com/omarsar0/status/1713940983199506910?s=20) |
+| 3) **Self-RAG** - presents a new retrieval-augmented framework that enhances an LM’s quality and factuality through retrieval and self-reflection; trains an LM that adaptively retrieves passages on demand, and generates and reflects on the passages and its own generations using special reflection tokens; it significantly outperforms SoTA LLMs | [Paper](https://arxiv.org/abs/2310.11511), [Tweet](https://x.com/AkariAsai/status/1715110277077962937?s=20) |
+| 4) **Retrieval-Augmentation for Long-form Question Answering** - explores retrieval-augmented language models on long-form question answering; finds that retrieval is an important component but evidence documents should be carefully added to the LLM; finds that attribution error happens more frequently when retrieved documents lack sufficient information/evidence for answering the question. | [Paper](https://arxiv.org/abs/2310.12150), [Tweet](https://x.com/omarsar0/status/1714986431859282144?s=20) |
+| 5) **GenBench** - presents a framework for characterizing and understanding generalization research in NLP; involves a meta-analysis of 543 papers and a set of tools to explore and better understand generalization studies. | [Paper](https://www.nature.com/articles/s42256-023-00729-y?utm_source=twitter&utm_medium=organic_social&utm_campaign=research&utm_content=link), [Tweet](https://x.com/AIatMeta/status/1715041427283902793?s=20) |
+| 6) **A Study of LLM-Generated Self-Explanations** - assesses an LLM's capability to self-generate feature attribution explanations; self-explanation is useful to improve performance and truthfulness in LLMs; this capability can be used together with chain-of-thought prompting. | [Paper](https://arxiv.org/abs/2310.11207), [Tweet](https://x.com/omarsar0/status/1714665747752923620?s=20) |
+| 7) **OpenAgents** - an open platform for using and hosting language agents in the wild; includes three agents, including a Data Agent for data analysis, a Plugins Agent with 200+ daily API tools, and a Web Agent for autonomous web browsing. | [Paper](https://arxiv.org/abs/2310.10634v1), [Tweet](https://x.com/ChengZhoujun/status/1714343204148113860?s=20) |
+| 8) **Eliciting Human Preferences with LLMs** - uses language models to guide the task specification process and a learning framework to help models elicit and infer intended behavior through free-form, language-based interaction with users; shows that by generating open-ended questions, the system generates responses that are more informative than user-written prompts. | [Paper](https://arxiv.org/abs/2310.11589), [Tweet](https://x.com/AlexTamkin/status/1715040019520569395?s=20) |
+| 9) **AutoMix** - an approach to route queries to LLMs based on the correctness of smaller language models | [Paper](https://arxiv.org/abs/2310.12963), [Tweet](https://x.com/omarsar0/status/1715385477627334718?s=20) |
+| 10) **Video Language Planning** - enables synthesizing complex long-horizon video plans across robotics domains; the proposed algorithm involves a tree search procedure that trains vision-language models to serve as policies and value functions, and text-to-video models as dynamic models. | [Paper](https://arxiv.org/abs/2310.10625), [Tweet](https://x.com/du_yilun/status/1714297584842318157?s=20) |
 
 ---
 
