@@ -6,6 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (October 23 - October 29)](./#top-ml-papers-of-the-week-october-23---october-29)
 - [Top ML Papers of the Week (October 16 - October 22)](./#top-ml-papers-of-the-week-october-16---october-22)
 - [Top ML Papers of the Week (October 9 - October 15)](./#top-ml-papers-of-the-week-october-9---october-15)
 - [Top ML Papers of the Week (October 2 - October 8)](./#top-ml-papers-of-the-week-october-2---october-8)
@@ -52,6 +53,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (October 23 - October 29)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Zephyr LLM** - a 7B parameter model with competitive performance to ChatGPT on AlpacaEval; applies distilled supervised fine-tuning to improve task accuracy and distilled direct performance optimization on AI feedback data to better align the model; shows performance comparable to 70B-parameter chat models aligned with human feedback. | [Paper](https://arxiv.org/abs/2310.16944), [Tweet](https://x.com/nazneenrajani/status/1717747969842417723?s=20) |
+| 2) **Fact-checking with LLMs** - investigates the fact-checking capabilities of LLMs like GPT-4; results show the enhanced prowess of LLMs when equipped with contextual information; GPT4 outperforms GPT-3, but accuracy varies based on query language and claim veracity; while LLMs show promise in fact-checking, they demonstrate inconsistent accuracy. | [Paper](https://arxiv.org/abs/2310.13549), [Tweet](https://x.com/omarsar0/status/1717550929145119212?s=20) |
+| 3) **Matryoshka Diffusion Models** - introduces an end-to-end framework for high-resolution image and video synthesis; involves a diffusion process that denoises inputs at multiple resolutions jointly and uses a NestedUNet architecture; enables a progressive training schedule from lower to higher resolutions leading to improvements in optimization for high-resolution generation. | [Paper](https://arxiv.org/abs/2310.15111), [Tweet](https://x.com/thoma_gu/status/1716923384846856691?s=20) |
+| 4) **Spectron** - a new approach for spoken language modeling trained end-to-end to directly process spectrograms; it can be fine-tuned to generate high-quality accurate spoken language; the method surpasses existing spoken language models in speaker preservation and semantic coherence. | [Paper](https://arxiv.org/abs/2305.15255), [Tweet](https://x.com/GoogleAI/status/1717584836834001066?s=20) |
+| 5) **LLMs Meet New Knowledge** - presents a benchmark to assess LLMs' abilities in knowledge understanding, differentiation, and association; benchmark results show | [Paper](https://arxiv.org/abs/2310.14820), [Tweet](https://x.com/omarsar0/status/1716817266195796186?s=20) |
+| 6) **Detecting Pretraining Data from LLMs** - explores the problem of pretraining data detection which aims to determine if a black box model was trained on a given text; proposes a detection method named Min-K% Prob as an effective tool for benchmark example contamination detection, privacy auditing of machine unlearning, and copyrighted text detection in LM’s pertaining data. | [Paper](https://arxiv.org/abs/2310.16789), [Tweet](https://x.com/WeijiaShi2/status/1717612387174687150?s=20) |
+| 7) **ConvNets Match Vision Transformers** - evaluates a performant ConvNet architecture pretrained on JFT-4B at scale; observes a log-log scaling law between the held out loss and compute budget; after fine-tuning on ImageNet, NFNets match the reported performance of Vision Transformers with comparable compute budgets. | [Paper](https://arxiv.org/abs/2310.16764), [Tweet](https://x.com/_akhaliq/status/1717385905214759421?s=20) |
+| 8) **CommonCanvas** - a dataset of Creative-Commons-licensed | [Paper](https://arxiv.org/abs/2310.16825), [Tweet](https://x.com/iScienceLuvr/status/1717359916422496596?s=20) |
+| 9) **Managing AI Risks** - a short paper outlining risks from upcoming and advanced AI systems, including an examination of social harms, malicious uses, and other potential societal issues emerging from the rapid adoption of autonomous AI systems.  | [Paper](https://managing-ai-risks.com/managing_ai_risks.pdf), [Tweet](https://x.com/geoffreyhinton/status/1717967329202491707?s=20) |
+| 10) **Branch-Solve-Merge Reasoning in LLMs** - an LLM program that consists of branch, solve, and merge modules parameterized with specific prompts to the base LLM; this enables an LLM to plan a decomposition of task into multiple parallel sub-tasks, independently solve them, and fuse solutions to the sub-tasks; improves evaluation correctness and consistency for multiple LLMs. | [Paper](https://arxiv.org/abs/2310.15123), [Tweet](https://x.com/jaseweston/status/1716635331393380619?s=20) |
 
 ---
 ## Top ML Papers of the Week (October 16 - October 22)
