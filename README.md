@@ -6,6 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (November 13 - November 19)](./#top-ml-papers-of-the-week-november-13---november-19)
 - [Top ML Papers of the Week (November 6 - November 12)](./#top-ml-papers-of-the-week-november-6---november-12)
 - [Top ML Papers of the Week (October 30 - November 5)](./#top-ml-papers-of-the-week-october-30---november-5)
 - [Top ML Papers of the Week (October 23 - October 29)](./#top-ml-papers-of-the-week-october-23---october-29)
@@ -55,6 +56,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (November 13 - November 19)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Emu Video and Emu Edit** - present new models for controlled image editing and text-to-video generation based on diffusion models; Emu Video can generate high-quality video by using text-only, image-only, or combined text and image inputs; Emu Edit enables free-form editing through text instructions. | [Paper](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/), [Tweet](https://x.com/AIatMeta/status/1725184026154349007?s=20) |
+| 2) **Chain-of-Note** - an approach to improve the robustness and reliability of retrieval-augmented language models in facing noisy, irrelevant documents and in handling unknown scenarios; CoN generates sequential reading notes for the retrieved documents, enabling an evaluation of their relevance to the given question and integrating this information to formulate the final answer; CoN significantly outperforms standard retrieval-augmented language models and achieves an average improvement of +7.9 in EM score given entirely noisy retrieved documents and +10.5 in rejection rates for real-time questions that fall outside the pre-training knowledge scope. | [Paper](https://arxiv.org/abs/2311.09210), [Tweet](https://x.com/omarsar0/status/1725181141693472959?s=20) |
+| 3) **LLMs for Scientific Discovery** - explores the impact of large language models, particularly GPT-4, across various scientific fields including drug discovery, biology, and computational chemistry; assesses GPT-4's understanding of complex scientific concepts, its problem-solving capabilities, and its potential to advance scientific research through expert-driven case assessments and benchmark testing. | [Paper](https://arxiv.org/abs/2311.07361), [Tweet](https://x.com/omarsar0/status/1724465107046940893?s=20) |
+| 4) **Fine-Tuning LLMs for Factuality** - fine-tunes language model for factuality without requiring human labeling; it learns from automatically generated factuality preference rankings and targets open-ended generation settings; it significantly improves the factuality of Llama-2 on held-out topics compared with RLHF or decoding strategies targeted at factuality. | [Paper](https://arxiv.org/abs/2311.08401), [Tweet](https://x.com/arankomatsuzaki/status/1724613041155608951?s=20) |
+| 5) **Contrastive CoT Prompting** - proposes a contrastive chain of thought method to enhance language model reasoning; the approach provides both valid and invalid reasoning demonstrations, to guide the model to reason step-by-step while reducing reasoning mistakes; also proposes an automatic method to construct contrastive demonstrations and demonstrates improvements over CoT prompting. | [Paper](https://arxiv.org/abs/2311.09277), [Tweet](https://x.com/arankomatsuzaki/status/1725340150819905723?s=20) |
+| 6) **A Survey on Language Models for Code** - provides an overview of LLMs for code, including a review of 50+ models, 30+ evaluation tasks, and 500 related works. | [Paper](https://arxiv.org/abs/2311.07989v1), [Tweet](https://x.com/omarsar0/status/1725637165256761553?s=20) |
+| 7) **JARVIS-1** - an open-world agent that can perceive multimodal input | [Paper](https://arxiv.org/abs/2311.05997), [Tweet](https://x.com/arankomatsuzaki/status/1723882043514470629?s=20) |
+| 8) **Learning to Filter Context for RAG** - proposes a method that improves the quality of the context provided to the generator via two steps: 1) identifying useful context based on lexical and information-theoretic approaches, and 2) training context filtering models that can filter retrieved contexts at inference; outperforms existing approaches on extractive question answering | [Paper](https://arxiv.org/abs/2311.08377v1), [Tweet](https://x.com/ZhiruoW/status/1724792850079252886?s=20) |
+| 9) **MART** - proposes an approach for improving LLM safety with multi-round automatic red-teaming; incorporates automatic adversarial prompt writing and safe response generation, which increases red-teaming scalability and the safety of LLMs; violation rate of an LLM with limited safety alignment reduces up to 84.7% after 4 rounds of MART, achieving comparable performance to LLMs with extensive adversarial prompt writing. | [Paper](https://arxiv.org/abs/2311.07689), [Tweet](https://x.com/AIatMeta/status/1724887918685425829?s=20) |
+| 10) **LLMs can Deceive Users** - explores the use of an autonomous stock trading agent powered by LLMs; finds that the agent acts upon insider tips and hides the reason behind the trading decision; shows that helpful and safe LLMs can strategically deceive users in a realistic situation without direction instructions or training for deception. | [Paper](https://arxiv.org/abs/2311.07590), [Tweet](https://x.com/ESYudkowsky/status/1725226563992715521?s=20) |
 
 ---
 
