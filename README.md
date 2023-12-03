@@ -60,7 +60,7 @@ Here is the weekly series:
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
 ---
-## Top ML Papers of the Week (November 13 - November 19)
+## Top ML Papers of the Week (November 20 - November 26)
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **System 2 Attention** - leverages the reasoning and instruction following capabilities of LLMs to decide what to attend to; it regenerates input context to only include relevant portions before attending to the regenerated context to elicit the final response from the model; increases factuality and outperforms standard attention-based LLMs on tasks such as QA and math world problems. | [Paper](https://arxiv.org/abs/2311.11829), [Tweet](https://x.com/jaseweston/status/1726784511357157618?s=20) |
