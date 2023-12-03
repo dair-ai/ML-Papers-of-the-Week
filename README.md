@@ -6,6 +6,8 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (November 27 - December 3)]()
+- [Top ML Papers of the Week (November 20 - November 26)]()
 - [Top ML Papers of the Week (November 13 - November 19)](./#top-ml-papers-of-the-week-november-13---november-19)
 - [Top ML Papers of the Week (November 6 - November 12)](./#top-ml-papers-of-the-week-november-6---november-12)
 - [Top ML Papers of the Week (October 30 - November 5)](./#top-ml-papers-of-the-week-october-30---november-5)
@@ -56,6 +58,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (November 13 - November 19)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **System 2 Attention** - leverages the reasoning and instruction following capabilities of LLMs to decide what to attend to; it regenerates input context to only include relevant portions before attending to the regenerated context to elicit the final response from the model; increases factuality and outperforms standard attention-based LLMs on tasks such as QA and math world problems. | [Paper](https://arxiv.org/abs/2311.11829), [Tweet](https://x.com/jaseweston/status/1726784511357157618?s=20) |
+| 2) **Advancing Long-Context LLMs** - an overview of the methodologies for enhancing Transformer architecture modules that optimize long-context capabilities across all stages from pre-training to inference. | [Paper](https://arxiv.org/abs/2311.12351), [Tweet](https://x.com/omarsar0/status/1727358484360945750?s=20) |
+| 3) **Parallel Speculative Sampling** - approach to reduce inference time of LLMs based on a variant of speculative sampling and parallel decoding; achieves significant speed-ups (up to 30%) by only learning as little as O(d_emb) additional parameters. | [Paper](https://arxiv.org/abs/2311.13581), [Tweet](https://x.com/omarsar0/status/1728066181796418009?s=20) |
+| 4) **Mirasol3B** - a multimodal model for learning across audio, video, and text which decouples the multimodal modeling into separate, focused autoregressive models; the inputs are processed according to the modalities; this approach can handle longer videos compared to other models and it outperforms state-of-the-art approach on video QA, long video QA, and audio-video-text benchmark. | [Paper](https://arxiv.org/abs/2311.05698), [Tweet](https://x.com/GoogleAI/status/1724553024088191211?s=20) |
+| 5) **Teaching Small LMs To Reason** - proposes an approach to teach smaller language models to reason; specifically, the LM is thought to use reasoning techniques, such as step-by-step processing, recall-then-generate, recall-reason-generate, extract-generate, and direct-answer methods; outperforms models of similar size and attains performance levels similar or better to those of models 5-10x larger, as assessed on complex tasks that test advanced reasoning abilities in zero-shot settings.| [Paper](https://arxiv.org/abs/2311.11045), [Tweet](https://x.com/omarsar0/status/1726990087399915995?s=20) |
+| 6) **GPQA** - proposes a graduate-level Google-proof QA benchmark consisting of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry; the strongest GPT-4 based baseline achieves 39% accuracy; this benchmark offers scalable oversight experiments that can help obtain reliable and truthful information from modern AI systems that surpass human capabilities.| [Paper](https://arxiv.org/abs/2311.12022), [Tweet](https://x.com/idavidrein/status/1727033002234909060?s=20) |
+| 7) **The Hitchhiker’s Guide From Chain-of-Thought Reasoning to Language Agents** - summary of CoT reasoning, foundational mechanics underpinning CoT techniques, and their application to language agent frameworks. | [Paper](https://arxiv.org/abs/2311.11797), [Tweet](https://x.com/omarsar0/status/1726803725220487277?s=20) |
+| 8) **GAIA** - a benchmark for general AI assistants consisting of real-world questions that require a set of fundamental abilities such as reasoning, multimodal handling, web browsing, and generally tool-use proficiency; shows that human respondents obtain 92% vs. 15% for GPT-4 equipped with plugins. | [Paper](https://arxiv.org/abs/2311.12983), [Tweet](https://x.com/ThomasScialom/status/1727683993045201339?s=20) |
+| 9) **LLMs as Collaborators for Medical Reasoning** - proposes a collaborative multi-round framework for the medical domain that leverages role-playing LLM-based agents to enhance LLM proficiency and reasoning capabilities.  | [Paper](https://arxiv.org/abs/2311.10537), [Tweet](https://x.com/omarsar0/status/1726627951582511135?s=20) |
+| 10) **TÜLU 2** - presents a suite of improved TÜLU models for advancing the understanding and best practices of adapting pretrained language models to downstream tasks and user preferences; TÜLU 2 suite achieves state-of-the-art performance among open models and matches or exceeds the performance of GPT-3.5-turbo-0301 on several benchmarks. | [Paper](https://arxiv.org/abs/2311.10702), [Tweet](https://x.com/natolambert/status/1727350301131518454?s=20) |
 
 ---
 ## Top ML Papers of the Week (November 13 - November 19)
