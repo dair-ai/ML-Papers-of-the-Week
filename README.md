@@ -6,7 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
-- [Top ML Papers of the Week (December 4 - December 10)]()
+- [Top ML Papers of the Week (December 4 - December 10)](./#top-ml-papers-of-the-week-december-4---december-10)
 - [Top ML Papers of the Week (November 27 - December 3)](./#top-ml-papers-of-the-week-november-27---december-3)
 - [Top ML Papers of the Week (November 20 - November 26)](./#top-ml-papers-of-the-week-november-20---november-26)
 - [Top ML Papers of the Week (November 13 - November 19)](./#top-ml-papers-of-the-week-november-13---november-19)
