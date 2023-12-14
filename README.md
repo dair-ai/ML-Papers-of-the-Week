@@ -6,6 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (December 4 - December 10)]()
 - [Top ML Papers of the Week (November 27 - December 3)](./#top-ml-papers-of-the-week-november-27---december-3)
 - [Top ML Papers of the Week (November 20 - November 26)](./#top-ml-papers-of-the-week-november-20---november-26)
 - [Top ML Papers of the Week (November 13 - November 19)](./#top-ml-papers-of-the-week-november-13---november-19)
@@ -58,6 +59,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (December 4 - December 10)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Gemini** - a series of multimodal models with multimodal reasoning capabilities across text, images, video, audio, and code; claims to outperform human experts on MMLU, a popular benchmark to test the knowledge and problem-solving abilities of AI models; capabilities reported include multimodality, multilinguality, factuality, summarization, math/science, long-context, reasoning, and more. | [Paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf), [Tweet](https://x.com/omarsar0/status/1732434324291563831?s=20) |
+| 2) **EfficientSAM** - a lightweight Segment Anything Model (SAM) that exhibits decent performance with largely reduced complexity; leverages masked autoencoders with 20x fewer parameters and 20x faster runtime; EfficientSAM performs within 2 points (44.4 AP vs 46.5 AP) of the original SAM model.| [Paper](https://arxiv.org/abs/2312.00863), [Tweet](https://x.com/fiandola/status/1732171016783180132?s=20)  |
+| 3) **Magicoder** - a series of fully open-source LLMs for code that close the gap with top code models while having no more than 7B parameters; trained on 75K synthetic instruction data; uses open-source references for the production of more diverse, realistic, high-quality, and controllable data; outperforms state-of-the-art code models with similar or even larger sizes on several coding benchmarks, including Python text-to-code generation, multilingual coding, and data-science program completion; MagicoderS-CL-7B based on CodeLlama surpasses ChatGPT on HumanEval+ (66.5 vs. 65.9 in pass@1).| [Paper](https://arxiv.org/abs/2312.02120), [Tweet](https://x.com/omarsar0/status/1732063926613946863?s=20)  |
+| 4) **LLMs on Graphs** - a comprehensive overview that summarizes different scenarios where LLMs are used on graphs such as pure graphs, text-rich graphs, and text-paired graphs | [Paper](https://arxiv.org/abs/2312.02783), [Tweet](https://x.com/omarsar0/status/1732404393037762588?s=20)  |
+| 5) **Llama Guard** - an LLM-based safeguard model that involves a small (Llama2-7B) customizable instruction-tuned model that can classify safety risks in prompts and responses for conversational AI agent use cases; the model can be leveraged in a zero-shot or few-shot way if you need to adapt it to a different safety risk taxonomy that meets the requirements for a target use case; it can also be fine-tune on a specific dataset to adapt to a new taxonomy.  | [Paper](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/), [Tweet](https://x.com/omarsar0/status/1732781628139696279?s=20)  |
+| 6) **Human-Centered Loss Functions** - proposes an approach called Kahneman-Tversky Optimization (KTO) that matches or exceeds DPO performance methods at scales from 1B to 30B; KTO maximizes the utility of LLM generations instead of maximizing the log-likelihood of preferences as most current methods do. | [Paper](https://github.com/ContextualAI/HALOs/blob/main/assets/report.pdf), [Tweet](https://x.com/ethayarajh/status/1732837520784957476?s=20)  |
+| 7) **Chain of Code** - a simple extension of the chain-of-thought approach that improves LM code-driven reasoning; it encourages LMs to format semantic sub-tasks in a program as pseudocode that the interpreter can explicitly catch undefined behavior and hand off to simulate with an LLM; on BIG-Bench Hard, Chain of Code achieves 84%, a gain of 12% over Chain of Thought. | [Paper](https://arxiv.org/abs/2312.04474), [Tweet](https://x.com/ChengshuEricLi/status/1733169631949701425?s=20)  |
+| 8) **Data Management For LLMs** - an overview of current research in data management within both the pretraining and supervised fine-tuning stages of LLMs; it covers different aspects of data management strategy design: data quantity, data quality, domain/task composition, and more. | [Paper](https://arxiv.org/abs/2312.01700), [Tweet](https://x.com/omarsar0/status/1731877232493166969?s=20)  |
+| 9) *8RankZephyr** - an open-source LLM for listwise zero-shot reranking that bridges the effectiveness gap with GPT-4 and in some cases surpasses the proprietary model; it outperforms GPT-4 on the NovelEval test set, comprising queries and passages past its training period, which addresses concerns about data contamination. | [Paper](https://arxiv.org/abs/2312.02724), [Tweet](https://x.com/lintool/status/1732430269485867114?s=20)  |
+| 10)  **The Efficiency Spectrum of LLMs** - a comprehensive review of algorithmic advancements aimed at improving LLM efficiency; covers various topics related to efficiency, including scaling laws, data utilization, architectural innovations, training and tuning strategies, and inference techniques. | [Paper](https://arxiv.org/abs/2312.00678), [Tweet](https://x.com/omarsar0/status/1731696419457606048?s=20)  |
 
 ---
 ## Top ML Papers of the Week (November 27 - December 3)
