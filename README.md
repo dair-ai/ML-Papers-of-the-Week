@@ -6,6 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (December 11 - December 17)](./#top-ml-papers-of-the-week-december-11---december-17)
 - [Top ML Papers of the Week (December 4 - December 10)](./#top-ml-papers-of-the-week-december-4---december-10)
 - [Top ML Papers of the Week (November 27 - December 3)](./#top-ml-papers-of-the-week-november-27---december-3)
 - [Top ML Papers of the Week (November 20 - November 26)](./#top-ml-papers-of-the-week-november-20---november-26)
@@ -59,6 +60,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (December 11 - December 17)
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **LLMs for Discoveries in Mathematical Sciences** - uses LLMs to search for new solutions in mathematics & computer science; proposes FunSearch which combines a pre-trained LLM with a systematic evaluator and iterates over them to evolve low-scoring programs into high-scoring ones discovering new knowledge; one of the key findings in this work is that safeguarding against LLM hallucinations is important to produce mathematical discoveries and other real-world problems. | [Paper](https://www.nature.com/articles/s41586-023-06924-6), [Tweet](https://x.com/GoogleDeepMind/status/1735332722208284797?s=20) |
+| 2) **Weak-to-strong Generalization** - studies whether weak model supervision can elicit the full capabilities of stronger models; finds that when naively fine-tuning strong pretrained models on weak model generated labels they can perform better than their weak supervisors; reports that finetuning GPT-4 with a GPT-2-level supervisor it’s possible to recover close to GPT-3.5-level performance on NLP tasks. | [Paper](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf), [Tweet](https://x.com/OpenAI/status/1735349718765715913?s=20) |
+| 3) **Audiobox** - a unified model based on flow-matching capable of generating various audio modalities; designs description-based and example-based prompting to enhance controllability and unify speech and sound generation paradigms; adapts a self-supervised infilling objective to pre-train on large quantities of unlabeled audio; performs well on speech and sound generation and unlocks new methods for generating audio with novel vocal and acoustic styles. | [Paper](https://ai.meta.com/research/publications/audiobox-unified-audio-generation-with-natural-language-prompts/), [Tweet](https://x.com/AIatMeta/status/1734257634008531453?s=20) |
+| 4) **Mathematical LLMs** - a survey on the progress of LLMs on mathematical tasks; covers papers and resources on LLM research around prompting techniques and tasks such as math word problem-solving and theorem proving. | [Paper](https://arxiv.org/abs/2312.07622), [Tweet](https://x.com/omarsar0/status/1735323577392542084?s=20) |
+| 5) **Towards Fully Transparent Open-Source LLMs** - proposes LLM360 to support open and collaborative AI research by making the end-to-end LLM training process transparent and reproducible; releases 7B parameter LLMs pre-trained from scratch, AMBER and CRYSTALCODER, including their training code, data, intermediate checkpoints, and analyses.  | [Paper](https://arxiv.org/abs/2312.06550), [Tweet](https://x.com/omarsar0/status/1734591071575744820?s=20) |
+| 6) **LLMs in Medicine** - a comprehensive survey (analyzing 300+ papers) on LLMs in medicine; includes an overview of the principles, applications, and challenges faced by LLMs in medicine.  | [Paper](https://arxiv.org/abs/2311.05112), [Tweet](https://x.com/omarsar0/status/1734599425568231513?s=20) |
+| 7) **Beyond Human Data for LLMs** - proposes an approach for self-training with feedback that can substantially reduce dependence on human-generated data; the model-generated data combined with a reward function improves the performance of LLMs on problem-solving tasks. | [Paper](https://arxiv.org/abs/2312.06585), [Tweet](https://x.com/omarsar0/status/1734953578274386002?s=20) |
+| 8) **Gaussian-SLAM** - a neural RGBD SLAM method capable of photorealistically reconstructing real-world scenes without compromising speed and efficiency; extends classical 3D Gaussians for scene representation to overcome the limitations of the previous methods. | [Paper](https://vladimiryugay.github.io/gaussian_slam/), [Tweet](https://x.com/vlyug/status/1734683948440252480?s=20) |
+| 9) **Pearl** - introduces a new production-ready RL agent software package that enables researchers and practitioners to develop RL AI agents that adapt to environments with limited observability, sparse feedback, and high stochasticity.  | [Paper](https://arxiv.org/abs/2312.03814), [Tweet](https://x.com/ZheqingZhu/status/1732880717263352149?s=20) |
+| 10) **Quip** - compresses trained model weights into a lower precision format to reduce memory requirements; the approach combines lattice codebooks with incoherence processing to create 2 bit quantized models; significantly closes the gap between 2 bit quantized LLMs and unquantized 16 bit models. | [Paper](https://cornell-relaxml.github.io/quip-sharp/), [Tweet](https://x.com/tsengalb99/status/1733222467953422702?s=20) |
 
 ---
 ## Top ML Papers of the Week (December 4 - December 10)
