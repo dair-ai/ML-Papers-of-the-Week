@@ -66,6 +66,7 @@ Here is the weekly series:
 ---
 ## Top ML Papers of the Week (December 25 - December 31)
 | **Paper**  | **Links** |
+| ------------- | ------------- |
 | 1) **CogAgent** - presents an 18 billion parameter visual language model specializing in GUI understanding and navigation; supports high-resolution inputs (1120x1120) and shows abilities in tasks such as visual Q&A, visual grounding, and GUI Agent; achieves state of the art on 5 text-rich and 4 general VQA benchmarks. | [Paper](https://arxiv.org/abs/2312.08914), [Tweet](https://x.com/cenyk1230/status/1739916469272789222?s=20) |
 | 2) **From Gemini to Q-Star** - surveys 300+ papers and summarizes research developments to look at in the space of Generative AI; it covers computational challenges, scalability, real-world implications, and the potential for Gen AI to drive progress in fields like healthcare, finance, and education. | [Paper](https://arxiv.org/abs/2312.10868), [Tweet](https://x.com/omarsar0/status/1740119485011390558?s=20) |
 | 3) **PromptBench** - a unified library that supports comprehensive evaluation and analysis of LLMs; it consists of functionalities for prompt construction, prompt engineering, dataset and model loading, adversarial prompt attack, dynamic evaluation protocols, and analysis tools. | [Paper](https://arxiv.org/abs/2312.07910v1), [Tweet](https://x.com/omarsar0/status/1739360426134028631?s=20) |
