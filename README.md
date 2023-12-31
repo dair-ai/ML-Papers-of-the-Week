@@ -6,6 +6,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+- [Top ML Papers of the Week (December 18 - December 24)](./#top-ml-papers-of-the-week-december-25---december-31)
 - [Top ML Papers of the Week (December 18 - December 24)](./#top-ml-papers-of-the-week-december-18---december-24)
 - [Top ML Papers of the Week (December 11 - December 17)](./#top-ml-papers-of-the-week-december-11---december-17)
 - [Top ML Papers of the Week (December 4 - December 10)](./#top-ml-papers-of-the-week-december-4---december-10)
@@ -61,6 +62,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+---
+## Top ML Papers of the Week (December 25 - December 31)
+| **Paper**  | **Links** |
+| 1) **CogAgent** - presents an 18 billion parameter visual language model specializing in GUI understanding and navigation; supports high-resolution inputs (1120x1120) and shows abilities in tasks such as visual Q&A, visual grounding, and GUI Agent; achieves state of the art on 5 text-rich and 4 general VQA benchmarks. | [Paper](https://arxiv.org/abs/2312.08914), [Tweet](https://x.com/cenyk1230/status/1739916469272789222?s=20) |
+| 2) **From Gemini to Q-Star** - surveys 300+ papers and summarizes research developments to look at in the space of Generative AI; it covers computational challenges, scalability, real-world implications, and the potential for Gen AI to drive progress in fields like healthcare, finance, and education. | [Paper](https://arxiv.org/abs/2312.10868), [Tweet](https://x.com/omarsar0/status/1740119485011390558?s=20) |
+| 3) **PromptBench** - a unified library that supports comprehensive evaluation and analysis of LLMs; it consists of functionalities for prompt construction, prompt engineering, dataset and model loading, adversarial prompt attack, dynamic evaluation protocols, and analysis tools. | [Paper](https://arxiv.org/abs/2312.07910v1), [Tweet](https://x.com/omarsar0/status/1739360426134028631?s=20) |
+| 4) **Exploiting Novel GPT-4 APIs** - performs red-teaming on three functionalities exposed in the GPT-4 APIs: fine-tuning, function calling, and knowledge retrieval; Main findings: 1) fine-tuning on as few as 15 harmful examples or 100 benign examples can remove core safeguards from GPT-4, 2) GPT-4 Assistants divulge the function call schema and can be made to execute arbitrary function calls, and 3) knowledge retrieval can be hijacked by injecting instructions into retrieval documents. | [Paper](https://arxiv.org/abs/2312.14302), [Tweet](https://x.com/omarsar0/status/1739677995747450964?s=20) |
+| 5) **Fact Recalling in LLMs** - investigates how MLP layers implement a lookup table for factual recall; scopes the study on how early MLPs in Pythia 2.8B look up which of 3 different sports various athletes play; suggests that early MLP layers act as a lookup table and recommends thinking about the recall of factual knowledge in the model as multi-token embeddings.  | [Paper](https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB), [Tweet](https://x.com/NeelNanda5/status/1738559368361349122?s=20) |
+| 6) **Generative AI for Math** - presents a diverse and high-quality math-centric corpus comprising of ~9.5 billion tokens to train foundation models. | [Paper](https://arxiv.org/abs/2312.17120), [Tweet](https://x.com/arankomatsuzaki/status/1740564961032556942?s=20) |
+| 7) **Pricipled Instructions Are All You Need** - introduces 26 guiding principles designed to streamline the process of querying and prompting large language models; applies these principles to conduct extensive experiments on LLaMA-1/2 (7B, 13B and 70B), GPT-3.5/4 to verify their effectiveness on instructions and prompts design. | [Paper](https://arxiv.org/abs/2312.16171v1), [Tweet](https://x.com/_akhaliq/status/1739857456161759455?s=20) |
+| 8) **A Survey of Reasoning with Foundation Models** - provides a comprehensive survey of seminal foundational models for reasoning, highlighting the latest advancements in various reasoning tasks, methods, benchmarks, and potential future directions; also discusses how other developments like multimodal learning, autonomous agents, and super alignment accelerate and extend reasoning research. | [Paper](https://arxiv.org/abs/2312.11562v4), [Tweet](https://x.com/omarsar0/status/1740729489661874632?s=20) |
+| 9) **Making LLMs Better at Dense Retrieval** - proposes LLaRA which adapts an LLM for dense retrieval; it consists of two pretext tasks: EBAE (Embedding-Based Auto-Encoding) and EBAR (Embedding-Based Auto-Regression), where the text embeddings from LLM are used to reconstruct the tokens for the input sentence and predict the tokens for the next sentence, respectively; a LLaMa-2-7B was improved on benchmarks like MSMARCO and BEIR. | [Paper](https://arxiv.org/abs/2312.15503v1) |
+| 10) **Gemini vs GPT-4V - provides a comprehensive preliminary comparison and combination of vision-language models like Gemini and GPT-4V through several qualitative cases; finds that GPT-4V is precise and succinct in responses, while Gemini excels in providing detailed, expansive answers accompanied by relevant imagery and links.  | [Paper](https://arxiv.org/abs/2312.15011v1), [Tweet](https://x.com/omarsar0/status/1741177994377330895?s=20) |
 
 ---
 ## Top ML Papers of the Week (December 18 - December 24)
