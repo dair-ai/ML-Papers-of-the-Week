@@ -7,7 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
-- [Top ML Papers of the Week (January 1 - January 7)](./#top-ml-papers-of-the-week-january-1---january-7)
+- [Top ML Papers of the Week (January 1 - January 7)](./#top-ml-papers-of-the-week-january-1---january-7---2024)
 
 ## 2023
 
