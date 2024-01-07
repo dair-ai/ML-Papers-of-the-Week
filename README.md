@@ -6,6 +6,11 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 
 Here is the weekly series:
 
+## 2024
+- [Top ML Papers of the Week (January 1 - January 7)](./#top-ml-papers-of-the-week-january-1---january-7)
+
+## 2023
+
 - [Top ML Papers of the Week (December 24 - December 31)](./#top-ml-papers-of-the-week-december-25---december-31)
 - [Top ML Papers of the Week (December 18 - December 24)](./#top-ml-papers-of-the-week-december-18---december-24)
 - [Top ML Papers of the Week (December 11 - December 17)](./#top-ml-papers-of-the-week-december-11---december-17)
@@ -62,6 +67,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (January 1 - January 7) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Mobile ALOHA** - proposes a system that learns bimanual mobile manipulation with low-cost whole-body teleoperation; it first collects high-quality demonstrations and then performs supervised behavior cloning; finds that co-training with existing ALOHA datasets increases performance on complex mobile manipulation tasks such as sauteing and serving a piece of shrimp, opening a two-door wall cabinet to store heavy cooking pots while keeping the budget under $32K | [Paper](https://mobile-aloha.github.io/), [Tweet](https://x.com/zipengfu/status/1742973258528612724?s=20) |
+| 2) **Mitigating Hallucination in LLMs** - summarizes 32 techniques to mitigate hallucination in LLMs; introduces a taxonomy categorizing methods like RAG, Knowledge Retrieval, CoVe, and more; provides tips on how to apply these methods and highlights the challenges and limitations inherent in them. | [Paper](https://arxiv.org/abs/2401.01313), [Tweet](https://x.com/omarsar0/status/1742633831234994189?s=20) |
+| 3) **Self-Play Fine-tuning** - shows that without acquiring additional human-annotated data, a supervised fine-tuned LLM can be improved; inspired by self-play, it first uses the LLM to generate its training data from its previous iterations; it then refines its policy by distinguishing the self-generated responses from those obtained from human-annotated data; shows that the method can improve LLM’s performance and outperform models trained via DPO with GPT-4 preference data. | [Paper](https://arxiv.org/abs/2401.01335), [Tweet](https://x.com/_zxchen_/status/1742661587436216615?s=20) |
+| 4) **LLaMA Pro** - proposes a post-pretraining method to improve an LLM’s knowledge without catastrophic forgetting; it achieves this by tuning expanded identity blocks using only new corpus while freezing the inherited blocks; uses math and code data to train a LLaMA Pro-8.3B initialized from Llama2-7B; these models achieve advanced performance on various benchmarks compared to base models while preserving the original general capabilities. | [Paper](https://arxiv.org/abs/2401.02415), [Tweet](https://x.com/_akhaliq/status/1743135851238805685?s=20) |
+| 5) **LLM Augmented LLMs** - explore composing existing foundation models with specific models to expand capabilities; introduce cross-attention between models to compose representations that enable new capabilities; as an example, a PaLM2-S model was augmented with a smaller model trained on low-resource languages to improve English translation and arithmetic reasoning for low-resource languages; this was also done with a code-specific model which led to a 40% improvement over the base code model on code generation and explanation tasks. | [Paper](https://arxiv.org/abs/2401.02412), [Tweet](https://x.com/omarsar0/status/1743094632618106981?s=20) |
+| 6) **Fast Inference of Mixture-of-Experts** - achieves efficient inference of Mixtral-8x7B models through offloading; it applies separate quantization for attention layers and experts to fit the model in combined GPU and CPU memory; designs a MoE-specific offloading strategy that enables running Mixtral-8x7B on desktop hardware and free-tier Google Colab instances | [Paper](https://arxiv.org/abs/2312.17238), [Tweet](https://x.com/rohanpaul_ai/status/1741044633495326861?s=20) |
+| 7) **GPT-4V is a Generalist Web Agent** - explores the potential of GPT-4V as a generalist web agent; in particular, can such a model follow natural language instructions to complete tasks on a website? the authors first developed a tool to enable web agents to run on live websites; findings suggest that GPT-4V can complete 50% of tasks on live websites, possible through manual grounding of its textual plans into actions on the websites. | [Paper](https://arxiv.org/abs/2401.01614), [Tweet](https://x.com/omarsar0/status/1742923330544706035?s=20) |
+| 8) **DocLLM** - a lightweight extension to traditional LLMs for reasoning over visual documents; focuses on using bounding box information to incorporate spatial layout structure; proposes a pre-training objective that addresses irregular layout and heterogeneous content present in visual documents; it’s then fine-tuned on an instruction-dataset and demonstrate SoTA performance on 14 out of 16 datasets across several document intelligence tasks. | [Paper](https://arxiv.org/abs/2401.00908), [Tweet](https://x.com/BrianRoemmele/status/1742572753251913742?s=20) |
+| 9) **How Code Empowers LLMs** - a comprehensive overview of the benefits of training LLMs with code-specific data. Some capabilities include enhanced code generation, enabling reasoning, function calling, automated self-improvements, and serving intelligent agents. | [Paper](https://arxiv.org/abs/2401.00812), [Tweet](https://x.com/omarsar0/status/1742215295907811613?s=20) |
+| 10) **Instruct-Imagen** - proposes an image generation model that tackles heterogeneous image generation tasks and generalizes across unseen tasks; it first enhances the model’s ability to ground its generation on external multimodal context and then fine-tunes on image generation tasks with multimodal instructions | [Paper](https://arxiv.org/abs/2401.01952), [Tweet](https://x.com/_akhaliq/status/1743108118630818039?s=20) |
 
 ---
 ## Top ML Papers of the Week (December 25 - December 31)
