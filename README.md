@@ -70,7 +70,7 @@ Here is the weekly series:
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
-## Top ML Papers of the Week (January 1 - January 7) - 2024
+## Top ML Papers of the Week (January 8 - January 14) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **InseRF** - a method for text-driven generative object insertion in the Neural 3D scenes; it enables users to provide textual descriptions and a 2D bounding box in a reference viewpoint to generate new objects in 3D scenes; InseRF is also capable of controllable and 3D-consistent object insertion without requiring explicit 3D information as input. | [Paper](https://arxiv.org/abs/2401.05335), [Tweet](https://x.com/_akhaliq/status/1745293576794255757?s=20) |
