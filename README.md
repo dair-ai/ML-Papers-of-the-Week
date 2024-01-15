@@ -7,6 +7,8 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+
+- [Top ML Papers of the Week (January 8 - January 14)](./#top-ml-papers-of-the-week-january-8---january-14---2024)
 - [Top ML Papers of the Week (January 1 - January 7)](./#top-ml-papers-of-the-week-january-1---january-7---2024)
 
 ## 2023
@@ -67,6 +69,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (January 1 - January 7) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **InseRF** - a method for text-driven generative object insertion in the Neural 3D scenes; it enables users to provide textual descriptions and a 2D bounding box in a reference viewpoint to generate new objects in 3D scenes; InseRF is also capable of controllable and 3D-consistent object insertion without requiring explicit 3D information as input. | [Paper](https://arxiv.org/abs/2401.05335), [Tweet](https://x.com/_akhaliq/status/1745293576794255757?s=20) |
+| 2) **Sleeper Agents** - shows that LLMs can learn deceptive behavior that persists through safety training; for instance, an LLM was trained to write secure code for a specified year but given another year can enable exploitable code; this backdoor behavior can persist even when training LLMs with techniques like reinforcement learning and adversarial training. | [Paper](https://arxiv.org/abs/2401.05566), [Tweet](https://x.com/AnthropicAI/status/1745854907968880970?s=20) |
+| 3) **Blending Is All You Need** - shows that effectively combining existing small models of different sizes (6B/13B parameters) can result in systems that can compete with ChatGPT level performance; the goal is to build a collaborative conversational system that can effectively leverage these models to improve engagement and quality of chat AIs and generate more diverse responses. | [Paper](https://arxiv.org/abs/2401.02994), [Tweet](https://x.com/omarsar0/status/1744765981270950343?s=20) |
+| 4) **MagicVideo-V2** - proposes an end-to-end video generation pipeline that integrates the text-to-image model, video motion generator, reference image embedding module, and frame interpolation module; it can generate high-resolution video with advanced fidelity and smoothness compared to other leading and popular text-to-video systems.  | [Paper](https://arxiv.org/abs/2401.04468), [Tweet](https://x.com/arankomatsuzaki/status/1744918551415443768?s=20) |
+| 5) **Trustworthiness in LLMs** - a comprehensive study (100+ pages) of trustworthiness in LLMs, discussing challenges, benchmarks, evaluation, analysis of approaches, and future directions; proposes a set of principles for trustworthy LLMs that span 8 dimensions, including a benchmark across 6 dimensions (truthfulness, safety, fairness, robustness, privacy, and machine ethics); it also presents a study evaluating 16 mainstream LLMs in TrustLLM, consisting of over 30 datasets; while proprietary LLMs generally outperform most open-source counterparts in terms of trustworthiness, there are a few open-source models that are closing the gap. | [Paper](https://arxiv.org/abs/2401.05561), [Tweet](https://x.com/omarsar0/status/1745645273915736553?s=20) |
+| 6) **Prompting LLMs for Table Understanding** - a new framework, inspired by Chain-of-Thought prompting, to instruct LLMs to dynamically plan a chain of operations that transforms a complex table to reliably answer the input question; an LLM is used to iteratively generate operations, step-by-step, that will perform necessary transformations to the table (e.g., adding columns or deleting info). | [Paper](https://arxiv.org/abs/2401.04398), [Tweet](https://x.com/omarsar0/status/1745164182205452603?s=20)  |
+| 7) **Jailbreaking Aligned LLMs** - proposes 40 persuasion techniques to systematically jailbreak LLMs; their adversarial prompts (also referred to as persuasive adversarial prompts) achieve a 92% attack success rate on aligned LLMs, like Llama 2-7B and GPT-4, without specialized optimization. | [Paper](https://chats-lab.github.io/persuasive_jailbreaker/), [Tweet](https://x.com/EasonZeng623/status/1744719354368029008?s=20) |
+| 8) **From LLM to Conversational Agents** - proposes RAISE, an advanced architecture to enhance LLMs for conversational agents; it's inspired by the ReAct framework and integrates a dual-component memory system; it utilizes a scratchpad and retrieved examples to augment the agent's capabilities; the scratchpad serves as transient storage (akin to short-term memory) and the retrieval module operates as the agent's long-term memory; this system mirrors human short-term and long-term memory and helps to maintain context and continuity which are key in conversational systems. | [Paper](https://arxiv.org/abs/2401.02777), [Tweet](https://x.com/omarsar0/status/1744400054624846269?s=20)  |
+| 9) **Quantifying LLM’s Sensitivity to Spurious Features in Prompt Design** - finds that widely used open-source LLMs are extremely sensitive to prompt formatting in few-shot settings; subtle changes in prompt formatting using a Llama 2 13B model can result in a performance difference of up to 76 accuracy points. | [Paper](https://arxiv.org/abs/2310.11324), [Tweet](https://x.com/melaniesclar/status/1745557109419458695?s=20)  |
+| 10) **Adversarial Machine Learning** - a comprehensive survey that covers the current state of adversarial ML with a proper taxonomy of concepts, discussions, adversarial methods, mitigation tactics, and remaining challenges. | [Paper](https://csrc.nist.gov/pubs/ai/100/2/e2023/final), [Tweet](https://x.com/omarsar0/status/1745819927695540671?s=20) |
 
 ## Top ML Papers of the Week (January 1 - January 7) - 2024
 | **Paper**  | **Links** |
