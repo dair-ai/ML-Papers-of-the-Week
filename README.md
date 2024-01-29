@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (January 22 - January 28)](./#top-ml-papers-of-the-week-january-22---january-28---2024)
 - [Top ML Papers of the Week (January 15 - January 21)](./#top-ml-papers-of-the-week-january-15---january-21---2024)
 - [Top ML Papers of the Week (January 8 - January 14)](./#top-ml-papers-of-the-week-january-8---january-14---2024)
 - [Top ML Papers of the Week (January 1 - January 7)](./#top-ml-papers-of-the-week-january-1---january-7---2024)
@@ -70,6 +71,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (January 22 - January 28) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Depth Anything** - a robust monocular depth estimation solution that can deal with any images under any circumstance; automatically annotates large-scale unlabeled data (~62M) which helps to reduce generalization error; proposes effective strategies to leverage the power of the large-scale unlabeled data; besides generalization ability, it established new state-of-the-art through fine-tuning and even results in an enhanced depth-conditioned ControlNet. | [Paper](https://arxiv.org/abs/2401.10891v1), [Tweet](https://x.com/_akhaliq/status/1749284669936275463?s=20) |
+| 2) **Knowledge Fusion of LLMs** - proposes FuseLLM with the core idea of externalizing knowledge from multiple LLMs and transferring their capabilities to a target LLM; leverages the generative distributions of source LLMs to externalize both their collective knowledge and individual strengths and transfer them to the target LLM through continual training; finds that the FuseLLM can improve the performance of the target model across a range of capabilities such as reasoning, common sense, and code generation. | [Paper](https://arxiv.org/abs/2401.10491), [Tweet](https://x.com/omarsar0/status/1749267663900057620?s=20) |
+| 3) **MambaByte** - adapts Mamba SSM to learn directly from raw bytes; bytes lead to longer sequences which autoregressive Transformers will scale poorly on; this work reports huge benefits related to faster inference and even outperforms subword Transformers. | [Paper](https://arxiv.org/abs/2401.13660), [Tweet](https://x.com/omarsar0/status/1750366964759859633?s=20) |
+| 4) **Diffuse to Choose** - a diffusion-based image-conditioned inpainting model to balance fast inference with high-fidelity while enabling accurate semantic manipulations in a given scene content; outperforms existing zero-shot diffusion inpainting methods and even few-shot diffusion personalization algorithms such as DreamPaint. | [Paper](https://arxiv.org/abs/2401.13795), [Tweet](https://x.com/_akhaliq/status/1750737690553692570?s=20) |
+| 5) **WARM** - introduces weighted averaged rewards models (WARM) that involve fine-tuning multiple rewards models and then averaging them in the weight space; average weighting improves efficiency compared to traditional prediction ensembling; it improves the quality and alignment of LLM predictions. | [Paper](https://arxiv.org/abs/2401.12187), [Tweet](https://x.com/ramealexandre/status/1749719471806157304?s=20) |
+| 6) **Resource-efficient LLMs & Multimodal Models** - a survey of resource-efficient LLMs and multimodal foundations models; provides a comprehensive analysis and insights into ML efficiency research, including architectures, algorithms, and practical system designs and implementations. | [Paper](https://arxiv.org/abs/2401.08092v1),  [Tweet](https://x.com/omarsar0/status/1749208653926654010?s=20)  |
+| 7) **Red Teaming Visual Language Models** - first presents a red teaming dataset of 10 subtasks (e.g., image misleading, multi-modal jailbreaking, face fairness, etc); finds that 10 prominent open-sourced VLMs struggle with the red teaming in different degrees and have up to 31% performance gap with GPT-4V; also applies red teaming alignment to LLaVA-v1.5 with SFT using the proposed red teaming dataset, which improves model performance by 10% in the test set. | [Paper](https://arxiv.org/abs/2401.12915),  [Tweet](https://x.com/omarsar0/status/1750170361843384790?s=20)  |
+| 8) **Lumiere** - a text-to-video space-time diffusion model for synthesizing videos with realistic and coherent motion; introduces a Space-Time U-Net architecture to generate the entire temporal duration of a video at once via a single pass; achieves state-of-the-art text-to-video generation results and supports a wide range of content creation tasks and video editing applications, including image-to-video, video inpainting, and stylized generation. | [Paper](https://arxiv.org/abs/2401.12945),  [Tweet](https://x.com/GoogleAI/status/1751003814931689487?s=20)  |
+| 9) **Medusa** - a simple framework for LLM inference acceleration using multiple decoding heads that predict multiple subsequent tokens in parallel; parallelization substantially reduces the number of decoding steps; it can achieve over 2.2x speedup without compromising generation quality, while Medusa-2 further improves the speedup to 2.3-3.6x.  | [Paper](https://arxiv.org/abs/2401.10774v1), [Tweet](https://x.com/jiayq/status/1749461664393810350?s=20)  |
+| 10) **AgentBoard** - a comprehensive benchmark with an open-source evaluation framework to perform analytical evaluation of LLM agents; helps to assess the capabilities and limitations of LLM agents and demystifies agent behaviors which leads to building stronger and robust LLM agents. | [Paper](https://arxiv.org/abs/2401.13178v1), [Tweet](https://x.com/ma_chang_nlp/status/1750369056539218082?s=20) |
 
 ## Top ML Papers of the Week (January 15 - January 21) - 2024
 | **Paper**  | **Links** |
