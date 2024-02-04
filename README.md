@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (January 29 - February 4)](./#top-ml-papers-of-the-week-january-29---february-4---2024)
 - [Top ML Papers of the Week (January 22 - January 28)](./#top-ml-papers-of-the-week-january-22---january-28---2024)
 - [Top ML Papers of the Week (January 15 - January 21)](./#top-ml-papers-of-the-week-january-15---january-21---2024)
 - [Top ML Papers of the Week (January 8 - January 14)](./#top-ml-papers-of-the-week-january-8---january-14---2024)
@@ -71,6 +72,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (January 29 - February 4) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **OLMo** - introduces Open Language Model (OLMo), a 7B parameter model; it includes open training code, open data, full model weights, evaluation code, and fine-tuning code; it shows strong performance on many generative tasks; there is also a smaller version of it, OLMo 1B. | [Paper](https://arxiv.org/abs/2402.00838), [Tweet](https://x.com/omarsar0/status/1753080417530318872?s=20) |
+| 2) **Advances in Multimodal LLMs** - a comprehensive survey outlining design formulations for model architecture and training pipeline around multimodal large language models. | [Paper](https://arxiv.org/abs/2401.13601), [Tweet](https://x.com/omarsar0/status/1751705689964089616?s=20) |
+| 3) **Corrective RAG** - proposes Corrective Retrieval Augmented Generation (CRAG) to improve the robustness of generation in a RAG system; the core idea is to implement a self-correct component for the retriever and improve the utilization of retrieved documents for augmenting generation; the retrieval evaluator helps to assess the overall quality of retrieved documents given a query; using web search and optimized knowledge utilization operations can improve automatic self-correction and efficient utilization of retrieved documents.  | [Paper](https://arxiv.org/abs/2401.15884), [Tweet](https://x.com/omarsar0/status/1752173216942944556?s=20) |
+| 4) **LLMs for Mathematical Reasoning** - introduces an overview of research developments in LLMs for mathematical reasoning; discusses advancements, capabilities, limitations, and applications to inspire ongoing research on LLMs for Mathematics.  | [Paper](https://arxiv.org/abs/2402.00157), [Tweet](https://x.com/omarsar0/status/1753424518171738194?s=20) |
+| 5) **Compression Algorithms for LLMs** - covers compression algorithms like pruning, quantization, knowledge distillation, low-rank approximation, parameter sharing, and efficient architecture design.| [Paper](https://arxiv.org/abs/2401.15347), [Tweet](https://x.com/omarsar0/status/1752746770377974072?s=20) |
+| 6) **MoE-LLaVA** - employs Mixture of Experts tuning for Large Vision-Language Models which constructs a sparse model with a substantial reduction in parameters with a constant computational cost; this approach also helps to address performance degradation associated with multi-modal learning and model sparsity.  | [Paper](https://arxiv.org/abs/2401.15947), [Tweet](https://x.com/LinBin46984/status/1753403875531375003?s=20)  |
+| 7) **Rephrasing the Web** - uses an off-the-shelf instruction-tuned model prompted to paraphrase web documents in specific styles and formats such as “like Wikipedia” or “question-answer format” to jointly pre-train LLMs on real and synthetic rephrases; it speeds up pre-training by ~3x, improves perplexity, and improves zero-shot question answering accuracy on many tasks.  | [Paper](https://arxiv.org/abs/2401.16380),  [Tweet](https://x.com/pratyushmaini/status/1752337225097076809?s=20)  |
+| 8) **Redefining Retrieval in RAG** - a study that focuses on the components needed to improve the retrieval component of a RAG system; confirms that the position of relevant information should be placed near the query, the model will struggle to attend to the information if this is not the case; surprisingly, it finds that related documents don't necessarily lead to improved performance for the RAG system; even more unexpectedly, irrelevant and noisy documents can help drive up accuracy if placed correctly. | [Paper](https://arxiv.org/abs/2401.14887),  [Tweet](https://x.com/omarsar0/status/1751803310267314509?s=20)  |
+| 9) **Hallucination in LVLMs** - discusses hallucination issues and techniques to mitigate hallucination in Large Vision-Language Models (LVLM); it introduces LVLM hallucination evaluation methods and benchmarks; provides tips and a good analysis of the causes of LVLM hallucinations and potential ways to mitigate them. | [Paper](https://arxiv.org/abs/2402.00253), [Tweet](https://x.com/omarsar0/status/1753449211931079101?s=20)  |
+| 10) **SliceGPT** - a new LLM compression technique that proposes a post-training sparsification scheme that replaces each weight matrix with a smaller dense matrix; helps reduce the embedding dimension of the network and can remove up to 20% of model parameters for Llama2-70B and Phi-2 models while retaining most of the zero-shot performance of the dense models. | [Paper](https://arxiv.org/abs/2401.15024v1), [Tweet](https://x.com/_akhaliq/status/1751796334531592496?s=20) |
+
 
 ## Top ML Papers of the Week (January 22 - January 28) - 2024
 | **Paper**  | **Links** |
