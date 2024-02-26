@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (February 19 - February 25)](./#top-ml-papers-of-the-week-february-19---february-25---2024)
 - [Top ML Papers of the Week (February 12 - February 18)](./#top-ml-papers-of-the-week-february-12---february-18---2024)
 - [Top ML Papers of the Week (February 5 - February 11)](./#top-ml-papers-of-the-week-february-5---february-11---2024)
 - [Top ML Papers of the Week (January 29 - February 4)](./#top-ml-papers-of-the-week-january-29---february-4---2024)
@@ -74,6 +75,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (February 19 - February 25) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Stable Diffusion 3** - a suite of image generation models ranging from 800M to 8B parameters; combines diffusion transformer architecture and flow matching for improved performance in multi-subject prompts, image quality, and spelling abilities; technical report to be published soon and linked here. | [Paper](https://stability.ai/news/stable-diffusion-3), [Tweet](https://x.com/StabilityAI/status/1760656767237656820?s=20) |
+| 2) **Gemma** - a series of open models inspired by the same research and tech used for Gemini; includes 2B (trained on 2T tokens) and 7B (trained on 6T tokens) models including base and instruction-tuned versions; trained on a context length of 8192 tokens; generally outperforms Llama 2 7B and Mistral 7B.  | [Paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf), [Tweet](https://x.com/omarsar0/status/1760310942552686604?s=20) |
+| 3) **LLMs for Data Annotation** - an overview and a good list of references that apply LLMs for data annotation; includes a taxonomy of methods that employ LLMs for data annotation; covers three aspects: LLM-based data annotation, assessing LLM-generated annotations, and learning with LLM-generated annotations.  | [Paper](https://arxiv.org/abs/2402.13446), [Tweet](https://x.com/omarsar0/status/1760664562779431367?s=20) |
+| 4) **GRIT** - presents generative representational instruction tuning where an LLM is trained to perform both generative and embedding tasks and designed to distinguish between them via the instructions; produces new state-of-the-art on MTEB and the unification is reported to speed up RAG by 60% for long documents. | [Paper](https://arxiv.org/abs/2402.09906), [Tweet](https://x.com/Muennighoff/status/1758307967802224770?s=20) |
+| 5) **LoRA+** - proposes LoRA+ which improves performance and finetuning speed (up to ∼ 2X speed up), at the same computational cost as LoRA; the key difference between LoRA and LoRA+ is how the learning rate is set; LoRA+ sets different learning rates for LoRA adapter matrices while in LoRA the learning rate is the same. | [Paper](https://arxiv.org/abs/2402.12354), [Tweet](https://x.com/omarsar0/status/1760063230406258892?s=20) |
+| 6) **Revisiting REINFORCE in RLHF** - shows that many components of PPO are unnecessary in an RLHF context; it also shows that a simpler REINFORCE variant outperforms both PPO and newly proposed alternatives such as DPO and RAFT; overall, it shows that online RL optimization can be beneficial and low cost. | [Paper](https://arxiv.org/abs/2402.14740),  [Tweet](https://x.com/sarahookr/status/1761042445997945070?s=20)  |
+| 7) **Recurrent Memory Finds What LLMs Miss** - explores the capability of transformer-based models in extremely long context processing; finds that both GPT-4 and RAG performance heavily rely on the first 25% of the input, which means there is room for improved context processing mechanisms; reports that recurrent memory augmentation of transformer models achieves superior performance on documents of up to 10 million tokens.  | [Paper](https://arxiv.org/abs/2402.10790),  [Tweet](https://x.com/omarsar0/status/1759591371126571028?s=20)  |
+| 8) **When is Tree Search Useful for LLM Planning** - investigates how LLM solves multi-step problems through a framework consisting of a generator, discriminator, and planning method (e.g., iterative correction and tree search); reports that planning methods demand discriminators with at least 90% accuracy but current LLMs don’t demonstrate these discrimination capabilities; finds that tree search is at least 10 to 20 times slower but regardless of it good performance it’s impractical for real-world applications. | [Paper](https://arxiv.org/abs/2402.10890),  [Tweet](https://x.com/ysu_nlp/status/1759757711061704913?s=20)  |
+| 9) **CoT Reasoning without Prompting** - proposes a chain-of-thought (CoT) decoding method to elicit the reasoning capabilities from pre-trained LLMs without explicit prompting; claims to significantly enhance a model’s reasoning capabilities over greedy decoding across reasoning benchmarks; finds that the model's confidence in its final answer increases when CoT is present in its decoding path.  | [Paper](https://arxiv.org/abs/2402.10200), [Tweet](https://x.com/omarsar0/status/1758566808213234017?s=20)  |
+| 10) **OpenCodeInterpreter** - a family of open-source systems for generating, executing, and iteratively refining code; proposes a dataset of 68K multi-turn interactions; integrates execution and human feedback for dynamic code refinement and produces high performance on benchmarks like HumalEval and EvalPlus. | [Paper](https://arxiv.org/abs/2402.14658), [Tweet](https://x.com/xiangyue96/status/1760891516107862104?s=20) |
 
 ## Top ML Papers of the Week (February 12 - February 18) - 2024
 | **Paper**  | **Links** |
