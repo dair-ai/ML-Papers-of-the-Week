@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (February 26 - March 3)](./#top-ml-papers-of-the-week-february-26---march-3---2024)
 - [Top ML Papers of the Week (February 19 - February 25)](./#top-ml-papers-of-the-week-february-19---february-25---2024)
 - [Top ML Papers of the Week (February 12 - February 18)](./#top-ml-papers-of-the-week-february-12---february-18---2024)
 - [Top ML Papers of the Week (February 5 - February 11)](./#top-ml-papers-of-the-week-february-5---february-11---2024)
@@ -75,6 +76,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (February 26 - March 3) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Genie** - a foundation model trained from internet videos and with the ability to generate a variety of action-controllable 2D worlds given an image prompt; Genie has 11B parameters and consists of a spatiotemporal video tokenizer, an autoregressive dynamic model, and a scalable latent action model; the latent action space enables training agents to imitate behaviors from unseen video which is promising for building more generalist agents.   | [Paper](https://arxiv.org/abs/2402.15391), [Tweet](https://x.com/_rockt/status/1762026090262872161?s=20) |
+| 2) **Mistral Large** - a new LLM with strong multilingual, reasoning, maths, and code generation capabilities; features include: 1) 32K tokens context window, 2) native multilingual capacities, 3) strong abilities in reasoning, knowledge, maths, and coding benchmarks, and 4) function calling and JSON format natively supported. | [Paper](https://mistral.ai/news/mistral-large/), [Tweet](https://x.com/omarsar0/status/1762140818654064721?s=20) |
+| 3) **The Era of 1-bit LLMs** - introduces a high-performing and cost-effective 1-bit LLM variant called BitNet b1.58 where every parameter is a ternary {-1, 0, 1}; given the same model size and training tokens, BitNet b1.58 can match the perplexity and task performance of a full precision Transformer LLM (i.e., FP16); the benefits of this 1-bit LLM are significantly better latency, memory, throughout, and energy consumption.  | [Paper](https://arxiv.org/abs/2402.17764), [Tweet](https://x.com/_akhaliq/status/1762729757454618720?s=20) |
+| 4) **Dataset for LLMs** - a comprehensive overview (180+ pages) and analysis of LLM datasets.   | [Paper](https://arxiv.org/abs/2402.18041), [Tweet](https://x.com/omarsar0/status/1763233452852134001?s=20) |
+| 5) **LearnAct** - explores open-action learning for language agents through an iterative learning strategy that creates and improves actions using Python functions; on each iteration, the proposed framework (LearnAct) expands the action space and enhances action effectiveness by revising and updating available actions based on execution feedback; the LearnAct framework was tested on Robotic planning and AlfWorld environments; it improves agent performance by 32% in AlfWorld compared to ReAct+Reflexion. | [Paper](https://arxiv.org/abs/2402.15809), [Tweet](https://x.com/omarsar0/status/1762533498492010761?s=20) |
+| 6) **EMO** - a new framework for generating expressive video by utilizing a direct audio-to-video synthesis approach; by leveraging an Audio2Video diffusion model it bypasses the need for intermediate 3D models or facial landmarks; EMO can produce convincing speaking videos and singing videos in various styles while outperforming existing methods in terms of expressiveness and realism. | [Paper](https://arxiv.org/abs/2402.17485),  [Tweet](https://x.com/_akhaliq/status/1762686465777999932?s=20)  |
+| 7) **On the Societal Impact of Open Foundation Models** - a position paper with a focus on open foundation models and their impact, benefits, and risks; proposes a risk assessment framework for analyzing risk and explains why the marginal risk of open foundation models is low in some cases; it also offers a more grounded assessment of the societal impact of open foundation models.   | [Paper](https://crfm.stanford.edu/open-fms/),  [Tweet](https://x.com/sayashk/status/1762508812370551207?s=20)  |
+| 8) **StarCoder 2** - a family of open LLMs for code with three different sizes (3B, 7B, and 15B); the 15B model was trained on 14 trillion tokens and 600+ programming languages with a context window of 16K token and employing a fill-in-the-middle objective; it matches 33B+ models on many evaluation like code completion, code reasoning, and math reasoning aided through PAL. | [Paper](https://huggingface.co/blog/starcoder2),  [Tweet](https://x.com/_philschmid/status/1762843489220296881?s=20)  |
+| 9) **LLMs on Tabular Data** - an overview of LLMs for tabular data tasks including key techniques, metrics, datasets, models, and optimization approaches; it covers limitations and unexplored ideas with insights for future research directions. | [Paper](https://arxiv.org/abs/2402.17944), [Tweet](https://x.com/omarsar0/status/1763187964501254492?s=20)  |
+| 10) **PlanGPT** - shows how to leverage LLMs and combine multiple approaches like retrieval augmentation, fine-tuning, tool usage, and more; the proposed framework is applied to urban and spatial planning but there are a lot of insights and practical tips that apply to other domains.| [Paper](https://arxiv.org/abs/2402.19273), [Tweet](https://x.com/omarsar0/status/1763424166890377691?s=20) |
 
 ## Top ML Papers of the Week (February 19 - February 25) - 2024
 | **Paper**  | **Links** |
