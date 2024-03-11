@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (March 4 - March 10)](./#top-ml-papers-of-the-week-march-4---march-10---2024)
 - [Top ML Papers of the Week (February 26 - March 3)](./#top-ml-papers-of-the-week-february-26---march-3---2024)
 - [Top ML Papers of the Week (February 19 - February 25)](./#top-ml-papers-of-the-week-february-19---february-25---2024)
 - [Top ML Papers of the Week (February 12 - February 18)](./#top-ml-papers-of-the-week-february-12---february-18---2024)
@@ -76,6 +77,22 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (March4 - March 10) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Claude 3** - consists of a family of three models (Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus); Claude 3 Opus (the strongest model) seems to outperform GPT-4 on common benchmarks like MMLU and HumanEval; Claude 3 capabilities include analysis, forecasting, content creation, code generation, and converting in non-English languages like Spanish, Japanese, and French; 200K context windows supported but can be extended to 1M token to select customers; the models also have strong vision capabilities for processing formats like photos, charts, and graphs; Anthropic claims these models have a more nuanced understanding of requests and make fewer refusals.  | [Paper](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [Tweet](https://x.com/AnthropicAI/status/1764653830468428150?s=20) |
+| 2) **Robust Evaluation of Reasoning** - proposes functional benchmarks for the evaluation of the reasoning capabilities of LLMs; finds that there is a reasoning gap with current models from 58.35% to 80.31%; however, the authors also report that those gaps can be reduced with more sophisticated prompting strategies.  | [Paper](https://arxiv.org/abs/2402.19450), [Tweet](https://x.com/_saurabh/status/1763626711407816930?s=20) |
+| 3) **GaLore** - proposes a memory-efficient approach for training LLM through low-rank projection; the training strategy allows full-parameter learning and is more memory-efficient than common low-rank adaptation methods such as LoRA; reduces memory usage by up to 65.5% in optimizer states while maintaining both efficiency and performance for pre-training on LLaMA 1B and 7B architectures. | [Paper](https://arxiv.org/abs/2403.03507), [Tweet](https://x.com/AnimaAnandkumar/status/1765613815146893348?s=20) |
+| 4) **Can LLMs Reason and Plan?** - a new position paper discusses the topic of reasoning and planning for LLMs; here is a summary of the author's conclusion: "To summarize, nothing that I have read, verified, or done gives me any compelling reason to believe that LLMs do reasoning/planning, as normally understood. What they do instead, armed with web-scale training, is a form of universal approximate retrieval, which, as I have argued, can sometimes be mistaken for reasoning capabilities".  | [Paper](https://arxiv.org/abs/2403.04121), [Tweet](https://x.com/omarsar0/status/1766123621326475285?s=20) |
+| 5) **RAG for AI-Generated Content** - provides an overview of RAG used in different generation scenarios like code, image, and audio, including a taxonomy of RAG enhancements with reference to key papers. | [Paper](https://arxiv.org/abs/2402.19473v1), [Tweet](https://x.com/omarsar0/status/1765414854397985175?s=20) |
+| 6) **KnowAgent** - proposes an approach to enhance the planning capabilities of LLMs through explicit action knowledge; uses an action knowledge base and a knowledgeable self-learning phase to guide the model's action generation, mitigate planning hallucination, and enable continuous improvement; outperforms existing baselines and shows the potential of integrating external action knowledge to streamline planning with LLMs and solve complex planning challenges. | [Paper](https://arxiv.org/abs/2403.03101),  [Tweet](https://x.com/omarsar0/status/1765408813467759037?s=20)  |
+| 7) **Sora Overview** - a comprehensive review of Sora and some of the key developments powering this model, including limitations and opportunities of large vision models. | [Paper](https://arxiv.org/abs/2402.17177v2),  [Tweet](https://x.com/omarsar0/status/1765756669659603015?s=20)  |
+| 8) **LLM for Law** - introduces SaulLM-7B, a large language model for the legal domain explicitly designed for legal text comprehension and generation; presents an instructional fine-tuning method that leverages legal datasets to further enhance performance in legal tasks.   | [Paper](https://arxiv.org/abs/2403.03883),  [Tweet](https://x.com/_akhaliq/status/1765614083875738028?s=20)  |
+| 9) **Design2Code** - investigates the use of multimodal LLMs for converting a visual design into code implementation which is key for automating front-end engineering; introduces a benchmark of 484 diverse real-world webpages and a set of evaluation metrics to measure the design-to-code capability; further develops a suite of multimodal prompting methods and show their effectiveness on GPT-4V and Gemini Pro Vision; an open-source fine-tuned Design2Code matches the performance of Gemini Pro Vision, however, GPT-4V performs the best on the task.  | [Paper](https://arxiv.org/abs/2403.03163), [Tweet](https://x.com/_akhaliq/status/1765199160653828385?s=20)  |
+| 10) **TripoSR** - a transformer-based 3D reconstruction model for fast feed-forward 3D generation; it can produce 3D mesh from a single image in under 0.5 seconds; improvement includes better data processing, model design, and training. | [Paper](https://arxiv.org/abs/2403.02151v1), [Tweet](https://x.com/_akhaliq/status/1764841524431392794?s=20) |
+
+
 
 ## Top ML Papers of the Week (February 26 - March 3) - 2024
 | **Paper**  | **Links** |
