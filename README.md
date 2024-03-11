@@ -78,7 +78,7 @@ Here is the weekly series:
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
-## Top ML Papers of the Week (March4 - March 10) - 2024
+## Top ML Papers of the Week (March 4 - March 10) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Claude 3** - consists of a family of three models (Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus); Claude 3 Opus (the strongest model) seems to outperform GPT-4 on common benchmarks like MMLU and HumanEval; Claude 3 capabilities include analysis, forecasting, content creation, code generation, and converting in non-English languages like Spanish, Japanese, and French; 200K context windows supported but can be extended to 1M token to select customers; the models also have strong vision capabilities for processing formats like photos, charts, and graphs; Anthropic claims these models have a more nuanced understanding of requests and make fewer refusals.  | [Paper](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [Tweet](https://x.com/AnthropicAI/status/1764653830468428150?s=20) |
