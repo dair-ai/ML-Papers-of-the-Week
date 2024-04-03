@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (March 26 - March 31)](./#top-ml-papers-of-the-week-march-26---march-31---2024)
 - [Top ML Papers of the Week (March 18 - March 25)](./#top-ml-papers-of-the-week-march-18---march-25---2024)
 - [Top ML Papers of the Week (March 11 - March 17)](./#top-ml-papers-of-the-week-march-11---march-17---2024)
 - [Top ML Papers of the Week (March 4 - March 10)](./#top-ml-papers-of-the-week-march-4---march-10---2024)
@@ -79,6 +80,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (March 26 - March 31) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **DBRX** - a new 132B parameter open LLM that outperforms all the established open-source models on common benchmarks like MMLU and GSM8K; DBRX was pretrained on 12T tokens (text and code) and uses a mixture-of-experts (MoE) architecture; its inference is up to 2x faster than LLaMA2-70B and is about 40% of the size of Grok-1 in terms of both total and active parameter counts; there is also DBRX Instruct which demonstrates good performance in programming and mathematics; while DBRX is trained as a general-purpose LLM, it still surpasses CodeLLaMa-70 Instruct, a model built explicitly for code generation. | [Paper](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm), [Tweet](https://x.com/omarsar0/status/1773018193885303266?s=20) |
+| 2) **Grok-1.5** - xAI’s latest long-context LLM for advanced understanding and reasoning and problem-solving capabilities; Grok-1.5 achieved a 50.6% score on the MATH benchmark and a 90% score on the GSM8K benchmark; this model can process long contexts of up to 128K tokens and demonstrates powerful retrieval capabilities. | [Paper](https://x.ai/blog/grok-1.5), [Tweet](https://x.com/xai/status/1773510159740063860?s=20) |
+| 3) **SEEDS** - a generative AI model based on diffusion models that shows powerful capabilities to quantify uncertainty in weather forecasting; it can generate a large ensemble conditioned on as few as one or two forecasts from an operational numerical weather prediction system.  | [Paper](https://www.science.org/doi/10.1126/sciadv.adk4489), [Tweet](https://x.com/GoogleAI/status/1773774362413355099?s=20) |
+| 4) **LLMs for University-Level Coding Course** - finds that the latest LLMs have not surpassed human proficiency in physics coding assignments; also finds that GPT-4 significantly outperforms GPT-3.5 and prompt engineering can further enhance performance.  | [Paper](https://arxiv.org/abs/2403.16977), [Tweet](https://x.com/omarsar0/status/1772647466820685895?s=20) |
+| 5) **Mini-Gemini** - a simple framework to enhance multi-modality vision models; specifically, visual tokens are enhanced through an additional visual encoder for high-resolution refinement without token increase; achieves top performance in several zero-shot benchmarks and even surpasses the developed private models.   | [Paper](https://arxiv.org/abs/2403.18814v1), [Tweet](https://x.com/_akhaliq/status/1773170068521713713?s=20) |
+| 6) **Long-form factuality in LLMs** - investigates long-form factuality in open-domain by generating a prompt set of questions including 38 topics; also proposes an LLM-based agent to perform evaluation for the task; finds that LLM agents can achieve superhuman rating performance and is reported to be 20 times cheaper than human annotations.  | [Paper](https://arxiv.org/abs/2403.18802v1),  [Tweet](https://x.com/JerryWeiAI/status/1773402343301877960?s=20)  |
+| 7) **Agent Lumos** - a unified framework for training open-source LLM-based agents; it consists of a modular architecture with a planning module that can learn subgoal generation and a module trained to translate them to action with tool usage. | [Paper](https://arxiv.org/abs/2311.05657),  [Tweet](https://x.com/Wade_Yin9712/status/1773792306791055397?s=20)  |
+| 8) **AIOS** - an LLM agent operation system that integrates LLMs into operation systems as a brain; the agent can optimize resource allocation, context switching, enable concurrent execution of agents, tool service, and even maintain access control for agents. | [Paper](https://arxiv.org/abs/2403.16971v2),  [Tweet](https://x.com/arankomatsuzaki/status/1772460132745547976?s=20)  |
+| 9) **FollowIR** - a dataset with instruction evaluation benchmark and a separate set for teaching information retrieval model to follow real-world instructions; a FollowIR-7B model has significant improvements (over 13%) after fine-tuning on a training set. | [Paper](https://arxiv.org/abs/2403.15246), [Tweet](https://x.com/arankomatsuzaki/status/1772082608609833127?s=20)  |
+| 10) **LLM2LLM** - an iterative data augmentation strategy that leverages a teacher LLM to enhance a small seed dataset by augmenting additional data that can be used to effectively fine-tune models; it significantly enhances the performance of LLMs in the low-data regime, outperforming both traditional fine-tuning and other data augmentation baselines.| [Paper](https://arxiv.org/abs/2403.15042), [Tweet](https://x.com/arankomatsuzaki/status/1772078585903219007?s=20) |
+
 
 ## Top ML Papers of the Week (March 18 - March 25) - 2024
 | **Paper**  | **Links** |
