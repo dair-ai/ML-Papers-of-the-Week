@@ -8,7 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
-- [Top ML Papers of the Week (March 26 - March 31)](./#top-ml-papers-of-the-week-april-1---april-7---2024)
+- [Top ML Papers of the Week (April 1 - April 7)](./#top-ml-papers-of-the-week-april-1---april-7---2024)
 - [Top ML Papers of the Week (March 26 - March 31)](./#top-ml-papers-of-the-week-march-26---march-31---2024)
 - [Top ML Papers of the Week (March 18 - March 25)](./#top-ml-papers-of-the-week-march-18---march-25---2024)
 - [Top ML Papers of the Week (March 11 - March 17)](./#top-ml-papers-of-the-week-march-11---march-17---2024)
