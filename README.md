@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (April 15 - April 21)](./#top-ml-papers-of-the-week-april-15---april-21---2024)
 - [Top ML Papers of the Week (April 8 - April 14)](./#top-ml-papers-of-the-week-april-8---april-14---2024)
 - [Top ML Papers of the Week (April 1 - April 7)](./#top-ml-papers-of-the-week-april-1---april-7---2024)
 - [Top ML Papers of the Week (March 26 - March 31)](./#top-ml-papers-of-the-week-march-26---march-31---2024)
@@ -82,6 +83,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (April 15 - April 21) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Llama 3** - a family of LLMs that include 8B and 70B pretrained and instruction-tuned models; Llama 3 8B outperforms Gemma 7B and Mistral 7B Instruct; Llama 3 70 broadly outperforms Gemini Pro 1.5 and Claude 3 Sonnet.  | [Paper](https://ai.meta.com/blog/meta-llama-3/?utm_source=twitter&utm_medium=organic_social&utm_content=video&utm_campaign=llama3), [Tweet](https://x.com/AIatMeta/status/1780997403979735440) |
+| 2) **Mixtral 8x22B** - a new open-source sparse mixture-of-experts model that reports that compared to the other community models, it delivers the best performance/cost ratio on MMLU; shows strong performance on reasoning, knowledge retrieval, maths, and coding. | [Paper](https://mistral.ai/news/mixtral-8x22b/), [Tweet](https://x.com/MistralAILabs/status/1780596888473072029) |
+| 3) **Chinchilla Scaling: A replication attempt** - attempts to replicate the third estimation procedure of the compute-optimal scaling law proposed in Hoffmann et al. (2022) (i.e., Chinchilla scaling); finds that “the reported estimates are inconsistent with their first two estimation methods, fail at fitting the extracted data, and report implausibly narrow confidence intervals.” | [Paper](https://arxiv.org/abs/2404.10102), [Tweet](https://x.com/tamaybes/status/1780639257389904013) |
+| 4) **How Faithful are RAG Models?** - aims to quantify the tug-of-war between RAG and LLMs' internal prior; it focuses on GPT-4 and other LLMs on question answering for the analysis; finds that providing correct retrieved information fixes most of the model mistakes (94% accuracy); when the documents contain more incorrect values and the LLM's internal prior is weak, the LLM is more likely to recite incorrect information; the LLMs are found to be more resistant when they have a stronger prior. | [Paper](https://arxiv.org/abs/2404.10198), [Tweet](https://x.com/omarsar0/status/1780613738585903182) |
+| 5) **A Survey on Retrieval-Augmented Text Generation for LLMs** - presents a comprehensive overview of the RAG domain, its evolution, and challenges; it includes a detailed discussion of four important aspects of RAG systems: pre-retrieval, retrieval, post-retrieval, and generation. | [Paper](https://arxiv.org/abs/2404.10981), [Tweet](https://x.com/omarsar0/status/1780961995178594324) |
+| 6) **The Illusion of State in State-Space Models** - investigates the expressive power of state space models (SSMs) and reveals that it is limited similar to transformers in that SSMs cannot express computation outside the complexity class 𝖳𝖢^0; finds that SSMs cannot solve state-tracking problems like permutation composition and other tasks such as evaluating code or tracking entities in a long narrative.  [Paper](https://arxiv.org/abs/2404.08819),  [Tweet](https://x.com/lambdaviking/status/1780246351520887281)  |
+| 7) **Reducing Hallucination in Structured Outputs via RAG** - discusses how to deploy an efficient RAG system for structured output tasks; the RAG system combines a small language model with a very small retriever; it shows that RAG can enable deploying powerful LLM-powered systems in limited-resource settings while mitigating issues like hallucination and increasing the reliability of outputs.| [Paper](https://arxiv.org/abs/2404.08189),  [Tweet](https://x.com/omarsar0/status/1779896289745846778)  |
+| 8) **Emerging AI Agent Architectures** - presents a concise summary of emerging AI agent architectures; it focuses the discussion on capabilities like reasoning, planning, and tool calling which are all needed to build complex AI-powered agentic workflows and systems; the report includes current capabilities, limitations, insights, and ideas for future development of AI agent design. | [Paper](https://arxiv.org/abs/2404.11584),  [Tweet](https://x.com/omarsar0/status/1780958785785200756)  |
+| 9)  **LM In-Context Recall is Prompt Dependent** - analyzes the in-context recall performance of different LLMs using several needle-in-a-haystack tests; shows various LLMs recall facts at different lengths and depths; finds that a model's recall performance is significantly affected by small changes in the prompt; the interplay between prompt content and training data can degrade the response quality; the recall ability of a model can be improved with increasing size, enhancing the attention mechanism, trying different training strategies, and applying fine-tuning.  | [Paper](https://arxiv.org/abs/2404.08865), [Tweet](https://x.com/omarsar0/status/1780244042007122129)  |
+| 10) **A Survey on State Space Models** - a survey paper on state space models (SSMs) with experimental comparison and analysis; it reviews current SSMs, improvements compared to alternatives, challenges, and their applications. | [Paper](https://arxiv.org/abs/2404.09516), [Tweet](https://x.com/omarsar0/status/1781430319926686190) |
+
 
 ## Top ML Papers of the Week (April 8 - April 14) - 2024
 | **Paper**  | **Links** |
