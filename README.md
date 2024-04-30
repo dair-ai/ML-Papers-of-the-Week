@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (April 22 - April 28)](./#top-ml-papers-of-the-week-april-22---april-28---2024)
 - [Top ML Papers of the Week (April 15 - April 21)](./#top-ml-papers-of-the-week-april-15---april-21---2024)
 - [Top ML Papers of the Week (April 8 - April 14)](./#top-ml-papers-of-the-week-april-8---april-14---2024)
 - [Top ML Papers of the Week (April 1 - April 7)](./#top-ml-papers-of-the-week-april-1---april-7---2024)
@@ -83,6 +84,22 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (April 15 - April 21) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Phi-3** - a new 3.8B parameter language model called phi-3-mini trained on 3.3 trillion tokens and is reported to rival Mixtral 8x7B and GPT-3.5; has a default context length of 4K but also includes a version that is extended to 128K (phi-mini-128K); combines heavily filtered web data and synthetic data to train the 3.8B models; it also reports results on 7B and 14B models trained on 4.8T tokens (phi-3-small and phi-3-medium) | [Paper](https://arxiv.org/abs/2404.14219), [Tweet](https://x.com/omarsar0/status/1782780923806699716) |
+| 2) **OpenELM** - a new open language model that employs a layer-wise scaling strategy to efficiently allocate parameters and leading to better efficiency and accuracy; comes with different sizes such as 270M, 450M, 1.1B, and 3B; achieves a 2.36% improvement in accuracy compared to OLMo while requiring 2× fewer pre-training tokens. | [Paper](https://arxiv.org/abs/2404.14619), [Tweet](https://x.com/rasbt/status/1783480053847736713) |
+| 3) **Arctic** - an open-source LLM (Apache 2.0 license.) that uses a unique Dense-MoE Hybrid transformer architecture; performs on par with Llama3 70B in enterprise metrics like coding (HumanEval+ & MBPP+), SQL (Spider) and instruction following (IFEval); claims to use 17x less compute budget than Llama 3 70B; the training compute is roughly under $2 million (less than 3K GPU weeks).   | [Paper](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/), [Tweet](https://x.com/omarsar0/status/1783176059694821632) |
+| 4) **Make Your LLM Fully Utilize the Context** - presents an approach to overcome the lost-in-the-middle challenge common in LLMs. It applies an explicit "information-intensive" training procedure on Mistral-7B to enable the LLM to fully utilize the context. It leverages a synthetic dataset where the answer requires fine-grained information awareness on a short segment (∼128 tokens) within a synthesized long context (4K−32K tokens), and 2) the integration and reasoning of information from two or more short segments. The resulting model, FILM-7B (Fill-in-the-Middle), shows that it can robustly retrieve information from different positions in its 32K context window.  | [Paper](https://arxiv.org/abs/2404.16811), [Tweet](https://x.com/omarsar0/status/1783905514578980949) |
+| 5) **FineWeb** - a large-scale web dataset containing 15 trillion tokens for training language models; filters and deduplicates CommonCrawl between 2013 and 2024 and the goal is to improve the quality of the data.  | [Paper](https://huggingface.co/datasets/HuggingFaceFW/fineweb), [Tweet](https://x.com/gui_penedo/status/1781953413938557276) |
+| 6) **AI-powered Gene Editors** - achieves precision editing of the human genome with a programmable gene editor design with an AI system powered by an LLM trained on biological diversity at scale.  | [Paper](https://www.biorxiv.org/content/10.1101/2024.04.22.590591v1),  [Tweet](https://x.com/thisismadani/status/1782510590839406904)  |
+| 7) **AutoCrawler** - Combines LLMs with crawlers with the goal of helping crawlers handle diverse and changing web environments more efficiently; the web crawler agent leverages the hierarchical structure of HTML for progressive understanding; employs top-down and step-back operations, and leverages the DOM tree structure, to generate a complete and executable crawler.  | [Paper](https://arxiv.org/abs/2404.12753),  [Tweet](https://x.com/omarsar0/status/1782462314983071757)  |
+| 8) **Graph Machine Learning in the Era of LLMs** - provides a comprehensive overview of the latest advancements for Graph ML in the era of LLMs; covers the recent developments in Graph ML, how LLM can enhance graph features, and how it can address issues such as OOD and graph heterogeneity.  | [Paper](https://arxiv.org/abs/2404.14928),  [Tweet](https://x.com/omarsar0/status/1783171591020392886)  |
+| 9) **Self-Evolution of LLMs** - provides a comprehensive survey on self-evolution approaches in LLMs. | [Paper](https://arxiv.org/abs/2404.14387), [Tweet](https://x.com/omarsar0/status/1782777977526231440)  |
+| 10) **Naturalized Execution Tuning (NExT)** - trains an LLM to have the ability to inspect the execution traced of programs and reason about run-time behavior via synthetic chain-of-thought rationales; improves the fix rate of a PaLM 2 model on MBPP and Human by 26.1% and 14.3%; the model also shows that it can generalize to unknown scenarios. | [Paper](https://arxiv.org/abs/2404.14662), [Tweet](https://x.com/AnsongNi/status/1783311827390070941) |
+
+
 
 ## Top ML Papers of the Week (April 15 - April 21) - 2024
 | **Paper**  | **Links** |
