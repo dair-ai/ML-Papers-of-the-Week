@@ -85,7 +85,7 @@ Here is the weekly series:
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
-## Top ML Papers of the Week (April 15 - April 21) - 2024
+## Top ML Papers of the Week (April 22 - April 28) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **Phi-3** - a new 3.8B parameter language model called phi-3-mini trained on 3.3 trillion tokens and is reported to rival Mixtral 8x7B and GPT-3.5; has a default context length of 4K but also includes a version that is extended to 128K (phi-mini-128K); combines heavily filtered web data and synthetic data to train the 3.8B models; it also reports results on 7B and 14B models trained on 4.8T tokens (phi-3-small and phi-3-medium) | [Paper](https://arxiv.org/abs/2404.14219), [Tweet](https://x.com/omarsar0/status/1782780923806699716) |
