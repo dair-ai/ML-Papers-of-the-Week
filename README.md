@@ -8,6 +8,7 @@ Here is the weekly series:
 
 ## 2024
 
+- [Top ML Papers of the Week (April 22 - April 28)](./#top-ml-papers-of-the-week-april-29---may-5---2024)
 - [Top ML Papers of the Week (April 22 - April 28)](./#top-ml-papers-of-the-week-april-22---april-28---2024)
 - [Top ML Papers of the Week (April 15 - April 21)](./#top-ml-papers-of-the-week-april-15---april-21---2024)
 - [Top ML Papers of the Week (April 8 - April 14)](./#top-ml-papers-of-the-week-april-8---april-14---2024)
@@ -84,6 +85,22 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (April 29 - May 5) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Kolmogorov-Arnold Networks** - proposes Kolmogorov-Arnold Networks (KANs) as alternatives to Multi-Layer Perceptrons (MLPs); KANs apply learnable activation functions on edges that represent the weights; with no linear weights used, KANs can outperform MLPs and possess faster neural scaling laws; the authors show that KANs can be used as collaborators to help scientists discover mathematics and physical laws. | [Paper](https://arxiv.org/abs/2404.19756), [Tweet](https://x.com/ZimingLiu11/status/1785483967719981538) |
+| 2) **Better and Faster LLMs via Multi-token Prediction** - proposes a multi-token prediction approach that performs language modeling by training the predict the following n tokens using n independent output heads; the output heads operate on top of a shared transformer trunk; multi-token prediction is shown to be useful when using larger model sizes and can speed up inference up to 3x; the proposed 13B parameter models solves 12 % more problems on HumanEval and 17 % more on MBPP than comparable next-token models. | [Paper](https://arxiv.org/abs/2404.19737), [Tweet](https://x.com/arankomatsuzaki/status/1785486711646040440) |
+| 3) **Med-Gemini** - presents a family of multimodal models specialized in medicines and based on the strong multimodal and long-context reasoning capabilities of Gemini; achieves state-of-the-art performance on 10/14 benchmarks surpassing GPT-4 models; it achieves 91% accuracy on MedQA (USMLE) benchmark using an uncertainty-guided search strategy.  | [Paper](https://arxiv.org/abs/2404.18416), [Tweet](https://x.com/iScienceLuvr/status/1785247498744778886) |
+| 4) **When to Retrieve?** - presents an approach to train LLMs to effectively utilize information retrieval; it first proposes a training approach to teach an LLM to generate a special token, <RET>, when it's not confident or doesn't know the answer to a question; the fine-tuned model outperforms a base LLM in two fixed alternate settings that include never retrieving and always retrieving context  | [Paper](https://arxiv.org/abs/2404.19705), [Tweet](https://x.com/omarsar0/status/1785498325913108556) |
+| 5) **A Survey on Retrieval-Augmented Language Models** - covers the most important recent developments in RAG and RAU systems; it includes evolution, taxonomy, and an analysis of applications; there is also a section on how to enhance different components of these systems and how to properly evaluate them; it concludes with a section on limitations and future directions.  | [Paper](https://arxiv.org/abs/2404.19543), [Tweet](https://x.com/omarsar0/status/1785666343062184422) |
+| 6) **An Open-source LM Specialized in Evaluating Other LMs** - open-source Prometheus 2 (7B & 8x7B), state-of-the-art open evaluator LLMs that closely mirror human and GPT-4 judgments; they support both direct assessments and pair-wise ranking formats grouped with user-defined evaluation criteria; according to the experimental results, this open-source model seems to be the strongest among all open-evaluator LLMs; the key seems to be in merging evaluator LMs trained on either direct assessment or pairwise ranking formats. | [Paper](https://arxiv.org/abs/2405.01535),  [Tweet](https://x.com/omarsar0/status/1786380398966014423)  |
+| 7) **Self-Play Preference Optimization** - proposes a self-play-based method for aligning language models; this optimation procedure treats the problem as a constant-sum two-player game to identify the Nash equilibrium policy; it addresses the shortcomings of DPO and IPO and effectively increases the log-likelihood of chose responses and decreases the rejected ones; SPPO outperforms DPO and IPO on MT-Bench and the Open LLM Leaderboard. | [Paper](https://arxiv.org/abs/2405.00675),  [Tweet](https://x.com/QuanquanGu/status/1785903241102049424)  |
+| 8) **Inner Workings of Transformer Language Models** - presents a technical introduction to current techniques used to interpret the inner workings of Transformer-based language models; it provides a detailed overview of the internal mechanisms implemented in these models. | [Paper](https://arxiv.org/abs/2405.00208),  [Tweet](https://x.com/omarsar0/status/1786052338043466162)  |
+| 9) **Multimodal LLM Hallucinations** - provides an overview of the recent advances in identifying, evaluating, and mitigating hallucination in multimodal LLMs; it also provides an overview of causes, evaluation benchmarks, metrics, and other strategies to deal with challenges related to detecting hallucinations. | [Paper](https://arxiv.org/abs/2404.18930), [Tweet](https://x.com/DuaneJRich/status/1785220190411821111)  |
+| 10) **In-Context Learning with Long-Context Models** - studies the behavior in-context learning of LLMs at extreme context lengths with long-context models; shows that performance increases as hundreds or thousands of demonstrations are used; demonstrates that long-context ICL is less sensitive to random input shuffling than short-context ICL; concludes that the effectiveness of long-context LLMs is not due to task learning but from attending to similar examples. | [Paper](https://arxiv.org/abs/2405.00200), [Tweet](https://x.com/abertsch72/status/1786392584765538350) |
+
+
 
 ## Top ML Papers of the Week (April 22 - April 28) - 2024
 | **Paper**  | **Links** |
