@@ -85,6 +85,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+## Top ML Papers of the Week (May 6 - May 12) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **AlphaFold 3** - releases a new state-of-the-art model for accurately predicting the structure and interactions of molecules; it can generate the 3D structures of proteins, DNA, RNA, and smaller molecules... | [Paper](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)), [Tweet](https://x.com/GoogleDeepMind/status/1788223454317097172)) |
+| 2) **xLSTM: Extended Long Short-Term Memory** - attempts to scale LSTMs to billions of parameters using techniques from modern LLMs; to enable LSTMs the ability to revise storage decisions, they introduce exponential gating and a new memory mixing mechanism...| [Paper](https://arxiv.org/abs/2405.04517)), [Tweet](https://x.com/omarsar0/status/1788236090265977224) |
+| 3) **DeepSeek-V2** - a strong MoE 236B parameter model, of which 21B are activated for each token; supports a context length of 128K tokens and uses Multi-head Latent Attention (MLA) for efficient inference by compressing the Key-Value (KV) cache into a latent vector...  | [Paper](https://arxiv.org/abs/2405.04434v2), [Tweet](https://x.com/p_nawrot/status/1788479672067481664) |
+| 4) **AlphaMath Almost Zero** - enhances LLMs with Monte Carlo Tree Search (MCTS) to improve mathematical reasoning capabilities; the MCTS framework extends the LLM to achieve a more effective balance between exploration and exploitation... | [Paper](https://arxiv.org/abs/2405.03553), [Tweet](https://x.com/omarsar0/status/1787678940158468283)) |
+| 5) **DrEureka: Language Model Guided Sim-To-Real Transfer** - uses LLMs to automate and accelerate sim-to-real design; it requires the physics simulation for the target task and automatically constructs reward functions and domain randomization distributions to support real-world transfer... | [Paper](https://eureka-research.github.io/dr-eureka/), [Tweet](https://x.com/DrJimFan/status/1786429467537088741) |
+| 6) **Consistency LLMs** - uses efficient parallel decoders that reduce inference latency by decoding n-token sequence per inference step; inspired by the human's ability to form complete sentences before articulating word by word... | [Paper](https://arxiv.org/abs/2403.00835),  [Tweet](https://x.com/omarsar0/status/1788594039865958762)  |
+| 7) **Is Flash Attention Stable?** - develops an approach to understanding the effects of numeric deviation and applies it to the widely-adopted Flash Attention optimization... | [Paper](https://arxiv.org/abs/2405.02803),  [Tweet](https://x.com/arankomatsuzaki/status/1787674624647414168)  |
+| 8) **Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond** - presents an overview of generative methodologies in video generation, where world models facilitate the synthesis of highly realistic visual content. | [Paper](https://arxiv.org/abs/2405.03520v1),  [Tweet](https://x.com/dair_ai/status/1789640682082091442)  |
+| 9) **MAmmoTH2** - harvest 10 million naturally existing instruction data from the pre-training web corpus to enhance LLM reasoning; the approach first recalls relevant documents, extracts instruction-response pairs, and then refines the extracted pairs using open-source LLMs; MAmmoTH2-7B's (Mistral) performance increases from 11% to 34% on MATH and from 36% to 67% on GSM8K.. | [Paper](https://arxiv.org/pdf/2309.05653)), [Tweet]((https://x.com/xiangyue96/status/1787684680336097645)  |
+| 10) **Granite Code Models** -introduce Granite, a series of code models trained with code written in 116 programming languages; it consists of models ranging in size from 3 to 34 billion parameters, suitable for applications ranging from application modernization tasks to on-device memory-constrained use cases... | [Paper](https://github.com/ibm-granite/granite-code-models), [Tweet](https://x.com/rohanpaul_ai/status/1788194161495052343) |
+
+
 
 ## Top ML Papers of the Week (April 29 - May 5) - 2024
 | **Paper**  | **Links** |
