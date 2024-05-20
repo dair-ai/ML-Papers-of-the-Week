@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (May 6 - May 12)](./#top-ml-papers-of-the-week-may-13---may-19---2024)
 - [Top ML Papers of the Week (May 6 - May 12)](./#top-ml-papers-of-the-week-may-6---may-12---2024)
 - [Top ML Papers of the Week (April 29 - May 5)](./#top-ml-papers-of-the-week-april-29---may-5---2024)
 - [Top ML Papers of the Week (April 22 - April 28)](./#top-ml-papers-of-the-week-april-22---april-28---2024)
@@ -85,6 +86,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (May 13 - May 19) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **GPT-4o** - a new model with multimodal reasoning capabilities with real-time support across audio, vision, and text; it can accept as input any combination of text, audio, image, and video to generate combinations of text, audio, and image outputs; it’s reported to match GPT-4 Turbo performance while being 50% much faster and cheaper via APIs. | [Paper](https://openai.com/index/hello-gpt-4o/), [Tweet](https://x.com/OpenAI/status/1790072174117613963) |
+| 2) **Gemini 1.5 Flash** - a lightweight transformer decoder model with a 2M context window with multimodal capabilities; it is designed for efficiency and yields the fastest output generation of all models on several evaluated languages; overall, Gemini 1.5 Flash performs uniformly better compared to Gemini 1.0 Pro and even performs at a similar level to 1.0 Ultra on several benchmarks. | [Paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [Tweet](https://x.com/OriolVinyalsML/status/1791521517211107515) |
+| 3) **Veo** - Google Deepmind’s most capable video generation model generates high-quality, 1080p resolution videos beyond 1 minute; it supports masked editing on videos and can also generate videos with an input image along with text; the model can extend video clips to 60 seconds and more while keeping consistency with its latent diffusion transformer.  | [Paper](https://deepmind.google/technologies/veo/), [Tweet](https://x.com/GoogleDeepMind/status/1790435824598716704) |
+| 4) **Chameleon** - a family of token-based mixed-modal models for generating images and text in any arbitrary sequence; reports state-of-the-art performance in image captioning and outperforms Llama 2 in text-only tasks and is also competitive with Mixtral 8x7B and Gemini-Pro; exceeds the performance of Gemini Pro and GPT-4V on a new long-form mixed-modal generation evaluation. | [Paper](https://arxiv.org/abs/2405.09818), [Tweet](https://x.com/AIatMeta/status/1791263344714014733) |
+| 5) **Fine-tuning and Hallucinations** - studies the impact of fine-tuning on new knowledge on the hallucination tendencies of LLMs; the setup includes fine-tuning examples that include new knowledge; shows that LLMs struggle to acquire new factual knowledge via fine-tuning; also finds that as new knowledge is learned it increases the model’s tendency to hallucinate. | [Paper](https://arxiv.org/abs/2405.05904), [Tweet](https://x.com/arankomatsuzaki/status/1788859706187882960) |
+| 6) **Zero-shot Tokenizer Transfer** - trains a hypernetwork taking a tokenizer as input and predicting the corresponding embeddings; it demonstrates generalization to new tokenizers both with encoder and decoder LLMs; reports that the method achieves performance close to the original models' performance in cross-lingual and coding tasks while reducing the length of the tokenized sequence. | [Paper](https://arxiv.org/abs/2405.07883),  [Tweet](https://x.com/bminixhofer/status/1790267652587258343)  |
+| 7) **WavCraft** - leverages LLMs to connect task-specific models for audio content creation and editing; decomposes users' instructions into several tasks and tackles each task collaboratively with the particular module; it can enable users to interact and produce audio content without explicit commands  | [Paper](https://arxiv.org/abs/2403.09527v3) |
+| 8) **RLHF Workflow** - provides an easily reproducible recipe for online iterative RLHF; discusses theoretical insights and algorithmic principles of online iterative RLHF and practical implementation.  | [Paper](https://arxiv.org/abs/2405.07863v1),  [Tweet](https://x.com/CaimingXiong/status/1790379121719361776)  |
+| 9) **You Only Cache Once** - a decoder-decoder LLM architecture that only caches key-value pairs once; it involves a cross-decoder stacked upon a self-decoder which efficiently encodes global key-value caches and the cross-encoder reuses the cache via cross-attention; this leads to a significant reduction in GPU memory use without sacrificing capabilities; achieves comparable performance to Transformer in various settings of scaling up model size and number of training token. | [Paper](https://arxiv.org/abs/2405.05254), [Tweet](https://x.com/arankomatsuzaki/status/1788435838474355098)  |
+| 10) **CAT3D** - presents a method for creating anything in 3D by simulating the real-world capture process using a multi-view diffusion model; it can generate consistent novel views of a scene which can be used as input to 3D reconstruction techniques to produce 3D representation rendered in real-time; the scene from CAT3D can be generated in less than one minute and is reported to outperform existing methods on single image and few-view 3D scene creation tasks. | [Paper](https://arxiv.org/abs/2405.10314), [Tweet](https://x.com/_akhaliq/status/1791294630614442009) |
+
 
 ## Top ML Papers of the Week (May 6 - May 12) - 2024
 | **Paper**  | **Links** |
