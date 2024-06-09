@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (June 3 - June 9)](./#top-ml-papers-of-the-week-june-3---june-9---2024)
 - [Top ML Papers of the Week (May 27 - June 2)](./#top-ml-papers-of-the-week-may-27---june-2---2024)
 - [Top ML Papers of the Week (May 20 - May 26)](./#top-ml-papers-of-the-week-may-20---may-26---2024)
 - [Top ML Papers of the Week (May 13 - May 19)](./#top-ml-papers-of-the-week-may-13---may-19---2024)
@@ -88,6 +89,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (June 3 - June 9) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **NLLB** - proposes a massive multilingual model that leverages transfer learning across 200 languages; it’s based on a sparsely Gated Mixture of Experts architecture and trained on data via an approach tailored for low-resource languages; evaluates on 40K translations and achieves an average of 44% improvement in translation quality.  | [Paper](https://www.nature.com/articles/s41586-024-07335-x), [Tweet](https://x.com/AIatMeta/status/1798420492774432769) |
+| 2) **Extracting Concepts from GPT-4** - proposes a new scalable method based on sparse autoencoders to extract around 16 million interpretable patterns from GPT-4; the method demonstrates predictable scaling and is more efficient than previous techniques. | [Paper](https://openai.com/index/extracting-concepts-from-gpt-4/), [Tweet](https://x.com/OpenAI/status/1798762092528586945) |
+| 3) **Mamba-2** - a new architecture that combines state space models (SSMs) and structured attention; it uses 8x larger states and trains 50% faster; the new state space duality layer is more efficient and scalable compared to the approach used in Mamba; it also improves results on tasks that require large state capacity.   | [Paper](https://arxiv.org/abs/2405.21060), [Tweet](https://x.com/_albertgu/status/1797651223035904355) |
+| 4) **MatMul-free LLMs** - proposes an implementation that eliminates matrix multiplication operations from LLMs while maintaining performance at billion-parameter scales; the performance between full precision Transformers and the MatMul-free models narrows as the model size increases; claims that by using an optimized kernel during inference, memory consumption is reduced by more than 10x.  | [Paper](https://arxiv.org/abs/2406.02528), [Tweet](https://x.com/omarsar0/status/1798373841741185261) |
+| 5) **Buffer of Thoughts** - presents a thought-augmented reasoning approach to enhance the accuracy, efficiency, and robustness of LLM-based reasoning; it leverages a meta-buffer containing high-level thoughts (thought templates) distilled from problem-solving processes; the relevant thought template is then retrieved and instantiated with task-specific reasoning structures for the thought-augmented reasoning process; it demonstrates SOTA performance on 10 challenging tasks while requiring 12% of the cost of multi-query prompting methods like Tree-of-Thoughts.  | [Paper](https://arxiv.org/abs/2406.04271), [Tweet](https://x.com/omarsar0/status/1799113545696567416) |
+| 6) **SaySelf** - a training framework to teach LLMs to express more accurate fine-grained confidence estimates and self-reflective rationales; it performs supervised finetuning on a dataset that contains summaries of the difference between multiple reasoning chains; reinforcement learning is then applied to calibrate confidence estimates, encouraging the LLM to produce accurate, high-confidence predictions and penalize overconfidence in erroneous outputs. | [Paper](https://arxiv.org/abs/2405.20974),  [Tweet](https://x.com/omarsar0/status/1797682549608833477) |
+| 7) **The Geometry of Concepts in LLMs** - studies the geometry of categorical concepts and how the hierarchical relations between them are encoded in LLMs; finds that simple categorical concepts are represented as simplices by the LLMs and complex concepts are represented as polytopes constructed from direct sums of simplices, which reflect the hierarchical structure.  | [Paper](https://arxiv.org/abs/2406.01506),  [Tweet](https://x.com/omarsar0/status/1798010546522103898) |
+| 8) **Aligning LLMs with Demonstrated Feedback** - proposes a method to align LLMs to a specific setting via a very small number of demonstrations as feedback; it aligns LLM outputs to a user’s demonstrated behaviors and can learn fine-grained style and task alignment across domains; outperforms few-shot prompting, SFT, and self-play methods on the tested benchmarks. | [Paper](https://arxiv.org/abs/2406.00888),  [Tweet](https://x.com/arankomatsuzaki/status/1797833884463472653) |
+| 9) **Towards Scalable Automated Alignment of LLMs** - provides an overview of methods used for alignment of LLMs; explores the 4 following directions: 1) aligning through inductive bias, 2) aligning through behavior imitation, 3) aligning through model feedback, and 4) aligning through environment feedback. | [Paper](https://arxiv.org/abs/2406.01252), [Tweet](https://x.com/omarsar0/status/1798014572663583165)  |
+| 10) **AgentGym** - a new framework featuring various environments and tasks for broad, real-time, and concurrent agent exploration; builds a generally capable LLM-based agent with self-evolution abilities and explores its potential beyond previously seen data across tasks and environments. | [Paper](https://arxiv.org/abs/2406.04151), [Tweet](https://x.com/arankomatsuzaki/status/1798904095669121443) |
 
 ## Top ML Papers of the Week (May 27 - June 2) - 2024
 | **Paper**  | **Links** |
