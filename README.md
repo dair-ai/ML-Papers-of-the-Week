@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (August 19 - August 25)](./#top-ml-papers-of-the-week-august-19---august-25---2024)
 - [Top ML Papers of the Week (August 12 - August 18)](./#top-ml-papers-of-the-week-august-12---august-18---2024)
 - [Top ML Papers of the Week (August 5 - August 11)](./#top-ml-papers-of-the-week-august-5---august-11---2024)
 - [Top ML Papers of the Week (July 29 - August 4)](./#top-ml-papers-of-the-week-july-29---august-4---2024)
@@ -99,6 +100,21 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (August 19 - August 25) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **Automate Design of Agentic Systems** - presents Meta Agent Search, a meta agent that iteratively programs and tests new agents based on a growing archive of previous discoveries; claims that with their approach it is possible to learn any possible agentic system including prompts, tool use, control flows, and more; they achieve this by focusing on three main components referred to as search space (define agents), search algorithm (explore search space), and the evaluation function (evaluate candidate agents).   | [Paper](https://arxiv.org/abs/2408.08435), [Tweet](https://x.com/omarsar0/status/1825378027347271719) |
+| 2) **LLM Pruning and Distillation in Practice** - provides a comprehensive report on effective methods for compressing Llama 3.1 and Mistral NeMo models; it presents pruning and distillation approaches applied to the original models to produce 4B and 8B parameter models, respectively; before pruning, they also fine-tune the teacher model on their datasets leading to better distillation; their compression strategy yields a state-of-the-art 8B model (MN-Minitron-8B) which outperforms all similarly-sized models on common language modeling benchmarks. | [Paper](https://arxiv.org/abs/2408.11796), [Tweet](https://x.com/omarsar0/status/1826676365044675042) |
+| 3) **Vizier Gaussian Process Bandit Algorithm** - presents Vizier, an algorithm based on Gaussian process bandit optimization used by Google for millions of optimizations and research; it provides an open-source Python implementation of the Vizier algorithm, including benchmarking results that demonstrate its wider applicability.  | [Paper](https://arxiv.org/abs/2408.11527), [Tweet](https://x.com/XingyouSong/status/1826554454084333723) |
+| 4) **Language Modeling on Tabular Data** - presents a comprehensive survey of language modeling techniques for tabular data; includes topics such as categorization of tabular data structures and data types, datasets used for model training and evaluation, modeling techniques and training objectives, data processing methods, popular architectures, and challenges and future research directions.  | [Paper](https://www.arxiv.org/abs/2408.10548), [Tweet](https://x.com/omarsar0/status/1826094372179366023) |
+| 5) **Enhancing Robustness in LLMs** - proposes a two-stage prompting technique to remove irrelevant information from context; it serves as a self-mitigation process that first identifies the irrelevant information and then filters it out; this leads to enhancement in robustness of the model and overall better performance on reasoning tasks. | [Paper](https://arxiv.org/abs/2408.10615), [Tweet](https://x.com/omarsar0/status/1826451091774447983) |
+| 6) **A Comprehensive Overview of GraphRAG Methods** - focuses on techniques applied to the GraphRAG workflow (graph-based indexing, graph-guided retrieval, and graph-enhanced generation); examines tasks, applications, evaluation, and industrial use cases of GraphRAG. | [Paper](https://arxiv.org/abs/2408.08921),  [Tweet](https://x.com/omarsar0/status/1825937537782698377)  |
+| 7) **MagicDec** - shows how speculative decoding can enhance throughput, reduce latency, and maintain accuracy in long context generation scenarios; it finds that as sequence length and batch size increase, bottlenecks shift from compute-bound to memory-bound; using these insights, they show it's possible to more effectively use speculative decoding for longer sequences, even when using large batch sizes.  | [Paper](https://arxiv.org/abs/2408.11049),  [Tweet](https://x.com/omarsar0/status/1826090969906778122)  |
+| 8) **Controllable Text Generation for LLMs** - provides a comprehensive survey on methods for controllable text generation in LLMs; discusses issues like safety, consistency, style, and helpfulness.  | [Paper](https://arxiv.org/abs/2408.12599),  [Tweet](https://x.com/omarsar0/status/1826824199010132429)  |
+| 9) **PEDAL** - uses a hybrid self-ensembling approach (based on diverse exemplars) to improve the overall performance of LLMs; specifically, it uses diverse exemplars to generate multiple candidate responses and then aggregates them using an LLM to generate a final response; this approach achieves better accuracy compared to greedy decoding and lower cost compared to self-consistency approaches.  | [Paper](https://arxiv.org/abs/2408.08869), [Tweet](https://x.com/omarsar0/status/1825373675631071609)  |
+| 10) **Challenges and Responses in the Practice of LLMs** - curates a set of important questions with insightful answers; questions are categorized across topics such as infrastructure, software architecture, data, application, and brain science. | [Paper](https://arxiv.org/abs/2408.09416), [Tweet](https://x.com/omarsar0/status/1825932441980162374) |
+
 
 ## Top ML Papers of the Week (August 12 - August 18) - 2024
 | **Paper**  | **Links** |
