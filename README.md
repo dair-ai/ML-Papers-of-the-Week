@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (August 26 - September 1)](./#top-ml-papers-of-the-week-august-26---september-1---2024)
 - [Top ML Papers of the Week (August 19 - August 25)](./#top-ml-papers-of-the-week-august-19---august-25---2024)
 - [Top ML Papers of the Week (August 12 - August 18)](./#top-ml-papers-of-the-week-august-12---august-18---2024)
 - [Top ML Papers of the Week (August 5 - August 11)](./#top-ml-papers-of-the-week-august-5---august-11---2024)
@@ -100,6 +101,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (August 26 - September 1) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **GameGen** - a game engine powered by a diffusion model that enables real-time interaction with complex environments over long trajectories; uses a two-phase training process involving an RL agent to learn and a diffusion model to generate frames; it can interactively simulate DOOM over at 20 fps on a single TPU. | [Paper](https://arxiv.org/abs/2408.14837), [Tweet](https://x.com/iScienceLuvr/status/1828617875432841490) |
+| 2) **Agentic RAG for Time Series Analysis** - proposes an agentic RAG framework for time series analysis; uses a multi-agent architecture where an agent orchestrates specialized sub-agents to complete time-series tasks; the sub-agents leverage tuned small language models and can retrieve relevant prompts containing knowledge about historical patterns and trends; this helps to improve predictions on new data. | [Paper](https://arxiv.org/abs/2408.14484), [Tweet](https://x.com/omarsar0/status/1828838209461043455) |
+| 3) **AutoGen Studio** - a low-code interface for rapidly prototyping AI agents. It's built on top of the AutoGen framework and can also be used for debugging and evaluating multi-agent workflows.  | [Paper](https://arxiv.org/abs/2408.15247), [Tweet](https://x.com/omarsar0/status/1829163090715529358) |
+| 4) **Persuasion Games with LLMs** - claims that a multi-agent framework can be used to improve the persuasive efficacy of LLMs; the primary agent engages in persuasive dialogue while auxiliary agents perform key tasks like response analysis and information retrieval; finds that LLMs are capable of creating a perspective change in the users and persuading them to make a purchase decision; for instance, Sales agents can achieve a 71% positive shift in user perspectives. | [Paper](https://arxiv.org/abs/2408.15879), [Tweet](https://x.com/omarsar0/status/1829156960291185117) |
+| 5) **Smaller, Weaker, Yet Better** - finds that weaker + cheaper (WC) models can generate better synthetic data for fine-tuning models compared to data generated with stronger but more expensive models; overall, results suggest that WC models may be a compute-optimal approach for training advanced LLM reasoners.   | [Paper](https://arxiv.org/abs/2408.16737), [Tweet](https://x.com/omarsar0/status/1829526629787242878) |
+| 6) **Transfusion** - presents a training recipe to train multi-modal models over discrete and continuous data; combines next token prediction with diffusion to train transformer models over mixed-modality sequences; shows that it’s possible to scale from 7B parameter models to 2T multi-modal tokens that can compete in performance with similar scale diffusion and language models.  | [Paper](https://www.arxiv.org/abs/2408.11039),  [Tweet](https://x.com/AIatMeta/status/1828836885176967327)  |
+| 7) **ReMamba** - investigates the long-context capabilities and efficiencies of Mamba models; the long-context deficiency issues are due to Mamba's RNN-like nature; it achieves this by condensing information via the following compression strategy: the top-k hidden states during the first forward pass and leverages Mamba’s selective mechanism to incorporate them into the state space during the second forward pass; achieves a 3.2 improvement over the baseline on LongBench and 1.6 improvement on L-Eval; the strategy seems to also transfer to Mamba 2.  | [Paper](https://arxiv.org/abs/2408.15496),  [Tweet](https://x.com/omarsar0/status/1829151312266637813)  |
+| 8) **Text2SQL is Not Enough** - proposes Table-Augmented Generation (TAG), a unified framework for answering natural language questions over databases; it represents a wider range of unexplored interactions between LLMs and databases; develops a benchmark and finds that standard methods answer no more than 20% of queries correctly.  | [Paper](https://arxiv.org/abs/2408.14717v1),  [Tweet](https://x.com/lianapatel_/status/1828939097487945948)  |
+| 9) **Foundation Models for Music** - provides a comprehensive overview of state-of-the-art pre-trained models and foundation models in music. | [Paper](https://arxiv.org/abs/2408.14340), [Tweet](https://x.com/omarsar0/status/1828456481114538437)  |
+| 10) **Guide to Continual Multimodal Pretraining** - a comprehensive guide on continual multimodal pertaining; introduces FoMo-In-Flux, a large-scale fine-grained and long horizon continual pretraining benchmark. | [Paper](https://arxiv.org/abs/2408.14471), [Tweet](https://arxiv.org/abs/2408.14471) |
 
 ## Top ML Papers of the Week (August 19 - August 25) - 2024
 | **Paper**  | **Links** |
