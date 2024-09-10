@@ -103,7 +103,7 @@ Here is the weekly series:
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
-## Top ML Papers of the Week (August 26 - September 1) - 2024
+## Top ML Papers of the Week (September 2 - September 8) - 2024
 | **Paper**  | **Links** |
 | ------------- | ------------- |
 | 1) **AlphaProteo** - presents a family of ML models trained for protein design; reports a 3-to 300-fold better binding affinities and higher experimental success rates compared to other existing methods on seven target proteins; shows that AlphaProteo’s performance on hundreds of target proteins from the PDB is comparable to the seven targets.  | [Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/AlphaProteo2024.pdf), [Tweet](https://x.com/GoogleDeepMind/status/1831710991475777823) |
