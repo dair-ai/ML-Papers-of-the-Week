@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (September 2 - September 8)](./#top-ml-papers-of-the-week-september-2---september-8---2024)
 - [Top ML Papers of the Week (August 26 - September 1)](./#top-ml-papers-of-the-week-august-26---september-1---2024)
 - [Top ML Papers of the Week (August 19 - August 25)](./#top-ml-papers-of-the-week-august-19---august-25---2024)
 - [Top ML Papers of the Week (August 12 - August 18)](./#top-ml-papers-of-the-week-august-12---august-18---2024)
@@ -101,6 +102,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (August 26 - September 1) - 2024
+| **Paper**  | **Links** |
+| ------------- | ------------- |
+| 1) **AlphaProteo** - presents a family of ML models trained for protein design; reports a 3-to 300-fold better binding affinities and higher experimental success rates compared to other existing methods on seven target proteins; shows that AlphaProteo’s performance on hundreds of target proteins from the PDB is comparable to the seven targets.  | [Paper](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/AlphaProteo2024.pdf), [Tweet](https://x.com/GoogleDeepMind/status/1831710991475777823) |
+| 2) **RAG in the Era of Long-Context LLMs** - reports that longer-context LLMs suffer from a diminished focus on relevant information, which is one of the primary issues that a RAG system addresses (i.e., uses more relevant information); they propose an order-preserving RAG mechanism that improves performance on long-context question answering; it's not perfect and in fact, as retrieved chunks increase the quality of responses go up and then declines; they mention a sweet spot where it can achieve better quality with a lot fewer tokens than long-context LLMs. | [Paper](https://arxiv.org/abs/2409.01666), [Tweet](https://x.com/omarsar0/status/1831389521839267888) |
+| 3) **Strategic Chain-of-Thought** - a method to refine LLM performance by incorporating strategic knowledge before the intermediate CoT reasoning steps; the problem-solving strategy helps to guide the generation of the CoT paths and final answers; claims to achieve a 21.05% increase on the GSM8K datasets using the Llama3-8b model.  | [Paper](https://arxiv.org/abs/2409.03271v1) |
+| 4) **Effective of AI on High Skilled Work** - studies the impact of generative AI on software developers; reveals a 26.08% increase in the number of completed tasks among the developers that use AI tools like GitHub Copilot; also shows that less experienced developers are likely to adopt the AI tools and have greater productivity gains.  | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566), [Tweet](https://x.com/emollick/status/1831739827773174218) |
+| 5) **OLMoE** - introduces a fully-open LLM that leverages sparse Mixture-of-Experts. OLMoE is a 7B parameter model and uses 1B active parameters per input token; there is also an instruction-tuned version that claims to outperform Llama-2-13B-Chat and DeepSeekMoE 16B.  | [Paper](https://arxiv.org/abs/2409.02060), [Tweet](https://x.com/omarsar0/status/1831357563620753577) |
+| 6) **LongCite** - synthesizes a large-scale SFT dataset with off-the-shelf LLMs to improve long-context question answering with citations; it trains 8B and 9B parameter models that enhance citation generation capabilities from lengthy contexts while improving response correctness; claims to even surpass GPT-4o on their proposed LongBench-Cite benchmark.   | [Paper](https://arxiv.org/abs/2409.02897),  [Tweet](https://x.com/omarsar0/status/1831522905009828051)  |
+| 7) **MemLong** - utilizes an external retriever for retrieving historical information which enhances the capabilities of long-context LLMs; it consistently outperforms other SoTA LLMs on long-context benchmarks and can extend the context length on a single 3090 GPU from 4k up to 80k.  | [Paper](https://arxiv.org/abs/2408.16967),  [Tweet](https://x.com/omarsar0/status/1830610367854112799)  |
+| 8) **Role of RAG Noise in LLMs** - proposes a benchmark (NoiserBench) to measure how different kinds of noisy information affect RAG's performance; reports that from different kinds of beneficial noise studied (e.g., semantic, datatype, and illegal sentence), illegal sentence noise exhibits the most improved model performance across models and datasets.   | [Paper](https://arxiv.org/abs/2408.13533),  [Tweet](https://x.com/omarsar0/status/1830984315326660617)  |
+| 9) **Beyond Preference in AI Alignment** - challenges the dominant practice of AI alignment known as human preference tuning; explains in what ways human preference tuning fails to capture the thick semantic content of human values; argues that AI alignment needs reframing, instead of aligning on human preferences, AI should align on normative standards appropriate to their social roles. | [Paper](https://arxiv.org/abs/2408.16984), [Tweet](https://x.com/xuanalogue/status/1831044533779669136)  |
+| 10) **LLM-Based Agents for Software Engineering** - a survey paper on LLM-based agents for software engineering, covering perspectives ranging from requirement engineering to test generation to software maintenance. | [Paper](https://arxiv.org/abs/2409.02977), [Tweet](https://x.com/omarsar0/status/1832115557749121385) |
 
 ## Top ML Papers of the Week (August 26 - September 1) - 2024
 | **Paper**  | **Links** |
