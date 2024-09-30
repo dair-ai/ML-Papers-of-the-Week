@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (September 23 - September 29)](./#top-ml-papers-of-the-week-september-23---september-29---2024)
 - [Top ML Papers of the Week (September 16 - September 22)](./#top-ml-papers-of-the-week-september-16---september-22---2024)
 - [Top ML Papers of the Week (September 9 - September 15)](./#top-ml-papers-of-the-week-september-9---september-15---2024)
 - [Top ML Papers of the Week (September 2 - September 8)](./#top-ml-papers-of-the-week-september-2---september-8---2024)
@@ -104,6 +105,23 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (September 23 - September 29) - 2024
+| **Paper**  | **Links** | 
+| ------------- | ------------- | 
+| 1) **Llama 3.2** - presents small and medium-sized vision LLMs (11B and 90B parameters), and lightweight, text-only models (1B and 3B); the text-only models are trained to support context length of 128K tokens and outperform other models in their class on a range of tasks; vision models exceed other models such as Claude 3 Haiku on image understanding tasks. | [Paper](https://ai.meta.com/llama/), [Tweet](https://twitter.com/Doctor_Zou/status/1782752058124554272) | 
+| 2)  **Molmo**  - presents a family of open, state-of-the-art multimodal AI models; the 72B model in the Molmo family outperforms others in the class of open weight and data models; it also compares favorably against proprietary models like GPT-4o, Claude 3.5, and Gemini 1.5 on several benchmarks. | [Paper](https://arxiv.org/abs/2409.14355), [Tweet](https://twitter.com/emmanuel_vincze/status/1708249637918752987) | 
+| 3) **AlphaChip**  - a reinforcement learning-based method trained to design the physical layout of chips; AlphaChip is reportedly used in three additional generations of Google’s TPU; this release includes an open-source implementation of the method to help pre-train on a variety of chip blocks to apply to new blocks; also releases a model checkpoint pre-trained on 20 TPU blocks. | [Paper](https://www.nature.com/articles/s41586-023-06188-7), [Tweet](https://twitter.com/GoogleAI/status/1676118998259507200) | 
+| 4) **LLMs Still Can’t Plan**  - evaluates whether large reasoning models such as o1 can plan; finds that a domain-independent planner can solve all instances of Mystery Blocksworld but LLMs struggle, even on small instances; o1-preview is effective on the task but tend to degrade in performance as plan length increases, concludes that while o1 shows progress on more challenging planning problems, the accuracy gains cannot be considered general or robust. |  [Paper](https://arxiv.org/abs/2405.00658), [Tweet](https://twitter.com/johnxschulman/status/1657558270450917378) | 
+| 5) **Scaled-up Instructable Model Become Less Reliable**  - suggests that larger and more instructable LLMs may become less reliable; investigates LLMs across three elements: difficulty concordance, task avoidance, and prompting stability; finds that early models often avoid user questions but scaled-up, shaped-up models tend to give an apparently sensible yet wrong answer much more often, including errors on difficult questions that human supervisors frequently overlook. |  [Paper](https://arxiv.org/abs/2210.14379), [Tweet](https://twitter.com/rylanmshea/status/1583460628966346752) | 
+| 6) **Logic-of-Thought**  - proposes a new prompting technique called Logic-of-Thought (LoT) which employs propositional logic to generate and inject expanded logical information from the input context; it enhances CoT performance on the ReClor dataset by +4.35%; it improves CoT+SelfConsistency’s performance on LogiQA by +5%; it also boosts the performance of ToT on the ProofWriter dataset by +8%.  | [Paper](https://arxiv.org/abs/2409.11371), [Tweet](https://twitter.com/IsItPerplexity/status/1704255260019798052) | 
+| 7) **RAG and Beyond**  - presents a survey that introduces a RAG task categorization method that helps to classify user queries into four levels according to the type of external data required and the focus of the task; summarizes key challenges in building robust data-augmented LLM applications and the most effective techniques for addressing them. |  [Paper](https://arxiv.org/abs/2409.01206), [Tweet](https://twitter.com/mishigna/status/1703461946958463118) | 
+| 8) **A Preliminary Study of o1 in Medicine**  - provides a preliminary exploration of the o1-preview model in medical scenarios; shows that o1 surpasses the previous GPT-4 in accuracy by an average of 6.2% and 6.6% across 19 datasets and two newly created complex QA scenarios; identifies hallucination, inconsistent multilingual ability, and discrepant metrics for evaluation. | [Paper](https://arxiv.org/abs/2408.02836), [Tweet](https://twitter.com/RichardEvans_AI/status/1691963090436067397) | 
+| 9) **Small Language Models Survey**  - a comprehensive survey on small language models (SLMs) across architectures, training datasets, and training algorithms; analyzes 59 state-of-the-art open-source SLMs and capabilities such as reasoning, in-context learning, maths, and coding; other discussions include on-device runtime costs, latency, memory footprint, and valuable insights.  | [Paper](https://arxiv.org/abs/2308.12238), [Tweet](https://twitter.com/sebatian_ruder/status/1691611318636159002) | 
+| 10) **Minstrel**  - a multi-generative agent system with reflection capabilities to automate structural prompt generation; it presents LangGPT, an extensible framework for designing prompts; Minstrel is built on top of LangGPT and experiments demonstrate that structural prompts (either generated by Minstrel or written manually) perform better in guiding LLMs to perform tasks. | [Paper](https://arxiv.org/abs/2409.05563), [Tweet](https://twitter.com/LiZhang1351/status/1702992849091985677) | 
+
+
+
 
 ## Top ML Papers of the Week (September 16 - September 22) - 2024
 | **Paper**  | **Links** |
