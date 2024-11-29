@@ -114,7 +114,7 @@ Here is the weekly series:
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
 
-## Top ML Papers of the Week (November 11 - November 17) - 2024
+## Top ML Papers of the Week (November 18 - November 24) - 2024
 | **Paper**  | **Links** | 
 | ------------- | ------------- | 
 | 1) **AlphaQubit** - a new AI-based decoder that sets a state-of-the-art benchmark for identifying errors in quantum computers; using transformer architecture, AlphaQubit demonstrated 6% fewer errors than tensor network methods and 30% fewer errors than correlated matching when tested on the Sycamore data; shows promising results in simulations of larger systems up to 241 qubits; while this represents significant progress in quantum error correction, the system still needs improvements in speed before it can correct errors in real-time for practical quantum computing applications.  | [Paper](https://www.nature.com/articles/s41586-024-08148-8), [Tweet](https://x.com/GoogleDeepMind/status/1859273133234192598) |
