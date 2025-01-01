@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (November 25 - December 1)](./#top-ml-papers-of-the-week-november-25---december-1---2024)
 - [Top ML Papers of the Week (November 18 - November 24)](./#top-ml-papers-of-the-week-november-18---november-24---2024)
 - [Top ML Papers of the Week (November 11 - November 17)](./#top-ml-papers-of-the-week-november-11---november-17---2024)
 - [Top ML Papers of the Week (November 4 - November 10)](./#top-ml-papers-of-the-week-november-4---november-10---2024)
@@ -113,6 +114,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (November 25 - December 1) - 2024
+| **Paper**  | **Links** | 
+| ------------- | ------------- | 
+| 1) **LLM Surpass Human Experts in Predicting Neuroscience Results** - proposes BrainBench to study how good LLMs are at predicting experimental outcomes in neuroscience; they tuned an LLM, BrainGPT, on neuroscience literature that surpasses experts in predicting neuroscience results; report that when LLMs indicated high confidence in their predictions, their responses were more likely to be correct. | [Paper](https://www.nature.com/articles/s41562-024-02046-9), [Tweet](https://x.com/omarsar0/status/1861781028291190887) |
+| 2) **Fugatto** - a new generative AI sound model (presented by NVIDIA) that can create and transform any combination of music, voices, and sounds using text and audio inputs, trained on 2.5B parameters and capable of novel audio generation like making trumpets bark or saxophones meow.  | [Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/FUGATTO.pdf), [Tweet](https://x.com/NVIDIAAIDev/status/1861052624352825383) |
+| 3) **o1 Replication Journey - Part 2** - shows that combining simple distillation from o1's API with supervised fine-tuning significantly boosts performance on complex math reasoning tasks; a base model fine-tuned on simply tens of thousands of samples o1-distilled long-thought chains outperform o1-preview on the American Invitational Mathematics Examination (AIME).   | [Paper](https://arxiv.org/abs/2411.16489), [Tweet](https://x.com/omarsar0/status/1861411844554113276) |
+| 4) **LLM-Brained GUI Agents** - presents a survey of LLM-brained GUI Agents, including techniques and applications.   | [Paper](https://arxiv.org/abs/2411.18279), [Tweet](https://x.com/omarsar0/status/1862133601040752820) |
+| 5) **High-Level Automated Reasoning** - extends in-context learning through high-level automated reasoning; achieves state-of-the-art accuracy (79.6%) on the MATH benchmark with Qwen2.5-7B-Instruct, surpassing GPT-4o (76.6%) and Claude 3.5 (71.1%); rather than focusing on manually creating high-quality demonstrations, it shifts the focus to abstract thinking patterns; it introduces five atomic reasoning actions to construct chain-structured patterns; then it uses Monte Carlo Tree Search to explore reasoning paths and construct thought cards to guide inference.  | [Paper](https://arxiv.org/abs/2411.18478), [Tweet](https://x.com/omarsar0/status/1862131336653533584) |
+| 6) **Star Attention: Efficient LLM Inference over Long Sequences** - introduces Star Attention, a two-phase attention mechanism that processes long sequences by combining blockwise-local attention for context encoding with sequence-global attention for query processing and token generation; achieves up to 11x faster inference speeds while maintaining 95-100% accuracy compared to traditional attention mechanisms by efficiently distributing computation across multiple hosts; a key innovation is the "anchor block" mechanism, where each context block is prefixed with the first block, enabling effective approximation of global attention patterns while reducing computational overhead.  | [Paper](https://arxiv.org/abs/2411.17116),  [Tweet](https://x.com/omarsar0/status/1861854543694406109)  |
+| 7) **Survey on LLM-as-a-Judge** - provides a comprehensive survey of LLM-as-a-Judge, including a deeper discussion on how to build reliable LLM-as-a-Judge systems. | [Paper](https://arxiv.org/abs/2411.15594),  [Tweet](https://x.com/omarsar0/status/1861411159913472229)  |
+| 8) **TÜLU 3** - releases a family of fully-open state-of-the-art post-trained models, alongside its data, code, and training recipes, serving as a comprehensive guide for modern post-training techniques.   | [Paper](https://arxiv.org/abs/2411.15124),  [Tweet](https://x.com/omarsar0/status/1861085195950256335)  |
+| 9) **Generative Agent Simulations of 1,000 People** - introduces a new agent architecture that uses LLMs to create behavioral simulations of real individuals, achieving 85% accuracy in replicating human responses on the General Social Survey and reducing demographic biases compared to traditional approaches.  | [Paper](https://arxiv.org/abs/2411.10109), [Tweet](https://x.com/percyliang/status/1861136757435015580)  |
+| 10) **Measuring Bullshit in Language Games Played by ChatGPT** - proposes that LLM-based chatbots play the ‘language game of bullshit’; by asking ChatGPT to generate scientific articles on topics where it has no knowledge or competence, the authors were able to provide a reference set of how this “bullshit” is manifested.  | [Paper](https://arxiv.org/abs/2411.15129), [Tweet](https://x.com/omarsar0/status/1861066315789942978) |
 
 ## Top ML Papers of the Week (November 18 - November 24) - 2024
 | **Paper**  | **Links** | 
