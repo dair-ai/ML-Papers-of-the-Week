@@ -7,6 +7,7 @@ At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight t
 Here is the weekly series:
 
 ## 2024
+- [Top ML Papers of the Week (December 16 - December 22)](./#top-ml-papers-of-the-week-december-16---december-22---2024)
 - [Top ML Papers of the Week (December 9 - December 15)](./#top-ml-papers-of-the-week-december-9---december-15---2024)
 - [Top ML Papers of the Week (December 2 - December 8)](./#top-ml-papers-of-the-week-december-2---december-8---2024)
 - [Top ML Papers of the Week (November 25 - December 1)](./#top-ml-papers-of-the-week-november-25---december-1---2024)
@@ -116,6 +117,20 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Top ML Papers of the Week (December 16 - December 22) - 2024
+| **Paper**  | **Links** | 
+| ------------- | ------------- | 
+| 1) **Genesis** - a new universal physics simulation platform that combines a high-performance physics engine with generative AI capabilities; it enables natural language-driven creation of robotic simulations, character animations, and interactive 3D environments at speeds up to 430,000 times faster than in real-time. | [Paper](https://genesis-embodied-ai.github.io/), [Tweet](https://x.com/zhou_xian_/status/1869511650782658846) |
+| 2) **Alignment Faking in LLMs** - demonstrates that the Claude model can engage in "alignment faking"; it can strategically comply with harmful requests to avoid retraining while preserving its original safety preferences; this raises concerns about the reliability of AI safety training methods.  | [Paper](https://arxiv.org/abs/2412.14093), [Tweet](https://x.com/AnthropicAI/status/1869427646368792599) |
+| 3) **TheAgentCompany** - a new benchmark for evaluating AI agents on real-world professional tasks in a simulated software company environment; tasks span multiple professional roles including software engineering, project management, finance, and HR; when tested with various LLMs, including both API-based models like Claude-3.5-Sonnet and open-source models like Llama 3.1, the results show the current limitations of AI agents. The best-performing model, Claude-3.5-Sonnet, achieved only a 24% success rate on completing tasks fully while scoring 34.4% when accounting for partial progress.   | [Paper](https://arxiv.org/abs/2412.14161), [Tweet](https://x.com/gneubig/status/1869735196700062089) |
+| 4) **Graphs to Text-Attributed Graphs** - automatically generates textual descriptions for nodes in a graph which leads to effective graph to text-attributed graph transformation; evaluates the approach on text-rich, text-limited, and text-free graphs, demonstrating that it enables a single GNN to operate across diverse graphs.  | [Paper](https://arxiv.org/abs/2412.10136), [Tweet](https://x.com/omarsar0/status/1868691391129272461) |
+| 5) **Qwen-2.5 Technical Report** - Alibaba releases Qwen2.5, a new series of LLMs trained on 18T tokens, offering both open-weight models like Qwen2.5-72B and proprietary MoE variants that achieve competitive performance against larger models like Llama-3 and GPT-4. | [Paper](https://arxiv.org/abs/2412.15115), [Tweet](https://x.com/Alibaba_Qwen/status/1869950647501824015) |
+| 6) **PAE (Proposer-Agent-Evaluator)** - a learning system that enables AI agents to autonomously discover and practice skills through web navigation, using reinforcement learning and context-aware task proposals to achieve state-of-the-art performance on real-world benchmarks.  | [Paper](https://arxiv.org/abs/2412.13194) |
+| 7) **DeepSeek-VL2** - a new series of vision-language models featuring dynamic tiling for high-resolution images and efficient MoE architecture, achieving competitive performance across visual tasks; achieves competitive or state-of-the-art performance with similar or fewer activated parameters compared to existing open-source dense and MoE-based models.   | [Paper](https://arxiv.org/abs/2412.10302),  [Tweet](https://x.com/omarsar0/status/1868696154067865659)  |
+| 8) **AutoFeedback** - a two-agent AI system that generates more accurate and pedagogically sound feedback for student responses in science assessments, significantly reducing common errors like over-praise compared to single-agent models.  | [Paper](https://arxiv.org/abs/2411.07407)  |
+| 9) **A Survey of Mathematical Reasoning in the Era of Multimodal LLMs** - presents a comprehensive survey analyzing mathematical reasoning capabilities in multimodal large language models (MLLMs), covering benchmarks, methodologies, and challenges across 200+ studies since 2021.   | [Paper](https://arxiv.org/abs/2412.11936), [Tweet](https://x.com/omarsar0/status/1870126516832792811)  |
+| 10) **Precise Length Control in LLMs** - adapts a pre-trained decoder-only LLM to produce responses of a desired length; integrates a secondary length-difference positional encoding into the input embeddings which enables counting down to a user-set response terminal length; claims to achieve mean token errors of less than 3 tokens without compromising quality. | [Paper](https://arxiv.org/abs/2412.11937), [Tweet](https://x.com/omarsar0/status/1869030043084845453) |
 
 ## Top ML Papers of the Week (December 9 - December 15) - 2024
 | **Paper**  | **Links** | 
