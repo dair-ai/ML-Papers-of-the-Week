@@ -14,10 +14,10 @@ Here is the weekly series:
 - [Top ML Papers of the Week (January 20 - January 26)](./#top-ml-papers-of-the-week-january-20---january-26---2025)
 - [Top ML Papers of the Week (January 13 - January 19)](./#top-ml-papers-of-the-week-january-13---january-19---2025)
 - [Top ML Papers of the Week (January 6 - January 12)](./#top-ml-papers-of-the-week-january-6---january-12---2025)
-- [Top ML Papers of the Week (January 1 - January 5)](./#top-ml-papers-of-the-week-january-1---january-5---2025)
 
 ## 2024
-- [Top ML Papers of the Week (December 23 - December 31)](./#top-ml-papers-of-the-week-december-23---december-31---2024)
+- [Top ML Papers of the Week (December 30 - January 5)](./#top-ml-papers-of-the-week-december-30---january-5---2025)
+- [Top ML Papers of the Week (December 23 - December 29)](./#top-ml-papers-of-the-week-december-23---december-29---2024)
 - [Top ML Papers of the Week (December 16 - December 22)](./#top-ml-papers-of-the-week-december-16---december-22---2024)
 - [Top ML Papers of the Week (December 9 - December 15)](./#top-ml-papers-of-the-week-december-9---december-15---2024)
 - [Top ML Papers of the Week (December 2 - December 8)](./#top-ml-papers-of-the-week-december-2---december-8---2024)
@@ -171,7 +171,7 @@ Here is the weekly series:
 | 9) Can LLMs Design Good Questions? - systematically evaluates the quality of questions generated with LLMs; here are the main findings: 1) there is a strong preference for asking about specific facts and figures in both LLaMA and GPT models, 2) the question lengths tend to be around 20 words but different LLMs tend to exhibit distinct preferences for length, 3) LLM-generated questions typically require significantly longer answers, and 4) human-generated questions tend to concentrate on the beginning of the context while LLM-generated questions exhibit a more balanced distribution, with a slight decrease in focus at both ends. | [Paper](https://arxiv.org/abs/2501.03491), [Tweet](https://x.com/omarsar0/status/1877008618207560049) |
 | 10) A Survey on LLMs - a new survey on LLMs including some insights on capabilities and limitations. | [Paper](https://arxiv.org/abs/2501.04040), [Tweet](https://x.com/omarsar0/status/1877416049999802408) |
 
-## Top ML Papers of the Week (January 1 - January 5) - 2025
+## Top ML Papers of the Week (December 30 - January 5) - 2025
 | **Paper**  | **Links** | 
 | ------------- | ------------- | 
 | 1) Agents Are Not Enough - argues that while AI agents show promise, they alone cannot address the challenges in autonomous task execution; proposes a new ecosystem combining three key components: Agents (narrow, purpose-driven modules for specific tasks), Sims (digital representations of user preferences and behaviors), and Assistants (programs that coordinate between users, Sims, and Agents). | [Paper](https://www.arxiv.org/abs/2412.16241), [Tweet](https://x.com/omarsar0/status/1874196827115061741) |
@@ -185,7 +185,7 @@ Here is the weekly series:
 | 9) Memory Layers at Scale - demonstrates the effectiveness of memory layers at scale; shows that models with these memory layers outperform traditional dense models using half the computation, particularly in factual tasks; includes a parallelizable memory layer implementation that scales to 128B memory parameters and 1 trillion training tokens, tested against base models up to 8B parameters. | [Paper](https://arxiv.org/abs/2412.09764), [Tweet](https://x.com/AIatMeta/status/1874897646542033030) |
 | 10) HuatuoGPT-o1 - presents a novel approach to improving medical reasoning in language models by using a medical verifier to validate model outputs and guide the development of complex reasoning  abilities; the system employs a two-stage approach combining fine-tuning and reinforcement learning with verifier-based rewards, achieving superior performance over existing models while using only 40,000 verifiable medical problems. | [Paper](https://arxiv.org/abs/2412.18925), [Tweet](https://x.com/_akhaliq/status/1873572891092283692) |
 
-## Top ML Papers of the Week (December 23 - December 31) - 2024
+## Top ML Papers of the Week (December 23 - December 29) - 2024
 | **Paper**  | **Links** | 
 | ------------- | ------------- | 
 | 1) **DeepSeek-V3** - a 671B-parameter MoE language model that activates 37B parameters per token, utilizing MLA and DeepSeekMoE architectures for efficient operation; it introduces an auxiliary-loss-free load balancing approach and employs multi-token prediction during training to enhance performance; following pre-training on 14.8 trillion tokens, the model underwent SFT and RL stages, achieving performance comparable to leading closed-source models while surpassing other open-source alternatives; the model requires only 2.788M H800 GPU hours for training, with stable training that avoids any irrecoverable loss spikes.  | [Paper](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf), [Tweet](https://x.com/deepseek_ai/status/1872242657348710721) |
